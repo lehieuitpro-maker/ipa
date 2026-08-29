@@ -198,6 +198,22 @@
       "isLanZouCloud": 0,
       "size": 96065927,
       "type": 1
+    },
+    {
+      "name": "3105",
+      "bundleIdentifier": "com.apple.mobile.MobileHouseArrest",
+      "developerName": "YangJiiii",
+      "version": "1.1.1",
+      "buildVersion": "7",
+      "versionDate": "2026-08-29T02:19:30+00:00",
+      "versionDescription": "Cập nhật tự động từ IPA đã xác minh. Build 7.",
+      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/3105-v1.1.1-b7-acca0f6fb096/3105_v1.1.1_b7.ipa",
+      "localizedDescription": "Native iOS app-data browser, portable patch manager, limited cleaner, and PosterBoard wallpaper lab.",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/3105.png",
+      "tintColor": "4A90E2",
+      "isLanZouCloud": 0,
+      "size": 3281026,
+      "type": 1
     }
   ]
 }
