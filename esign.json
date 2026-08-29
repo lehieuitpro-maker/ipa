@@ -182,6 +182,22 @@
       "isLanZouCloud": 0,
       "size": 73615608,
       "type": 1
+    },
+    {
+      "name": "BiliBili -HD Anime, Videos",
+      "bundleIdentifier": "com.bstar.intl",
+      "developerName": "BALABOOM PTE LTD",
+      "version": "3.3.0",
+      "buildVersion": "3030100",
+      "versionDate": "2026-08-29T02:05:02+00:00",
+      "versionDescription": "Cập nhật tự động từ IPA đã xác minh. Build 3030100.",
+      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/bilibili--hd-anime-videos-v3.3.0-b3030100-23a001c52093/bilibili--hd-anime-videos_v3.3.0_b3030100.ipa",
+      "localizedDescription": "About This App\n\nThe TOP 1 Anime Platform in Southeast Asia, with the 2000+ licensed anime titles, offers you the ultimate anime viewing experience with multilingual support. \n\nBiliBili is not just about anime—it's your gateway to a thriving community filled with diverse, high-quality UGC. Dive into a world where creativity and connection come alive!\n\nExplore a New World of Short Dramas\n\nBiliBili now brings you hundreds of high-quality short dramas—concise, emotional, and endlessly binge-worthy. Dive into new life stories in just minutes. Alongside our vast anime library, the community is buzzing with even more to watch, share, and love.\n\nCatch April 2026 releases, now streaming!\n\nOne Piece Elbaph Arc officially begins: Step into the “Land of Giants” and uncover the secrets of the world’s strongest nation. \nFarming Life in Another World Season 2: A must-watch healing series, enjoy a slow-paced, cozy farming life in Isekai.\nThat Time I Got Reincarnated as a Slime Season 4: The vision of coexistence between humans and monsters faces hidden conspiracies and new conflicts.\n\nEnjoy timeless favorites, watch some of them for free\n\nOne Piece, Naruto: Shippuden, Hunter x Hunter, BLEACH, Detective Conan, SPY×FAMILY, Jujutsu Kaisen, Black Clover, Oshi No Ko, Dragon Ball Z, Attack on Titan, Demon Slayer: Kimetsu no Yaiba, Blue Lock, Haikyuu!, Tokyo Revengers, The Eminence in Shadow, Solo Leveling, Horimiya, Sword Art Online, Chainsaw Man, WIND BREAKER, Heaven Official's Blessing, The Daily Life of the Immortal King, etc.",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/bilibili--hd-anime-videos.jpg",
+      "tintColor": "4A90E2",
+      "isLanZouCloud": 0,
+      "size": 96065927,
+      "type": 1
     }
   ]
 }
