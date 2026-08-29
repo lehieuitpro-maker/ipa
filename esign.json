@@ -182,22 +182,6 @@
       "isLanZouCloud": 0,
       "size": 73615608,
       "type": 1
-    },
-    {
-      "name": "Bebi: Baby Games for Toddler",
-      "bundleIdentifier": "com.nextep.learning.kids.games",
-      "developerName": "Bebi Family Games",
-      "version": "10.09.76",
-      "buildVersion": "15",
-      "versionDate": "2026-08-29T00:57:42+00:00",
-      "versionDescription": "Imported from a verified IPA.",
-      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/bebi-baby-games-for-toddler-v10.09.76-b15-5a8f2f4914c1/bebi-baby-games-for-toddler_v10.09.76_b15.ipa",
-      "localizedDescription": "Bebi: Baby Games for Toddler iOS Mod IPA",
-      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/bebi.jpg",
-      "tintColor": "4A90E2",
-      "isLanZouCloud": 0,
-      "size": 1143285598,
-      "type": 1
     }
   ]
 }
