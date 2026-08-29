@@ -390,6 +390,22 @@
       "isLanZouCloud": 0,
       "size": 106262071,
       "type": 1
+    },
+    {
+      "name": "Nuvio",
+      "bundleIdentifier": "com.nuvio.media",
+      "developerName": "tapframe",
+      "version": "0.4.12",
+      "buildVersion": "116",
+      "versionDate": "2026-08-29T20:39:32+00:00",
+      "versionDescription": "Cập nhật tự động từ IPA đã xác minh. Build 116.",
+      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/nuvio-v0.4.12-b116-eefce854675c/nuvio_v0.4.12_b116.ipa",
+      "localizedDescription": "Built for every screen you watch on.",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/nuvio.png",
+      "tintColor": "4A90E2",
+      "isLanZouCloud": 0,
+      "size": 51718448,
+      "type": 1
     }
   ]
 }
