@@ -490,6 +490,22 @@
       "size": 208199429,
       "type": 1,
       "originalBundleIdentifier": "com.facebook.Facebook"
+    },
+    {
+      "name": "Plants vs. Zombies™ 3: Evolved",
+      "bundleIdentifier": "com.ea.ios.pvzn3xt",
+      "developerName": "Electronic Arts",
+      "version": "32.0.10",
+      "buildVersion": "1",
+      "versionDate": "2026-08-29T22:38:14+00:00",
+      "versionDescription": "Cập nhật tự động từ IPA đã xác minh. Build 1.",
+      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/plants-vs.-zombies-3-evolved-v32.0.10-b1-2653e67806e7/plants-vs.-zombies-3-evolved_v32.0.10_b1.ipa",
+      "localizedDescription": "This game includes optional in-game purchases of virtual currency that can be used to acquire virtual in-game items, including a random selection of virtual in-game items.\n\nWhether you love strategy games, fast-paced tower defense, or chaotic action, Plants vs. Zombies™ 3: Evolved delivers a fresh spin on defending against every zombie attack. Step into Neighborville today to grow, merge and experiment with new tactics as you help shape a wild, taco-fueled tower defense against Dr. Zomboss’ latest invasion!\n\nA NEW TWIST ON CLASSIC PvZ TOWER DEFENSE\nUse new tower defense mechanics to merge and upgrade plants into stronger forms with new powers, unlocking fresh tactics and creative ways to outsmart every zombie wave.\n\nREAL-TIME STRATEGY MEETS CHAOTIC ACTION\nTest your real‑time strategy skills across an expanding collection of tower defense levels spanning multiple biomes and unique environments, each designed to challenge your tactical thinking and fast-paced decision-making.\n\nMAKE NEIGHBORVILLE YOUR OWN\nCustomize and decorate your yard to create a space that feels uniquely yours, because why defend the lawn if you can’t do it in style? Join the Neighborville Watch to team up in community events, harvest rewards, and help keep Neighborville brains safe, bright, and weird.\n\nSTORY-DRIVEN LEVELS & ADVENTURES\nPlay through comic-inspired adventures filled with classic PvZ humor. Unlock new biomes, storylines, and zombie game variants as you progress.\n\nPLANT PASS REWARDS & CUSTOMIZATION\nMerge through themed seasons and earn plants, cosmetics, vanity items, and more. Advance your strategy game journey with unlocks that keep your plant defenses growing in an ever-zanier, ever-evolving tactical tower defense experience.\n\nDownload Plants vs. Zombies™ 3: Evolved today and test your ultimate tower defense strategy in the brain-iest, wackiest, and most chaotic PvZ yet.\n\nRequires acceptance of EA’s User Agreement. EA’s Privacy & Cookie Policy applies. You consent to any personal data collected through your use of EA’s services being transferred to the United States, as further explained in the Privacy & Cookie Policy. Requires an Internet connection (network fees may apply). EA may retire online features after 30 days’ notice posted on ea.com/service-updates.\n\n•    User Agreement: terms.ea.com \n•    Privacy and Cookie Policy: privacy.ea.com\n•    Visit help.ea.com for assistance or inquiries.\n\n© 2026 Electronic Arts Inc. Electronic Arts and Plants vs. Zombies are trademarks of Electronic Arts Inc.",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/plants-vs.-zombies-3-evolved.jpg",
+      "tintColor": "4A90E2",
+      "isLanZouCloud": 0,
+      "size": 162540375,
+      "type": 1
     }
   ]
 }
