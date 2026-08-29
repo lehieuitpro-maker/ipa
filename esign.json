@@ -22,16 +22,17 @@
       "name": "YouTube Music Ultimate",
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "hieudz",
-      "version": "8.44",
-      "versionDate": "2025-11-10T21:40:00+01:00",
-      "versionDescription": "YouTube Music Ultimate v2.3.1\n\n- Fixed downloads tab not working\n- Fixed local network permissions",
-      "downloadURL": "https://github.com/hieuitcz/YTMusicUltimate/releases/download/YouTube-Music/YTMusicUltimate.ipa",
+      "version": "9.11.2",
+      "versionDate": "2026-08-29T20:47:06+00:00",
+      "versionDescription": "Cập nhật tự động từ IPA đã xác minh. Build 9.11.2.",
+      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/youtube-music-ultimate-v9.11.2-b9.11.2-95f4366b6e03/youtube-music-ultimate_v9.11.2_b9.11.2.ipa",
       "localizedDescription": "Features:\n- Download audios, cover images\n- Remove ads\n- Background playback\n- Interface customization: Remove tabs or other elements, enable OLED mode\n- Player settings: Modify player elements, default playback mode\n- Built-in SponsorBlock\n- And much, much more\n\nYouTube Music Ultimate preferences can be found under YouTube Music settings",
       "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/ytmusic.png",
       "tintColor": "FF0033",
       "isLanZouCloud": 0,
-      "size": 77871912,
-      "type": 1
+      "size": 93340497,
+      "type": 1,
+      "buildVersion": "9.11.2"
     },
     {
       "name": "Spotify: Music and Podcasts",
