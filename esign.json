@@ -230,6 +230,22 @@
       "isLanZouCloud": 0,
       "size": 37821852,
       "type": 1
+    },
+    {
+      "name": "Meitu AI Photo & Video Editor",
+      "bundleIdentifier": "com.meitu.mtxx",
+      "developerName": "Meitu Technology Co., Ltd.",
+      "version": "11.25.0",
+      "buildVersion": "97831",
+      "versionDate": "2026-08-29T02:33:04+00:00",
+      "versionDescription": "Cập nhật tự động từ IPA đã xác minh. Build 97831.",
+      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/meitu-ai-photo-video-editor-v11.25.0-b97831-9bcd6e2b8c01/meitu-ai-photo-video-editor_v11.25.0_b97831.ipa",
+      "localizedDescription": "Meitu is the ultimate all-in-one AI editor for mobile. From professional AI retouching to viral digicam filters and Y2K aesthetic styles, Meitu gives you every tool to create stunning content for TikTok, Instagram Reels, and beyond.\n\nTHE FLASH DIGICAM FILTERS\n1. Digicam Filters: Get the iconic 2000s CCD camera look with one tap. Perfect for that nostalgic vintage aesthetic and photo dump edits.\n2. AI Flash Effect: Recreate the high-contrast flash photography style that's going viral across TikTok and Instagram — no extra gear needed.\n3. Film Grain & Vintage Filters: Add authentic film grain, golden hour tones, and retro color grading for that Pinterest-perfect aesthetic.\n\nREIMAGINE WITH AI\n1. AI Art & Avatars: Transform your selfies into stunning AI art, AI group photos, or digital avatars.\n2. AI Object Removal: Effortlessly erase photobombers, unwanted clutter, or people from your photos with seamless AI blending. No trace left behind.\n3. Photo Enhancer & Unblur: Instantly fix blurry photos and upscale to HD quality — restore old photos or sharpen any shot with one tap.\n\nBEAUTY RETOUCH & SELFIE EDITOR\n1. Face Retouch: Smooth skin, whiten teeth, enlarge eyes, and remove blemishes — the selfie editor trusted by content creators and influencers.\n2. Natural Body Shaping: Achieve flattering body edits with precise AI slimming tools. Look like your best self while keeping it real.\n3. Makeup & Hairstyle: Try virtual makeup looks and beauty filters for your next GRWM post or social media drop.\n\nALL-IN-ONE EDITING SUITE\n1. Aesthetic Collage Maker: Combine memories into a trending collage using hundreds of stylish layouts, aesthetic frames, and Pinterest-worthy designs.\n2. Background Remover: Cut out subjects, blur backgrounds, or swap scenes — perfect for content creation.\n\nPRO VIDEO EDITOR\n1. Cinematic Vlogs: Level up your short videos for TikTok and Reels with ease. Add trending music, animated text, and aesthetic video filters.\n2. Video Retouch: Apply real-time face smoothing and beauty effects to your videos for a consistent, polished influencer look.\n3. Vlog & Content Creator Tools: Everything a content creator needs — transitions, beauty filters, and cinematic styles — all in one video editor.\n\n【Meitu VIP】\nUnlock the full Meitu experience with a VIP subscription. Enjoy exclusive access to premium filters, templates, stickers, AR effects, and aesthetic frames. Remove watermarks from your exports, go ad-free for uninterrupted editing, and unlock VIP-only AI features including advanced retouching tools, premium digicam styles, and exclusive beauty effects. Upgrade to VIP+ for access across both mobile and desktop.\n\nFor the Terms of Use and Privacy Policy, please visit: https://pro.meitu.com/xiuxiu/agreements/gdpr.html?lang=en#en-policy \nContact us: global.support@meitu.com \nInstagram: @meitu.app | TikTok: @meituglobal",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/meitu-ai-photo-video-editor.jpg",
+      "tintColor": "4A90E2",
+      "isLanZouCloud": 0,
+      "size": 297375045,
+      "type": 1
     }
   ]
 }
