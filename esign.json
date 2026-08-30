@@ -1071,6 +1071,22 @@
       "isLanZouCloud": 0,
       "size": 58009698,
       "type": 1
+    },
+    {
+      "name": "Tachimanga",
+      "bundleIdentifier": "com.mangacrush.ios",
+      "developerName": "Tekbrio LLC",
+      "version": "4.20",
+      "buildVersion": "491",
+      "versionDate": "2026-08-30T23:46:19+00:00",
+      "versionDescription": "Cập nhật tự động từ IPA đã xác minh. Build 491.",
+      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/tachimanga-v4.20-b491-787b80981107/tachimanga_v4.20_b491.ipa",
+      "localizedDescription": "Discover a new world of manga with Tachimanga.\n- Supports manga in ZIP/CBZ and EPUB formats.\n- Supports reading manga from Komga, which is a self-hosted manga server.\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/tachimanga.jpg",
+      "tintColor": "4A90E2",
+      "isLanZouCloud": 0,
+      "size": 128137873,
+      "type": 1
     }
   ]
 }
