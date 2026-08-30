@@ -1281,6 +1281,30 @@
       ]
     },
     {
+      "name": "SideStore",
+      "bundleIdentifier": "com.SideStore.SideStore",
+      "developerName": "SideStore Team",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Kho ứng dụng thay thế do cộng đồng phát triển cho thiết bị iOS không jailbreak. SideStore cho phép sideload ứng dụng bằng Apple ID mà không cần AltServer và tự làm mới ứng dụng qua VPN. IPA yêu cầu iOS 15.0+; nếu gặp lỗi VPN trên iOS 26.4+, nhà phát triển khuyến nghị cài lại bằng iloader.",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/sidestore.png",
+      "tintColor": "#743BFF",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "0.6.3",
+          "minOSVersion": "14.0",
+          "date": "2026-05-05T03:59:02Z",
+          "size": 28632252,
+          "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.6.3/SideStore.ipa",
+          "localizedDescription": "SideStore 0.6.3: thêm LocalDevVPN, làm lại xác thực, cho phép tùy chỉnh App ID khi cài IPA thủ công, cập nhật Trusted Sources và sửa lỗi widget/VPN."
+        }
+      ]
+    },
+    {
       "name": "Học Cùng Bơ",
       "bundleIdentifier": "com.example.kidiosnative",
       "developerName": "lehieuit",
