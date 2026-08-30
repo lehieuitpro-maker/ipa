@@ -1087,6 +1087,22 @@
       "isLanZouCloud": 0,
       "size": 128137873,
       "type": 1
+    },
+    {
+      "name": "Simpia – Learn piano by songs",
+      "bundleIdentifier": "com.smulie.simpia",
+      "developerName": "SMULIE COMPANY LIMITED",
+      "version": "2.6.845",
+      "buildVersion": "2605221829",
+      "versionDate": "2026-08-30T23:47:24+00:00",
+      "versionDescription": "Cập nhật tự động từ IPA đã xác minh. Build 2605221829.",
+      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/simpia-learn-piano-by-songs-v2.6.845-b2605221829-47331cec0824/simpia-learn-piano-by-songs_v2.6.845_b2605221829.ipa",
+      "localizedDescription": "Before you start: To use all features of the app, you’ll need a real piano or a musical keyboard.\n\nSimpia is the fun, easy, and effective way to learn piano—from absolute beginner to confident pianist. Whether you're just starting or looking to enhance your skills, Simpia adapts to your level and helps you improve rapidly.\n\nPlay Your First Song Today\nSimpia works perfectly with any piano or keyboard, whether acoustic, digital, or MIDI controller. Simply place your device nearby, play along, and receive instant, precise feedback on your notes and rhythm.\n\nWhy Choose Simpia?\n- A step-by-step courses from beginner to advanced, crafted by professional educators and suitable for every level.\n- Instant AI feedback that tells you right away whether each note you play is correct.\n- Experience a variety of music genres, from classical to popular songs.\n- Personalized Learning: Customized daily workouts tailored specifically to your skill level and musical goals.\n- Advanced Tools: Comprehensive AI, MIDI and Bluetooth MIDI support for enhanced practice sessions.\n\nGet Started Free! \nEnjoy daily limited time free for all lessons and songs. \n\nOr Start your free trial today and experience all we have to offer!\nUpgrade to Premium for\n- Full access to all courses & advanced lesson features.\n- Complete song library and exclusive lessons\n- Personalized daily learning content with daily workout and tutor\n- Advanced AI feedback with MIDI and Bluetooth MIDI integration.\n- Unlimited, unrestricted daily practice sessions.\n\nSimpia Subscription:\n\nEnjoy unlimited access to all courses and features with flexible Monthly, 3-Month or Annual plans (prices displayed in-app).The subscription is linked to your Apple ID and works on any iOS device using that account. Payment is charged to your Apple ID at purchase, and the plan renews automatically at the current price within 24 hours before each term ends unless you disable auto-renew at least 24 hours in advance in Settings › Apple ID › Subscriptions. You can manage or cancel your plan there at any time. Any unused portion of a free trial is forfeited when you subscribe. Subscriptions stay active until the end of the paid period and can’t be cancelled mid-cycle.\n\nQuestions or feedback? We're always happy to hear from you directly via our in-app \"Have a Question\" support chat.\n\nDownload now and play your first song today!\n\n*** HAVE FUN! ***\n\nTerms and Conditions: https://smulie.io/terms-and-conditions/\nPrivate Policy: https://smulie.io/privacy-policy/\nCopyright/Claims/Issues: hello@smulie.io",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/simpia-learn-piano-by-songs.jpg",
+      "tintColor": "4A90E2",
+      "isLanZouCloud": 0,
+      "size": 252828164,
+      "type": 1
     }
   ]
 }
