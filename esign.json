@@ -1119,6 +1119,22 @@
       "isLanZouCloud": 0,
       "size": 555340406,
       "type": 1
+    },
+    {
+      "name": "Swiftgram: Telegram mod client",
+      "bundleIdentifier": "app.swiftgram.ios",
+      "developerName": "Akentech Ltd",
+      "version": "12.9.2",
+      "buildVersion": "281",
+      "versionDate": "2026-08-30T23:51:11+00:00",
+      "versionDescription": "Cập nhật tự động từ IPA đã xác minh. Build 281.",
+      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/swiftgram-telegram-mod-client-v12.9.2-b281-065d0860b156/swiftgram-telegram-mod-client_v12.9.2_b281.ipa",
+      "localizedDescription": "Swiftgram is a modded client for Telegram with Lots of features, focus on Privacy, No Limits, No Ads.\nCompletelly Open Source and includes all latest updates from Telegram plus\n\nUNLIMITED ACCOUNTS: Add as many numbers as you want for FREE.\n\nACCOUNTS BACKUP: Log-in to your accounts without SMS-code. Restore all Sessions that are still Active on Telegram servers.\n\nMESSAGE FILTER: Reduce visibility of SPAM, promotions and annoying messages.\n\nFORMATTING PANEL: Bold, Italic, Links? Formatting with just a single tap.\n\nVOICE-TO-TEXT: Transcribe audio messages to text for FREE.\n\nTRANSLATOR: Real-time translations for an entire chat. Translate messages you send with a single tap.\n\nSTORIES: Hide stories or disable swipe for recording.\n\nAPPLE WATCH COMPANION: Send and Receive Text and Voice messages on your Watch, only in Swiftgram!\n\nCHAT MANAGEMENT: Control Tabs, Hide \"All Chats\", move Folders to bottom and remember the last opened Folder to quickly jump into the discussion.\n\nHIDE NOTIFICATIONS: No more Pinned Messages or @mentions when you need some piece of mind.\n\n50+ CUSTOMIZATIONS: Tabs, Chat List and Folders, Profiles, Stories, Translator, Better Photos, Stickers, Context Menu and much, MUCH MORE!\n\nSIMPLICITY: Swiftgram remains easy to use with no interface clutter.\n\nPRIVACY-FOCUSED: Instant Passcode Lock, Completelly Open Source, No Ads, No Trackers. Your messages and chats remain secure.\n\nACCESSIBILITY: Improved VoiceOver support for Messages Sharing, cause A11y matters!\n\nFollow the news: @swiftgram\nDiscuss: @swiftgramchat\n\nSwiftgram is an unofficial fork based on Telegram API.\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/swiftgram-telegram-mod-client.jpg",
+      "tintColor": "4A90E2",
+      "isLanZouCloud": 0,
+      "size": 84836056,
+      "type": 1
     }
   ]
 }
