@@ -1,0 +1,1260 @@
+{
+  "name": "Hieudz",
+  "subtitle": "All my IPAs in one place",
+  "description": "AltStore-style repository for modified and premium iOS apps from Hieudz.",
+  "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/267417830.png",
+  "headerURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/267417830.png",
+  "website": "https://github.com/lehieuitpro-maker/ipa",
+  "tintColor": "#FF6B35",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "YouTube Premium",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "hieudz",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "This version contains YouTube Plus, YouPiP, YTUHD, Return YouTube Dislikes and Open in Safari extension\n\nFeatures:\n- Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n- Copy video, comment, and post information\n- Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n- Player settings: Gestures, default quality, preferred audio track\n- Save, Load and Restore settings. Clear cache once or automatically on app startup\n- Built-in SponsorBlock\n- And much, much more\n\nYouTube Plus preferences can be found in the YouTube settings",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/youtube.jpg",
+      "tintColor": "#E36678",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "21.08.3",
+          "minOSVersion": "14.0",
+          "date": "2026-08-29T00:24:17+00:00",
+          "size": 125969488,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/youtube-premium-v21.08.3-b21.08.3-b24309d5d0fe/youtube-premium_v21.08.3_b21.08.3.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 21.08.3."
+        }
+      ]
+    },
+    {
+      "name": "YouTube Music Ultimate",
+      "bundleIdentifier": "com.google.ios.youtubemusic",
+      "developerName": "hieudz",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Features:\n- Download audios, cover images\n- Remove ads\n- Background playback\n- Interface customization: Remove tabs or other elements, enable OLED mode\n- Player settings: Modify player elements, default playback mode\n- Built-in SponsorBlock\n- And much, much more\n\nYouTube Music Ultimate preferences can be found under YouTube Music settings",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/ytmusic.png",
+      "tintColor": "#FF0033",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "9.11.2",
+          "minOSVersion": "14.0",
+          "date": "2026-08-29T20:47:06+00:00",
+          "size": 93340497,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/youtube-music-ultimate-v9.11.2-b9.11.2-95f4366b6e03/youtube-music-ultimate_v9.11.2_b9.11.2.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 9.11.2."
+        }
+      ]
+    },
+    {
+      "name": "Spotify: Music and Podcasts",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "hieudz",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Features:\n- Remove ads\n- Remove stories banner\n- Remove 'People you may know'\n- Disable typing indicator\n- Read messages anonymously\n- Watch stories anonymously\n- Loop stories\n- Download stories\n- Remove 'Stories' tab\n- Remove 'Friends' tab\n- Remove AI circle\n- Require call confirmation",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/spotify.jpg",
+      "tintColor": "#AF38EB",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "9.1.72",
+          "minOSVersion": "14.0",
+          "date": "2026-08-29T00:43:18+00:00",
+          "size": 129466256,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/spotify-music-and-podcasts-v9.1.72-b917201896-2b8f241090ef/spotify-music-and-podcasts_v9.1.72_b917201896.ipa",
+          "localizedDescription": "Eevee Spotify 9.1.72"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "bundleIdentifier": "com.facebook.Facebook",
+      "developerName": "hieudz",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Features:\n- Download whatever you like — videos, images, Reels, and even stories\n- Stay unseen. View stories and mark them as seen only when you want to\n- Worried about accidental likes? Now you can relax\n- Flexible, intuitive settings — all tailored to you\n\nGlow settings are available via long press on any tab",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/facebook.jpg",
+      "tintColor": "#B5DAFC",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "538.1",
+          "minOSVersion": "14.0",
+          "date": "2025-11-10T21:40:00+01:00",
+          "size": 170243561,
+          "downloadURL": "https://github.com/hieuitcz/Glow/releases/download/glow-fb-v1.3.1/Facebook_v538.1.ipa",
+          "localizedDescription": "Glow v1.3.1\n- Faster video re-encoding by improved audio processing\n- Added support for Turkish language"
+        }
+      ]
+    },
+    {
+      "name": "Messenger",
+      "bundleIdentifier": "com.facebook.Messenger",
+      "developerName": "hieudz",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Features:\n- Remove ads\n- Remove stories banner\n- Remove 'People you may know'\n- Disable typing indicator\n- Read messages anonymously\n- Watch stories anonymously\n- Loop stories\n- Download stories\n- Remove 'Stories' tab\n- Remove 'Friends' tab\n- Remove AI circle\n- Require call confirmation",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/messenger.jpg",
+      "tintColor": "#AF38EB",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "532.0.0",
+          "minOSVersion": "14.0",
+          "date": "2025-11-10T21:40:00+01:00",
+          "size": 73615608,
+          "downloadURL": "https://github.com/hieuitcz/Flow/releases/download/flow-fbms-v1.0/Messenger_v532.0.0.ipa",
+          "localizedDescription": "- Initial release"
+        }
+      ]
+    },
+    {
+      "name": "Locket Gold – Locket++",
+      "bundleIdentifier": "com.locket.Locket",
+      "developerName": "hieudz",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Lưu ý:\n- Nếu sign bằng Apple ID (AltStore, Sideloadly, BullFrog Assistant…) hoặc clone thêm 1 bản sẽ không thể đăng nhập hoặc bị crash.\n- Tạo tài khoản bằng địa chỉ email trên ứng dụng tải từ App Store trước, sau đó đăng nhập bằng email trên ứng dụng cài bằng iPA.\n- Để có thể sử dụng widget vui lòng cài Locket từ App Store trước, sau đó đăng ký hoặc đăng nhập tài khoản, tiếp theo thêm widget của Locket vào màn hình chính, bây giờ sử dụng TrollStore cài đè iPA để kích hoạt tính năng Gold như upload ảnh, không quảng cáo…\n- Nếu bạn muốn sử dụng Widget khi cài đặt bằng chứng chỉ, hãy tải ipa Locket++ về -> upload ipa lên https://ipatool.codevn.net/inject-dylib/ -> tick vào ExtensionFix (By Blatant) -> bấm Inject now -> chờ hệ thống xử lý và tải ipa mới về -> ký bằng chứng chỉ và cài đặt.",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/locket.jpg",
+      "tintColor": "#AF38EB",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "2.9.0",
+          "minOSVersion": "14.0",
+          "date": "2025-11-10T21:40:00+01:00",
+          "size": 73615608,
+          "downloadURL": "https://www.dropbox.com/scl/fi/3g466l7fydodlyrgyr3ua/Locket_68bdfba2bde41.ipa?rlkey=2t4frkri2knnhfzj4zz5ejjzg&st=fsb8otd3&dl=1",
+          "localizedDescription": "Locket Gold – Locket++ iPA by Lê Tí, cảm ơn LK Team đã hỗ trợ.\nLưu ý:\n- Nếu sign bằng Apple ID (AltStore, Sideloadly, BullFrog Assistant…) hoặc clone thêm 1 bản sẽ không thể đăng nhập hoặc bị crash.\n- Tạo tài khoản bằng địa chỉ email trên ứng dụng tải từ App Store trước, sau đó đăng nhập bằng email trên ứng dụng cài bằng iPA.\n- Để có thể sử dụng widget vui lòng cài Locket từ App Store trước, sau đó đăng ký hoặc đăng nhập tài khoản, tiếp theo thêm widget của Locket vào màn hình chính, bây giờ sử dụng TrollStore cài đè iPA để kích hoạt tính năng Gold như upload ảnh, không quảng cáo…\n- Nếu bạn muốn sử dụng Widget khi cài đặt bằng chứng chỉ, hãy tải ipa Locket++ về -> upload ipa lên https://ipatool.codevn.net/inject-dylib/ -> tick vào ExtensionFix (By Blatant) -> bấm Inject now -> chờ hệ thống xử lý và tải ipa mới về -> ký bằng chứng chỉ và cài đặt."
+        }
+      ]
+    },
+    {
+      "name": "Instagram Rocket",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "hieudz",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Features:\n- Remove ads\n- Remove stories banner\n- Remove 'People you may know'\n- Disable typing indicator\n- Read messages anonymously\n- Watch stories anonymously\n- Loop stories\n- Download stories\n- Remove 'Stories' tab\n- Remove 'Friends' tab\n- Remove AI circle\n- Require call confirmation",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/instagram.jpg",
+      "tintColor": "#AF38EB",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "384.0.0",
+          "minOSVersion": "14.0",
+          "date": "2025-11-10T21:40:00+01:00",
+          "size": 73615608,
+          "downloadURL": "https://archive.org/download/instagram-384.0.0-rocket-3.8.36-cracked-le-ti/Instagram_384.0.0_Rocket_3.8.36_Cracked_LeTi.ipa",
+          "localizedDescription": "Lưu ý :\n- Bản có chữ Cracked dành cho bạn nào chưa mua Rocket, bản không có chữ Cracked dành cho những bạn đã mua Rocket. \n- Sau khi đã tải bản Cracked về và cài đặt thành công.\n- Mở ứng dụng Instagram lên -> bấm vô biểu tượng hình người ở góc phải bên dưới -> bấm vô dấu 3 gạch ở góc phải bên trên -> Rocket Settings -> Upgrade Now! -> Restore Purchases."
+        }
+      ]
+    },
+    {
+      "name": "AnkiMobile Flashcards",
+      "bundleIdentifier": "net.ichi2.anki",
+      "developerName": "hieudz",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Features:\n- Remove ads\n- Remove stories banner\n- Remove 'People you may know'\n- Disable typing indicator\n- Read messages anonymously\n- Watch stories anonymously\n- Loop stories\n- Download stories\n- Remove 'Stories' tab\n- Remove 'Friends' tab\n- Remove AI circle\n- Require call confirmation",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/anki.png",
+      "tintColor": "#AF38EB",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "25.09",
+          "minOSVersion": "14.0",
+          "date": "2025-11-10T21:40:00+01:00",
+          "size": 73615608,
+          "downloadURL": "https://archive.org/download/anki-mobile-flashcards-25.09-le-ti/AnkiMobile%20Flashcards_25.09_LeTi.ipa",
+          "localizedDescription": "- Initial release"
+        }
+      ]
+    },
+    {
+      "name": "Mondly: Learn 41 Languages",
+      "bundleIdentifier": "com.atistudios.MondlyLanguages",
+      "developerName": "hieudz",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Features:\n- Remove ads\n- Remove stories banner\n- Remove 'People you may know'\n- Disable typing indicator\n- Read messages anonymously\n- Watch stories anonymously\n- Loop stories\n- Download stories\n- Remove 'Stories' tab\n- Remove 'Friends' tab\n- Remove AI circle\n- Require call confirmation",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/mondly.jpg",
+      "tintColor": "#AF38EB",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "10.62.0",
+          "minOSVersion": "14.0",
+          "date": "2025-11-10T21:40:00+01:00",
+          "size": 73615608,
+          "downloadURL": "https://ia801000.us.archive.org/27/items/mondly-10.62.0-16.0-le-ti/Mondly%2B%2B_10.62.0_16.0_LeTi.ipa",
+          "localizedDescription": "- Mondly Premium – Mondly++ iPA by Lê Tí – iOS CodeVN."
+        }
+      ]
+    },
+    {
+      "name": "MonPlayer",
+      "bundleIdentifier": "dev.monplayer.mpapp",
+      "developerName": "hieudz",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Features:\n- Remove ads\n- Remove stories banner\n- Remove 'People you may know'\n- Disable typing indicator\n- Read messages anonymously\n- Watch stories anonymously\n- Loop stories\n- Download stories\n- Remove 'Stories' tab\n- Remove 'Friends' tab\n- Remove AI circle\n- Require call confirmation",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/monplayer.webp",
+      "tintColor": "#AF38EB",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.3.9",
+          "minOSVersion": "14.0",
+          "date": "2025-11-10T21:40:00+01:00",
+          "size": 73615608,
+          "downloadURL": "https://archive.org/download/mon-player-1.3.9-14.0-le-ti/MonPlayer%2B%2B_1.3.9_14.0_LeTi.ipa",
+          "localizedDescription": "- MonPlayer No Ads – MonPlayer++ iPA bởi Lê Tí – iOS CodeVN.\n- MonPlayer++ iPA loại bỏ quảng cáo khỏi ứng dụng MonPlayer."
+        }
+      ]
+    },
+    {
+      "name": "BHTikTok++",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "hieudz",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Features:\n- Remove ads\n- Remove stories banner\n- Remove 'People you may know'\n- Disable typing indicator\n- Read messages anonymously\n- Watch stories anonymously\n- Loop stories\n- Download stories\n- Remove 'Stories' tab\n- Remove 'Friends' tab\n- Remove AI circle\n- Require call confirmation",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/tiktok.jpg",
+      "tintColor": "#AF38EB",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "38.3.0",
+          "minOSVersion": "14.0",
+          "date": "2025-11-10T21:40:00+01:00",
+          "size": 73615608,
+          "downloadURL": "https://www.dropbox.com/scl/fi/mka9koz26qinktvljcceh/BHTikTok-No-Jailbreak-Cheats-38.3.0-Hacked-IPA-by-iOSGods.com.ipa?rlkey=uq3ld7bxngucq1kv0sp7qesya&st=mutot7se&dl=1",
+          "localizedDescription": "- BHTikTok++ iPA by By iOSGods.com."
+        }
+      ]
+    },
+    {
+      "name": "Aloha VPN",
+      "bundleIdentifier": "com.alohabrowser.vpn",
+      "developerName": "hieudz",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Features:\n- Remove ads\n- Remove stories banner\n- Remove 'People you may know'\n- Disable typing indicator\n- Read messages anonymously\n- Watch stories anonymously\n- Loop stories\n- Download stories\n- Remove 'Stories' tab\n- Remove 'Friends' tab\n- Remove AI circle\n- Require call confirmation",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/aloha.webp",
+      "tintColor": "#AF38EB",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "2.2.1",
+          "minOSVersion": "14.0",
+          "date": "2025-11-10T21:40:00+01:00",
+          "size": 73615608,
+          "downloadURL": "https://www.dropbox.com/scl/fi/nf9bmgt1h7z0x2m1chuyk/Aloha-VPN-_2.2.1_LeTi.ipa?rlkey=brry9xu9zneaob27yzq06zjsf&st=eu3qzfml&dl=1",
+          "localizedDescription": "Aloha VPN Premium – Aloha VPN++ iPA by Lê Tí, cảm ơn LK Team đã hỗ trợ.\n- Aloha VPN++ iPA mở khóa tính năng premium của ứng dụng Aloha VPN.\n- Hướng dẫn: đăng nhập tài khoản sau đó xóa đa nhiệm và mở lại.\n- Lưu ý: chỉ hoạt động với TrollStore, jailbreak hoặc chứng chỉ có hỗ trợ VPN."
+        }
+      ]
+    },
+    {
+      "name": "BiliBili -HD Anime, Videos",
+      "bundleIdentifier": "com.bstar.intl",
+      "developerName": "BALABOOM PTE LTD",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "About This App\n\nThe TOP 1 Anime Platform in Southeast Asia, with the 2000+ licensed anime titles, offers you the ultimate anime viewing experience with multilingual support. \n\nBiliBili is not just about anime—it's your gateway to a thriving community filled with diverse, high-quality UGC. Dive into a world where creativity and connection come alive!\n\nExplore a New World of Short Dramas\n\nBiliBili now brings you hundreds of high-quality short dramas—concise, emotional, and endlessly binge-worthy. Dive into new life stories in just minutes. Alongside our vast anime library, the community is buzzing with even more to watch, share, and love.\n\nCatch April 2026 releases, now streaming!\n\nOne Piece Elbaph Arc officially begins: Step into the “Land of Giants” and uncover the secrets of the world’s strongest nation. \nFarming Life in Another World Season 2: A must-watch healing series, enjoy a slow-paced, cozy farming life in Isekai.\nThat Time I Got Reincarnated as a Slime Season 4: The vision of coexistence between humans and monsters faces hidden conspiracies and new conflicts.\n\nEnjoy timeless favorites, watch some of them for free\n\nOne Piece, Naruto: Shippuden, Hunter x Hunter, BLEACH, Detective Conan, SPY×FAMILY, Jujutsu Kaisen, Black Clover, Oshi No Ko, Dragon Ball Z, Attack on Titan, Demon Slayer: Kimetsu no Yaiba, Blue Lock, Haikyuu!, Tokyo Revengers, The Eminence in Shadow, Solo Leveling, Horimiya, Sword Art Online, Chainsaw Man, WIND BREAKER, Heaven Official's Blessing, The Daily Life of the Immortal King, etc.",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/bilibili--hd-anime-videos.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "3.3.0",
+          "minOSVersion": "14.0",
+          "date": "2026-08-29T02:05:02+00:00",
+          "size": 96065927,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/bilibili--hd-anime-videos-v3.3.0-b3030100-23a001c52093/bilibili--hd-anime-videos_v3.3.0_b3030100.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 3030100."
+        }
+      ]
+    },
+    {
+      "name": "3105",
+      "bundleIdentifier": "com.apple.mobile.MobileHouseArrest",
+      "developerName": "YangJiiii",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Native iOS app-data browser, portable patch manager, limited cleaner, and PosterBoard wallpaper lab.",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/3105.png",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.1.1",
+          "minOSVersion": "14.0",
+          "date": "2026-08-29T02:19:30+00:00",
+          "size": 3281026,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/3105-v1.1.1-b7-acca0f6fb096/3105_v1.1.1_b7.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 7."
+        }
+      ]
+    },
+    {
+      "name": "Phim4K",
+      "bundleIdentifier": "ios.phim4k.xyz",
+      "developerName": "phim4k",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Phim chất 4K",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/phim4k.png",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "2.6.1",
+          "minOSVersion": "14.0",
+          "date": "2026-08-29T20:11:40+00:00",
+          "size": 37868070,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/phim4k-v2.6.1-b54-7c06edbbb8d6/phim4k_v2.6.1_b54.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 54."
+        }
+      ]
+    },
+    {
+      "name": "Meitu AI Photo & Video Editor",
+      "bundleIdentifier": "com.meitu.mtxx",
+      "developerName": "Meitu Technology Co., Ltd.",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Meitu is the ultimate all-in-one AI editor for mobile. From professional AI retouching to viral digicam filters and Y2K aesthetic styles, Meitu gives you every tool to create stunning content for TikTok, Instagram Reels, and beyond.\n\nTHE FLASH DIGICAM FILTERS\n1. Digicam Filters: Get the iconic 2000s CCD camera look with one tap. Perfect for that nostalgic vintage aesthetic and photo dump edits.\n2. AI Flash Effect: Recreate the high-contrast flash photography style that's going viral across TikTok and Instagram — no extra gear needed.\n3. Film Grain & Vintage Filters: Add authentic film grain, golden hour tones, and retro color grading for that Pinterest-perfect aesthetic.\n\nREIMAGINE WITH AI\n1. AI Art & Avatars: Transform your selfies into stunning AI art, AI group photos, or digital avatars.\n2. AI Object Removal: Effortlessly erase photobombers, unwanted clutter, or people from your photos with seamless AI blending. No trace left behind.\n3. Photo Enhancer & Unblur: Instantly fix blurry photos and upscale to HD quality — restore old photos or sharpen any shot with one tap.\n\nBEAUTY RETOUCH & SELFIE EDITOR\n1. Face Retouch: Smooth skin, whiten teeth, enlarge eyes, and remove blemishes — the selfie editor trusted by content creators and influencers.\n2. Natural Body Shaping: Achieve flattering body edits with precise AI slimming tools. Look like your best self while keeping it real.\n3. Makeup & Hairstyle: Try virtual makeup looks and beauty filters for your next GRWM post or social media drop.\n\nALL-IN-ONE EDITING SUITE\n1. Aesthetic Collage Maker: Combine memories into a trending collage using hundreds of stylish layouts, aesthetic frames, and Pinterest-worthy designs.\n2. Background Remover: Cut out subjects, blur backgrounds, or swap scenes — perfect for content creation.\n\nPRO VIDEO EDITOR\n1. Cinematic Vlogs: Level up your short videos for TikTok and Reels with ease. Add trending music, animated text, and aesthetic video filters.\n2. Video Retouch: Apply real-time face smoothing and beauty effects to your videos for a consistent, polished influencer look.\n3. Vlog & Content Creator Tools: Everything a content creator needs — transitions, beauty filters, and cinematic styles — all in one video editor.\n\n【Meitu VIP】\nUnlock the full Meitu experience with a VIP subscription. Enjoy exclusive access to premium filters, templates, stickers, AR effects, and aesthetic frames. Remove watermarks from your exports, go ad-free for uninterrupted editing, and unlock VIP-only AI features including advanced retouching tools, premium digicam styles, and exclusive beauty effects. Upgrade to VIP+ for access across both mobile and desktop.\n\nFor the Terms of Use and Privacy Policy, please visit: https://pro.meitu.com/xiuxiu/agreements/gdpr.html?lang=en#en-policy \nContact us: global.support@meitu.com \nInstagram: @meitu.app | TikTok: @meituglobal",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/meitu-ai-photo-video-editor.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "11.25.0",
+          "minOSVersion": "14.0",
+          "date": "2026-08-29T02:33:04+00:00",
+          "size": 297375045,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/meitu-ai-photo-video-editor-v11.25.0-b97831-9bcd6e2b8c01/meitu-ai-photo-video-editor_v11.25.0_b97831.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 97831."
+        }
+      ]
+    },
+    {
+      "name": "Bebi: Baby Games for Toddler",
+      "bundleIdentifier": "com.nextep.learning.kids.games",
+      "developerName": "Bebi Family Games",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Empower your preschool toddler to learn and have fun playing 500+ educational games, from drawing, coloring and phonics to math, shapes and music. With Baby Games for Preschool by Bebi, you can support and encourage your toddler to learn unsupervised while having a fun in a 100% ad free, safe environment. \n\nBaby Games for Preschool keeps your toddler occupied and away from video streaming apps by offering 500+ different educational activities, puzzles and games. It’s free to install, so why not download today and start enriching your toddler’s education?\n\nWhat can 2,3,4 or even 5 year olds learn? \n►The alphabet, phonics, numbers, words, tracing, shapes, patterns and colors\n► Basic math and science through games and activities\n► How to recognise and look after animals\n► All about food and healthy eating \n► Music, instruments and singing \n► Art skills through coloring, drawing and doodling \n► Problem solving, dexterity and much, much more…\n\nFor kindergarten kids, play is an integral part of their development. Toddlers enjoy playing casual games, but Baby Games for Preschool encourages them to learn and absorb valuable information through interactivity and fun.  Similarly, learning from books and papers is not easy at a kindergarten or preschool age. \n\nLet your toddler relax with fun and educational games: their absorbent brain will soak up all the new knowledge on its own, allowing you as a parent to relax safe in the knowledge that their screen time is positive and rewarding. Once you notice that your toddler is engaged playing our educational games, you will see that the learning process has begun. \n\nWhether its popping balloons, discovering science, developing the inner artist or simply learning songs through music, you might even find yourself enjoying a few of the app’s games and activities. \n\nWhy Baby Games for Preschool? \n► Our 500+ learning games provide a safe and useful device experience for your 2-4 year old toddler\n► Developed and tested by child development experts\n► Designed for safety and convenience with no supervision needed\n► Parental Gate - code protected sections so that your child doesn’t accidentally change settings or make unwanted purchases\n► All settings and outbound links are protected and only accessible for adults\n► Available offline and playable without an internet connection\n► Timely hints so your child doesn't feel frustrated or lost in the app\n► 100 % Ad free with no annoying interruptions\n\nWho says learning can't be fun? \n\nPlease support us by writing reviews if you like the app and let us know about any issue or suggestions too.\n\nThis toddler games app has dozens of free games without ads",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/bebi-baby-games-for-toddler.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "10.09.76",
+          "minOSVersion": "14.0",
+          "date": "2026-08-29T02:57:00+00:00",
+          "size": 1143285598,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/bebi-baby-games-for-toddler-v10.09.76-b15-5a8f2f4914c1/bebi-baby-games-for-toddler_v10.09.76_b15.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 15."
+        }
+      ]
+    },
+    {
+      "name": "SnapEdit: Photo Editor AI",
+      "bundleIdentifier": "com.sfun.snapedit",
+      "developerName": "SilverAI Joint Stock Company",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "SnapEdit is one of the best photo editing apps using AI with a mission to make your editing easy, smooth and fun.\n\nTransform your photos like never before with SnapEdit, the ultimate photo editing app designed to effortlessly remove unwanted objects, enhance image quality, and create stunning visual masterpieces. Download SnapEdit now and unlock a world of possibilities for your photos!\n\nKEY FEATURES:\n\nONE-TOUCH OBJECT REMOVAL: Say goodbye to photobombers, unwanted elements, or distracting objects in your pictures. With just a single touch, SnapEdit intelligently analyzes your photo and seamlessly removes any undesired elements, leaving behind a clean and polished image.\n\nSUPER ERASE (PRO required): Specialized model designed to remove larger distractions. Makes them vanish in a flash, leaving your photos sleek, clean, and distraction-free.\n\nIMAGE ENHANCEMENT: Elevate your photo quality with SnapEdit’s powerful image enhancement tools. Adjust brightness, contrast, saturation, and more to bring out the hidden details and make your images truly captivating. Enhance colors, sharpen edges, and create a professional finish with ease.\n\nAI Expand: Let you fix your limited framing in one tap. AI Expand will widen backgrounds, fill missing areas, or adjust photo sizes for social media. Create perfectly balanced images that look natural and complete every time.\n\nVIDEO ENHANCER: Feel free to record your memories without worrying about blurry or low quality videos, SnapEdit will be the solution you are looking for to enhance videos in seconds.\n\nSKY REPLACEMENT: The gloomy weather is just not what you want? Bring the best out of your picture with our sky replacement. Replace the gray, boring sky in your photo with a brand new sky. Choose from clear blue sky, sunny, sunset, storm and even fantasies skies.\n\nBACKGROUND REMOVAL MADE EASY: Need to change the backdrop of your photo? No problem! SnapEdit offers a seamless background removal feature that allows you to isolate the main subject with incredible precision. Replace the background with a solid color, a custom image, or a transparent background for endless creative possibilities.\n\nARTISTIC FILTERS and ANIME EFFECTS: Unleash your artistic side with a wide range of filters and effects. Transform your photos into stunning works of art with a single tap. From vintage to modern, black and white to vibrant colors, SnapEdit offers a plethora of options to suit your unique style.\n\nEASY-TO-USE: SnapEdit’s user-friendly interface ensures a seamless editing experience for both beginners and professionals. Effortlessly navigate through the app’s features, apply edits, and instantly preview changes. The intuitive design ensures that editing your photos becomes a breeze.\n\nHIGH-QUALITY RESULTS: SnapEdit utilizes cutting-edge algorithms to deliver high-quality results without compromising on detail or resolution. Your edited photos will retain their clarity and sharpness, ensuring that every detail shines through.\n\nSAVE AND SHARE WITH EASE: Once you’re satisfied with your masterpiece, save your edited photos in high resolution to your device’s gallery. Share your creations directly from the app to social media platforms like Instagram, Facebook, and more, and impress your friends and followers with your stunning imagery.\n\nUnlock the true potential of your photos with SnapEdit. Download now and experience the power of one-touch object removal, image enhancement, background removal, and an array of artistic filters. Create captivating visuals that leave a lasting impression and showcase your unique vision. Get SnapEdit today and start transforming your photos like a pro!\n\nTerms of use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/snapedit-photo-editor-ai.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "6.26",
+          "minOSVersion": "14.0",
+          "date": "2026-08-29T03:07:09+00:00",
+          "size": 111710321,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/snapedit-photo-editor-ai-v6.26-b2259-bee01852271d/snapedit-photo-editor-ai_v6.26_b2259.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 2259."
+        }
+      ]
+    },
+    {
+      "name": "Simply Piano: Learn Piano Fast",
+      "bundleIdentifier": "com.joytunes.asla",
+      "developerName": "Simply Ltd",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Simply Piano is a fast and fun way to learn piano, from beginner to pro. Works with any piano or keyboard. Chosen as one of the best iPhone apps.\n\n- Tons of fun songs like Imagine, Chandelier, All Of Me and Counting Stars, also J.S. Bach\n- Includes courses for different musical tastes and playing levels\n- Learn the basics step-by-step from reading sheet music to playing with both hands\n- Slow down library songs to choose your own pace for easy learning\n- Personalized 5-Min Workouts ensuring you progress fast and always succeed\n- Suitable for all ages, no previous knowledge required to learn piano\n\nNo Piano? Try the Touch Courses with 3D Touch to turn your device into an on-screen keyboard!\n\nHow it works:\n- Place your device (iPhone/iPad/iPod) on your acoustic/MIDI piano or keyboard and play; the app will immediately recognize what you are playing\n- Get instant feedback on your playing to quickly learn and improve your piano skills\n- Discover the magic of music with fun songs in the Library and complete courses to start sounding like a pro\n\nHow the Subscription Works:\n- All app users can play two free courses. Upgrade to a premium subscription package at any time.\n- Subscribers will receive full access to ALL courses. New courses and songs added every month!\n- All recurring subscriptions will auto-renew unless auto-renewal is turned off at least 24 hours before the end of the current period.\n- Account will be charged for renewal within 24-hours prior to the end of the current period, at the cost of the chosen package.\n- Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.\n- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase.\n- Your subscription is for your iTunes account and can be used on your iOS device.\n- Payments will be charged to your iTunes account at confirmation of purchase.\n- Subscriptions cannot be cancelled during the active subscription period.\n\nSimply Piano is developed by Simply, creators of award-winning apps Simply Guitar, Simply Sing, Piano Maestro and Piano Dust Buster.  Created by music educators, the apps are used by tens of thousands of music teachers worldwide with over 1 million songs learned every week. Simply are experts in creating educational and fun music apps for learning piano quickly and easily.\n\nAwards & Recognition -\n- \"\"EMI’s Innovation Challenge”\n- \"\"World Summit Award\"\", by the United Nations\n- “Best Tools for Beginners”, NAMM\n- \"\"Best Tablet Game\"\", GameIS\n- “Parents' Choice Award”\n- “Golden App”, Apps for Homeschooling\n\nHave questions, feedback or suggestions? Reach out to us via the in-app chat, just tap on Settings and ‘Have a Question’\n\nEnjoy Playing!\n\nprivacy policy: https://www.hellosimply.com/legal/privacy\nterms of use: https://www.hellosimply.com/legal/terms",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/simply-piano-learn-piano-fast.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "9.10.88",
+          "minOSVersion": "14.0",
+          "date": "2026-08-29T03:08:21+00:00",
+          "size": 160365003,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/simply-piano-learn-piano-fast-v9.10.88-b27917-8be0193ef85d/simply-piano-learn-piano-fast_v9.10.88_b27917.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 27917."
+        }
+      ]
+    },
+    {
+      "name": "Lightroom: AI Photo Editor",
+      "bundleIdentifier": "com.adobe.lrmobilephone",
+      "developerName": "Adobe Inc.",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Ever wish your photos could really show what makes a moment special? Adobe Lightroom is a free AI photo and video editor that helps you do just that. From your dog’s goofy grin to that sunset that took your breath away, Adobe Lightroom makes it simple to bring those moments to life, just the way you see them.\n\nWhether you’re snapping pics on the go or curating your social feed, Lightroom puts powerful AI photo editor tools in your pocket to make quick edits easy and fun. Adobe Lightroom is here to help you create photos you’re proud to share.\n\nPHOTO EDITOR THAT EASILY MAKES YOUR PHOTOS LOOK AMAZING\nAdobe Lightroom’s one-tap features like Quick Actions and Adaptive Presets let you retouch and enhance photo quality in seconds. These AI photo editor tools suggest the best edits for your images. Perfect for quick photo fixes or adding a unique vibe, no experience required. Use it as your go-to photo editor.\n\nREMOVE DISTRACTIONS AND BLUR BACKGROUND\nAdobe Lightroom gives you professional photo editing tools that are easy to use. Blur the photo background for a polished look, adjust finer details, or use AI Generative Remove as an object eraser in photos.\n\nPOWERFUL EDITS WITH ZERO HASSLE\nUse photo lighting tools to tweak exposure, highlights, and shadows. Fix photos with presets, photo effects, color grading, hue, saturation, or add a blurry bokeh effect to match your vibe.\n\nGET INSPIRATION FROM THE COMMUNITY\nNot sure where to start? Browse photo filters, templates, and presets shared by creators around the world. From vintage photo effects to retro photo filters and presets to match your aesthetic kick off your edits in a tap. Whether you’re looking to make bold edits with AI photo editor tools or subtle tweaks for polished portrait edits, find a look that matches your style. Save your favorites and make every photo feel like you.\n\nEDIT ONCE, APPLY EVERYWHERE\nSnapped a whole concert, travel day, or family gathering? Instead of editing each shot one by one, make quick edits with AI photo editor tools. Fix photos in batches to keep your photo edits looking consistent.\n\nWHY ADOBE LIGHTROOM?\n• It’s for every moment: whether editing photos for fun, capturing memories, gaining confidence, or sharing on social media.\n• It’s flexible: start with simple photo editing and grow into a better photographer along the way. Fix photos, crop and resize images, blur background elements, or remove distractions with our object eraser — the editing options are endless with Adobe Lightroom.\n• It’s an AI photo editor designed to help build confidence, spark creativity, and showcase your authentic style.\n\nPHOTO EDITOR TOOLS YOU'LL LOVE\n• Quick Actions: Fix photos with suggested edits tailored to your pics.\n• Preset Edits: Discover filters or make your own signature look.\n• Background Blur: Create depth with a blurry background effortlessly.\n• Generative Remove Edits: Take out the things you didn’t want with this AI photo eraser.\n• Video Editing: Bring the same creative energy to your clips with tools for light, color, and presets.\n\nFOR EVERY KIND OF PHOTOGRAPHER\nPhoto editing has never been easier. Lightroom is here to empower you - to capture sunsets, family moments, or your latest foodie find. With tools to fix pictures, enhance photo quality, and edit videos, Adobe Lightroom gives you the right balance of ease and control.\n\nDownload Adobe Lightroom today.\n\nTerms & Conditions:\nYour use of this application is governed by the Adobe General Terms of Use http://www.adobe.com/go/terms_linkfree_en and the Adobe Privacy Policy http://www.adobe.com/go/privacy_policy_linkfree_en\n\nDo not sell or share my personal information www.adobe.com/go/ca-rights-linkfree",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/lightroom-ai-photo-editor.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "11.5.10",
+          "minOSVersion": "14.0",
+          "date": "2026-08-29T04:02:30+00:00",
+          "size": 207259906,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/lightroom-ai-photo-editor-v11.5.10-b11.5.10.252-40241acf33fd/lightroom-ai-photo-editor_v11.5.10_b11.5.10.252.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 11.5.10.252."
+        }
+      ]
+    },
+    {
+      "name": "Toca Boca World: Game & Play",
+      "bundleIdentifier": "com.tocaboca.tocalifeworld",
+      "developerName": "Toca Boca AB",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Welcome to a world where your imagination comes first! Make up stories in the colourful locations, and customize your own buildings – you can style your own outfits too!\n\nToca Boca World is all about open-ended play. There are no rules, just colorful ways to be creative. Build your world, and fill it with characters, pets, shops and all kinds of houses!\n\nAlmost everything inside Toca Boca World is customizable, or you can jump straight in and play! Try running a café, become a hair stylist, camp in the forest or throw a rooftop party. It’s a safe universe where kids explore and discover at their own pace.\n\nBUILD YOUR OWN WORLD\n\n• Explore apartments, shops and hangouts in Bop City \n• Design your own characters with unique hair, faces, outfits and accessories \n• Decorate spaces with Home Designer. Change the walls, furniture and colors \n• Add pets, food, toys and silly items so each place feels like your own\n\nPLAY YOUR WAY\n\n• Create your own stories. Become a chef, spa owner, rockstar, or teacher \n• Mix and match locations to invent your own mini games and challenges \n• Move characters between homes, schools, shops and secret spots \n• Try roleplay like running a pet hospital, opening a fashion studio or hosting a sleepover\n\nEXPLORE, DISCOVER AND COLLECT\n\n• Find hidden gems, secret rooms and surprises in the locations\n• Visit the Post Office every Friday for free gifts including furniture, outfits, decorations and pets\n• Grow your world as new packs and locations are added to the in-app shop\n\nMADE FOR KIDS, EASY TO PLAY\n\n• Simple, touch-first controls make it usable for all reading abilities\n• No time limits or high scores. Just creative play\n• Open-ended design lets kids follow their own curiosity\n\nSAFE, SINGLE-PLAYER AND AD-FREE\n\n• Toca Boca World is a single-player kids' game, not chat and no strangers\n• COPPA compliant, and carefully designed as a safe space for kids\n• No third-party ads ever. Play is never interrupted by adverts or pop-ups\n\nAWARD-WINNING FUN FROM TOCA BOCA\n\nOur game has been recognized as App of the Year and an Editor’s Choice for its playful design and dedication to kids’ safety. Our award-winning kids game can be downloaded on phones, tablets and computers, with optional in-app purchases for families who want to expand their world. We believe in the power of play. That’s why Toca Boca World is built as a high-quality, ad-free game that lets children explore, create and imagine freely.\n\nSTAY CONNECTED\n\nDiscover new locations, events and collaborations by following Toca Boca World on social media and inside the in-app shop. There’s always a new story waiting.",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/toca-boca-world-game-play.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.137.1",
+          "minOSVersion": "14.0",
+          "date": "2026-08-29T04:06:30+00:00",
+          "size": 818028206,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/toca-boca-world-game-play-v1.137.1-b111062-2d44f220a9be/toca-boca-world-game-play_v1.137.1_b111062.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 111062."
+        }
+      ]
+    },
+    {
+      "name": "Sago Mini World: Kids Games",
+      "bundleIdentifier": "com.sagosago.Friends",
+      "developerName": "Piknik",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Sago Mini World is part of Piknik – a bundle of the world’s best apps for kids in one subscription. Unlock fan-favorites from Sago Mini, Toca Boca, and Originator with an Unlimited Plan! \n\nTHE PERFECT APP FOR CREATIVE KIDS\nDiscover the magic of imaginative play with tons of interactive games for preschoolers! Kids aged 2-6 create, learn, and explore thoughtfully designed activities that support their development. \n\n*** Winner of a Parents' Choice Gold Award, Webby's Nomination, Academics' Choice Smart Media Award, Kidscreen Award, and a W3 Mobile App Design Award. Featured in the New York Times, Guardian, and USA Today. ***\n\nBUILD, PRETEND & CREATE YOUR OWN CHARACTERS\nWith their Sago Mini friends and custom characters, kids can take care of babies, meet friendly dinosaurs, make cakes at a bakery, explore the big city, and more – all in one whimsical world. \n\nCREATIVE PLAY & SKILL-BUILDING ACTIVITIES\nKids are free to play their way – the only limit is their imagination! Through open-ended play, they’ll develop self-expression, empathy, and self-confidence.\n\nSAFE, POSITIVE SCREEN TIME \nCOPPA and kidSAFE-certified, no in-app purchases or ads for subscribers, and designed for easy navigation, Sago Mini World is safe screen time parents can trust. \n\nFEATURES\n• Unlimited access to hundreds of activities in one kid-friendly app\n• Play downloaded games offline without WiFi \n• Use one subscription across multiple devices for easy family sharing\n• Members get early access to new games and releases\n• Perfect for kids aged 2-6\n• COPPA and kidSAFE-certified\n• No ads or in-app purchases for subscribers\n\nSUBSCRIPTION DETAILS\n\nTry before you buy! Download to start your free trial, no strings attached. \n\n• When you confirm your purchase, payment will be charged through your Apple ID account.\n• Your subscription will automatically renew unless auto-renew is turned off at least 24-hours before the end of the current period.\n• Don’t want to auto-renew? Manage your account and renewal settings in your user Account Settings.\n• You can use your subscription on any device registered with your Apple ID. Like all Apple subscriptions, Sago Mini World can’t use family sharing to share subscriptions across different Apple IDs.\n• Cancel your subscription anytime through your Account Settings, with no cancellation fees.\n• Questions? Need a hand? Give us a shout at worldsupport@sagomini.com.\n\nPrivacy Policy\n\nSago Mini is committed to protecting your privacy and the privacy of your children. We adhere to the strict guidelines set forth by COPPA (Children’s Online Privacy Protection Rule) & kidSAFE, which ensure the protection of your child’s information online. \n\nPrivacy policy: https://playpiknik.link/privacy-policy\nTerms of use: https://playpiknik.link/terms-of-use/\n\nAbout Sago Mini\n\nSago Mini is an award-winning company devoted to play. We make apps, games and toys for preschoolers worldwide. Toys that seed imagination and grow wonder. We bring thoughtful design to life. For kids. For parents. For giggles.\n\nFind us on Instagram, Facebook, and TikTok at @sagomini.",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/sago-mini-world-kids-games.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "9.0",
+          "minOSVersion": "14.0",
+          "date": "2026-08-29T04:11:12+00:00",
+          "size": 571214410,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/sago-mini-world-kids-games-v9.0-b1652-1c7b87cf2bba/sago-mini-world-kids-games_v9.0_b1652.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 1652."
+        }
+      ]
+    },
+    {
+      "name": "Papumba: Kids Learning Games",
+      "bundleIdentifier": "com.papumba.academy.for.kids",
+      "developerName": "Papumba LLC",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Do you struggle with managing your kid’s screen time and wish they could engage with more educational and interactive content? Are you looking for an app where they can play and learn in English, Spanish, or Portuguese?\n\nTrusted by parents of 2- to 7-year-olds around the world, Papumba is the top app for parents looking for educational screen time for their kids\n\n500+ EDUCATIONAL GAMES, VIDEOS, BOOKS, AUDIO STORIES AND MUCH MORE!\nLEARNING THROUGH PLAY\nNO ADS, NO IN-APP PURCHASES\n\nPapumba fits into your family's daily life: from independent playtime while you're making breakfast or working on tasks, to shared bonding moments like storytime before bed or fun family road trips. \nWhether you're tackling chores, enjoying quality time on weekends, or making rainy days fun indoors, our interactive games and activities are there to keep your kids engaged and learning.\n\nPut simply, it’s just Good Screen Time! TRY 7 DAYS for FREE!\n\n===============\n\nkidSAFE® certified\n\n2023 EdTech Award Winner: “Best Mobile App” for early childhood education!\n\nAwarded the \"Gold Seal of Approval” by Mom’s Choice\n\nAssociated with the Power of 0’s No-Bully program\n\n===============\n\nDownload our app and start the FREE 7-day trial: \n\n→ Play 500+ educational games to learn the ABCs, 123s, and much more!\n\n→ Read and listen to books and bedtime stories in English, Portuguese, and Spanish\n\n→ Learn first words in English, Portuguese, and Spanish for toddlers and preschoolers\n\n→ Watch videos in English, Portuguese, and Spanish to explore the world\n\n→ Enjoy a safe and 100% ad-free environment!\n\n→ Dive into activities that foster social-emotional learning, healthy habits, and good social skills\n\n→ Relax with interactive yoga videos in English, Portuguese, and Spanish\n\n→ Do meditation sessions created specifically for children!\n\n→ Enjoy quality screen time for fun learning moments\n\nPapumba is the go-to app for parents seeking engaging and educational playtime in English, Portuguese, and Spanish for their toddlers and preschoolers. \nJoin the community that makes learning an exciting part of their kid’s daily life!\n\n===============\n\nTHE SMALL PRINT, SUMMED UP IN SIMPLE TERMS\n\nPapumba is a subscription-based app that you can try and enjoy for free for 7 days!\n\nAfter 7 days, you will become a subscriber. The fee for your chosen plan, monthly or annual, will be charged through your App Store account. Keep in mind that this transaction will renew automatically.\n\nBut fear not: you're always in control.\n\nYou can cancel your subscription at least 24 hours before the current renewal date. You can also manage and cancel it at any time, or turn off auto-renewal by signing into your App Store account.\n\n===============\n\nContact us and be part of the Papumba world!\n\n• Feel free to write to us at hello@papumba.com\n\n• Instagram: https://www.instagram.com/papumba\n\n• YouTube: https://www.youtube.com/@Papumba\n\n• Spotify: https://open.spotify.com/show/3oApBXzqvclVqVZ3IJ3Et4?si=1b4d69019a194e04\n\n• Facebook: https://www.facebook.com/papumbagames/\n\n• Website: https://www.papumba.com/es/contact\n\n• Visit Papumba’s Help Center: help.papumba.com/hc/en-us\n\n• Privacy Policy: https://www.papumba.com/es/privacy/en\n\n\n\n\n\n\n\n• Terms of Service: https://www.papumba.com/en/terms/",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/papumba-kids-learning-games.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.960",
+          "minOSVersion": "14.0",
+          "date": "2026-08-29T04:15:45+00:00",
+          "size": 1656397664,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/papumba-kids-learning-games-v1.960-b19-308deee10393/papumba-kids-learning-games_v1.960_b19.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 19."
+        }
+      ]
+    },
+    {
+      "name": "Toca Boca Jr: Fun Kids Games",
+      "bundleIdentifier": "com.tocaboca.tocakitchen2",
+      "developerName": "Piknik",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "FAN-FAVORITE GAMES \nDiscover the best games for kids ages 2-8, trusted by over 100 million families! Toca Boca Jr is full of imaginative ways for kids to play, create, build worlds, and explore. Bringing together Toca Boca’s most-loved games in one app, kids boost problem-solving skills, explore self-expression, and spark interests through the power of play. \n\nTOCA BOCA DANCE \nDress up, get down, and bust a move in Toca Boca Dance! Form a squad, pick out costumes, set the stage, and make music videos to share with friends.\n\nTOCA BOCA KITCHEN 2\nLooking for the most-loved cooking games? Create, cook, and serve all sorts of tasty (and not-so-tasty) food in Toca Boca Kitchen 2 to some hungry characters and see what they like. Cooking games for kids are perfect for unleashing creativity!\n\nTOCA BOCA PET DOCTOR\nKids take care of 25 pets of all shapes and sizes! From a turtle flipped over on its shell to a dinosaur with a stomach bug, there are lots of animals to rescue. Toca Pet Doctor has the best animal games for kids!\n\nTOCA BOCA PARTIES\nIt's party time! Set the table, share some sweet treats, and celebrate with friends in fan-favorite games Toca Tea Party and Toca Birthday.\n\nTOCA BOCA NATURE \nFoster a love of the great outdoors! Kids create their own world, shape nature, and watch the animal games begin. \n\nTOCA BOCA CARS\nStart your engines! Kids get behind the wheel in Toca Boca Jr’s newest car game, driving tons of vehicles and building their own streets.\n\nTOCA BOCA LAB: ELEMENTS\nUnlock a passion for early STEM learning! Kids explore the electrifying world of science, run their own experiments, and discover all 118 of the elements from the periodic table.\n\nTOCA BOCA BUILDERS, AND MORE! \nKids join six unique builder buddies and create a whole new world with blocks. Spark creativity in this building game!\n\nSUBSCRIPTION BENEFITS\nToca Boca Jr is part of Piknik – the best kids apps in one subscription! Get full access to a bundle of the world's best games for kids from award-winning studios Toca Boca (creators of Toca Boca World), Sago Mini, and Originator for one low monthly price.\n\n• Includes Kitchen 2, Dance, Kitchen Sushi, Pet Doctor, Builders, Boo, Mini, Cars, Band, Train, Lab: Elements, Lab: Plants, Blocks, Nature & Mystery House\n• Play downloaded games offline without WiFi or internet\n• Try before you buy! Download the Toca Boca Jr app to start your free trial\n• COPPA and kidSAFE certified – safe and secure screen time for kids\n• Use one subscription across multiple devices for easy access to award-winning games for kids\n• No third-party advertising or in-app purchases\n• Cancel Toca Boca Jr anytime with no hassle\n\nPrivacy Policy\n\nAll of Toca Boca’s products are COPPA-compliant. We take privacy very seriously, and we’re committed to providing safe and secure apps for kids that parents can trust. To learn more about how Tocaboca designs and maintains safe games for kids, please read our:\n\nPrivacy policy: https://playpiknik.link/privacy-policy\nTerms of use: https://playpiknik.link/terms-of-use\n\nAbout Toca Boca\n\nToca Boca is the award-winning game studio behind Toca Life World and Toca Hair Salon 4. We design digital toys for kids that stimulate the imagination – all in a safe way without third-party advertising, trusted by millions of parents around the world.",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/toca-boca-jr-fun-kids-games.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "4.4.0",
+          "minOSVersion": "14.0",
+          "date": "2026-08-29T04:16:46+00:00",
+          "size": 435456462,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/toca-boca-jr-fun-kids-games-v4.4.0-b835-569482327e0f/toca-boca-jr-fun-kids-games_v4.4.0_b835.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 835."
+        }
+      ]
+    },
+    {
+      "name": "Picsart AI Photo Editor, Video",
+      "bundleIdentifier": "com.picsart.studio",
+      "developerName": "PicsArt, Inc.",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Ignite your creative potential with Picsart, the all-in-one, AI-powered design studio that’s free and easy to use. From pro-quality business designs to next-gen AI art, go from inspiration to creation in a flash. Remove background with Background Remover, enhance photos & videos with effects, filters, and retouch tools, create inspiring mood boards with photo collages, and more with a full suite of intuitive graphic design and AI generator tools.\n\nMEET PICSART AURA\nChat your vision into visuals. Built on Picsart’s platform and trusted by 150M+ creators, Aura is your creative chat partner. From prompt to polished design in seconds, Aura creates, edits, refines, and even builds long-form content — all in one conversation. It suggests prompts based on your photo, generates photos and videos with an AI generator, remembers your chats, and lets you share sessions. Not just another AI image generator, it’s a smarter way to create.\n\nKICK-START PROJECTS WITH TEMPLATES\n• Accelerate your design process with customizable graphic design templates made by professional editors.\n• Make templates your own with just a few taps and create stunning brand logos, social stories, business cards, and more.\n\nTRANSFORM DESIGNS WITH BACKGROUND REMOVER\n• Use advanced AI to create pro-quality product photo ads.\n• Smart Background blends seamless, context-aware backdrops using top photo editor tools.\n• Switching backdrops is easy with the Background Remover tool. Make precise changes with easy graphic design editor tools and create fresh aesthetic styles.\n\nGET CREATIVE WITH AI\n• Make any low-quality image pop with the easy AI-enhanced photo editor tool.\n• Object Remover (Remove Object) quickly cleans up pictures and removes unwanted objects from the frame.\n• Apply stylized AI filters to your shots to create stunning photo effects.\n• Use AI Replace to instantly transform images with fun face swaps, hair color changes, selfie edits, and retouch.\n• Generate captions, texts, and marketing copy with AI Writer.\n• Turn text into an AI photo with the AI Image Generator (AI photo generator) and create customizable images and GIFs automatically.\n• Extend images seamlessly with AI Expand, the game-changing AI photo editor tool.\n• Create custom AI avatar portraits in multiple styles.\n\nEDIT VIDEOS LIKE A PRO\n• Create videos that shine on any platform.\n• Edit clips with music using the easy video editor.\n• Take your IG Stories, TikToks & Reels to the next level.\n• Apply retouch effects and trendy filters in the video editor.\n• Add your best moments to a video collage.\n\nADD YOUR FLAVOR WITH THE STICKER MAKER\n• Explore 60M+ stickers in the library.\n• Add stickers to photos for fun or to graphic design promotions.\n• Use the sticker maker to create your own custom stickers.\n\nTELL YOUR STORY IN TEXT\n• Create unforgettable designs by adding text to images with the Picsart Text Editor.\n• Discover hundreds of classic and trending fonts.\n• Craft your own unique text styles with powerful customization options that elevate your graphic design game.\n\nDISCOVER ENDLESS INSPIRATION\n• From solopreneurs to graphic design enthusiasts, AI art pioneers, photo editors, and more, share your ideas and get inspiration for that next big project with Picsart Spaces.\n\nCREATE COLLAGE MAGIC\n• Design on-trend photo collages with your favorite pictures.\n• Try photo grid collage or freestyle collage for mood boards and frames for selfies and pictures.\n• Use the social media Story Maker and level up your Instagram game with templates.\n\nUPGRADE YOUR DESIGN EXPERIENCE\nPicsart Plus\nIn addition to Background Remover and photo & video editing tools, elevate your graphic designs with premium content, templates, and retouch features.\n\nPicsart Pro\nAccess more AI tools, team seats for small businesses, and extra storage.\n\nTerms and conditions: https://picsart.com/terms-of-use/\nAbout Ads: https://picsart.com/privacy-policy#interest-base",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/picsart-ai-photo-editor-video.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "28.5.2",
+          "minOSVersion": "14.0",
+          "date": "2026-08-29T04:18:42+00:00",
+          "size": 106262071,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/picsart-ai-photo-editor-video-v28.5.2-b28502-93d0e301b766/picsart-ai-photo-editor-video_v28.5.2_b28502.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 28502."
+        }
+      ]
+    },
+    {
+      "name": "Nuvio",
+      "bundleIdentifier": "com.nuvio.media",
+      "developerName": "tapframe",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Built for every screen you watch on.",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/nuvio.png",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "0.4.12",
+          "minOSVersion": "14.0",
+          "date": "2026-08-29T20:39:32+00:00",
+          "size": 51718448,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/nuvio-v0.4.12-b116-eefce854675c/nuvio_v0.4.12_b116.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 116."
+        }
+      ]
+    },
+    {
+      "name": "Duolingo: Language & Chess",
+      "bundleIdentifier": "com.duolingo.DuolingoMobile",
+      "developerName": "Duolingo",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Learn a new language, chess & more with the world's most downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening & writing to build your vocabulary & grammar skills.\n\nDesigned by learning experts & loved by hundreds of millions worldwide, our lessons make learning effective & fun and help you prepare for real conversations in Spanish, French, Japanese, Korean, Chinese, Italian, German, English and more.\n\n\nAnd now, you can learn CHESS on Duolingo! Whether you're a total beginner or looking to level up your game, you'll love learning chess the Duolingo way. Play matches and fun chess lessons for all levels, no matter the language - chess, ajedrez, xadrez, schach, Шахматы, الشطرنج.\n\n• Chess: Learn the moves, level up your game & play matches in our Chess course. Learn the basics, solve fun chess puzzles & improve your strategy with guided lessons. Whether you're new to chess or already play, our course is designed to help you have fun and build real skills. Checkmate!\n\n• Math: Forget lectures and math worksheets! Built by learning experts, our Math course makes math feel like a game. Boost learning and fight the summer slide with standards-aligned math lessons for elementary school, middle school, and high school students.\n\n• Music: Learn how to read music & play songs in our Music course, no instrument needed! Using an on-screen keyboard, you'll learn bit-by-bit.\n\nWhether you're learning a language for travel, school, career or your brain health, you'll love learning with Duolingo.\n\n\nWhy Duolingo?\n\n• Duolingo is fun & effective. Game-like language lessons & fun characters help you build speaking, reading, listening, & writing skills, plus enjoy fun chess & competitive online chess in one app.\n\n• Duolingo works. Designed by learning experts, Duolingo has a science-based teaching methodology proven to foster long-term knowledge retention across language lessons & chess lessons alike.\n\n• Track your progress. Work toward your learning goals with playful rewards & achievements when you make practicing language lessons or chess online part of your daily habit.\n\n• Join millions of learners. Stay motivated with competitive Leaderboards as you learn languages & play chess online alongside our global community.\n\n• Every course is free. Learn Spanish, French, German, Italian, Russian, Portuguese, Turkish, Dutch, Irish, Danish, Swedish, Ukrainian, Esperanto, Polish, Greek, Hungarian, Norwegian, Hebrew, Welsh, Arabic, Latin, Hawaiian, Scottish Gaelic, Vietnamese, Korean, Japanese, English, & even High Valyrian! And now, learn Math, Music & improve your Chess skills with fun, bite-sized lessons.\n\n\nWhat the world is saying about Duolingo:\n\n\"Far & away the best language-learning app.\" - The Wall Street Journal\n\n\"This free app & website is among the most effective language-learning methods I've tried… lessons come in the form of brief challenges, speaking, translating, answering multiple-choice questions, that keep me coming back for more.\" - The New York Times\n\n\"Duolingo may hold the secret to the future of education.\" - TIME Magazine\n\n\"Duolingo is cheerful, lighthearted & fun.\" - Forbes\n\n\"I Can't Stop Playing Duolingo Chess.\" - Wired\n\nIf you like Duolingo, try Super Duolingo for 14 days free! Learn a language fast with no ads & get fun perks like Unlimited Energy & Monthly Streak Repair.\n\nIf you choose to purchase Super Duolingo, payment will be charged to your Apple account, and your account will be charged for renewal within 24-hours prior to the end of the current period. Auto-renewal may be turned off at any time by going to your settings in the App Store after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.\n\nPrivacy Policy: https://www.duolingo.com/privacy\nTerms of Service: https://www.duolingo.com/terms",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/duolingo-language-chess.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "7.137.0",
+          "minOSVersion": "14.0",
+          "date": "2026-08-29T20:44:21+00:00",
+          "size": 210411385,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/duolingo-language-chess-v7.137.0-b7.137.0.7-c9b0368188c5/duolingo-language-chess_v7.137.0_b7.137.0.7.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 7.137.0.7."
+        }
+      ]
+    },
+    {
+      "name": "Hot Wheels Unlimited",
+      "bundleIdentifier": "com.budgestudios.HotWheelsUnlimited",
+      "developerName": "Budge Studios",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Buckle up! Get ready to blast full throttle! We’re all about awesome cars, fun racing games, crazy challenges, and building the coolest race tracks around. Head on over to Hot Wheels™ City to test your skills with fun kids car racing challenges. Race solo or compete against friends! Start your engines, this is going to be an awesome ride! \n\nBUILD – Fuel your imagination with the best Hot Wheels™ Track Builder on mobile! Bring to life the craziest stunt courses full of loops,  jumps, boosters and epic ramps. Dare to make your racetracks full of monstrous Nemeses? Clash with the Gorilla’s stomp or Shark’s chomp! These creatures are sure to add a twist to your tracks! Ready, set, build!\n\nRACE – Racing is super fun and easy: use your finger to steer and drift along the racetrack! Take on epic stunts, daring jumps and twisted loops. Want more speed? Smash that Boost button to go full throttle in the most epic of racing games. \n\nCHALLENGE – If you are a car racing fan, you are in for a treat with our track building puzzles. If you prefer fast driving and drifting, racing challenges are made for you. Then it’s simple: win a challenge to get a Red Wheel! Collect enough of them to unlock a rad new car or Monster Truck and cool track pieces. Challenge Accepted™!\n\nCOLLECT – Build your collection of legendary Hot Wheels™, like Rodger Dodger™, Bone Shaker™, Night Shifter™ or spectacular Monster Trucks. You can collect them all in the ultimate garage!\n\nCOMPETE – Start your engines to drift and race against your friends in the 2-player mode. This is high speed fun at its best!\n\nPOWER UPS – To help you win, there are cool power ups: leave sticky oil on the track for your rivals, shield yourself against attacks, or get a boost with a rocket or nitro!\n\nGo bigger, better & faster with Hot Wheels Unlimited™! Fun and free arcade style car racing games for boys and girls and kids of all ages. Play with Monster trucks, karts, drag racers, muscle cars & more!\n\nSUBSCRIPTION DETAILS\n- This app may offer monthly and yearly subscriptions\n- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period\n- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase\n- Your account will be charged for renewal within 24-hours prior to the end of the current period \n- You can cancel your subscription at any time, but please note that you will not get a refund for any remaining period of a subscription\n\nPRIVACY & ADVERTISING\nBudge Studios takes children's privacy seriously and ensures that its apps are compliant with child privacy laws. This application has received the “ESRB Privacy Certified Kids’ Privacy Seal”. Read our privacy policy at: https://budgestudios.com/en/legal/privacy-policy/, or email our Data Protection Officer at: privacy@budgestudios.ca\n\nEND-USER LICENSE AGREEMENT\nhttps://budgestudios.com/en/legal-embed/eula/\n\nABOUT BUDGE STUDIOS\nBudge Studios was founded in 2010 with the mission to entertain and educate boys and girls around the world, through innovation, creativity and fun. Its high-quality app portfolio consists of original and branded properties, including Disney Frozen, Bluey, Barbie, PAW Patrol, Thomas & Friends, Transformers, My Little Pony, Strawberry Shortcake, Miraculous, Caillou, The Smurfs, Miss Hollywood, Hello Kitty and Crayola. Budge Studios maintains the highest standards of safety and age-appropriateness, and has become a global leader in children’s apps for smartphones and tablets.\n\nHAVE QUESTIONS? \nWe always welcome your questions, suggestions and comments. Contact us 24/7 at support@budgestudios.ca \n\nHOT WHEELS and associated trademarks and trade dress are owned by, and used under license from, Mattel. ©2024 Mattel.\n\nBUDGE and BUDGE STUDIOS are trademarks of Budge Studios Inc.\n\nHot Wheels Unlimited™ ©2024 Budge Studios Inc. All Rights Reserved.",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/hot-wheels-unlimited.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "2026.4.0",
+          "minOSVersion": "14.0",
+          "date": "2026-08-29T20:50:16+00:00",
+          "size": 1018652319,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/hot-wheels-unlimited-v2026.4.0-b3740.11536-f38af819f7fa/hot-wheels-unlimited_v2026.4.0_b3740.11536.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 3740.11536."
+        }
+      ]
+    },
+    {
+      "name": "Moe Multi for TikTok",
+      "bundleIdentifier": "com.zhiliaoapp.musically.moe-multi-for-tiktok",
+      "developerName": "Mohkg",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "TikTok is the global discovery platform for videos, streaming on LIVE, shopping, and more. Our mission is to inspire creativity and bring joy. Over a billion people come to TikTok to share what they love, learn new things, and find ideas that make everyday life more interesting.\n\nYour experience on TikTok is built around what you're into, not who you know. Just watch, like, and scroll to discover videos, creators, and communities you are delighted to discover. From quick recipes to game highlights, fashion tips to music and trending sounds, your For You feed reflects your current interests and changes based on what surprises and inspires you.\n\nCreating is simple. Capture and post everyday moments and turn them into something special with easy editing tools, effects, sounds, and music. Use our free library of sounds and music in your videos, plus filters and creative tools that help your content stand out. On TikTok, anyone can create, and ideas that inspire pick up momentum.\n\nTikTok is also where discovery becomes part of your everyday life. Find creators to follow, new ideas to try, and products you will love from small businesses and brands around the world. TikTok offers more than 50 preset safety and privacy features, from private accounts and content filters to screen time tools and Family Pairing, so you can choose an experience that works for you. TikTok provides extra support for teens and families on the app, letting you set time and content preferences that feel right for your family. \n\n■ Personalized discovery\nA For You feed that learns what you enjoy. Discover videos, creators, LIVE streams, shopping, and communities based on what you watch, like, and share.\n■ Entertainment, learning, and everything in between\nComedy, gaming, DIY, beauty, sports, music, lifestyle, education, and more. Find content that makes you laugh, think, and try something new.\n■ Simple, powerful creation tools\nRecord in clips, pause and resume, trim and merge, add text and stickers, and fine tune your video without leaving the app.\n■ Sounds, music, and effects\nUse our free library of sounds and music in your videos, plus filters, effects, and creative tools that help you express yourself and make your videos stand out.\n■ A global community of creators\nFollow your favorite creators and discover new voices every day. Share your own story or support the people who inspire you.\n■ Discover and shop with TikTok Shop\nExplore trending products, exclusive deals, and seamless shopping experiences inspired by creators and brands you love, all in one place. Shop directly from videos, LIVE, and the Shop tab, track your orders, and enjoy a safe, secure shopping experience.\n■ Go LIVE and connect in real time\nStart a LIVE to chat with your community, share moments as they happen, and unlock special features and benefits where available.\n■ Tools to shape your experience\nUse more than 50 safety and privacy features, from private accounts and content filters to screen time tools, Family Pairing, and other controls, to choose how TikTok works for you and your family.\n\nReady to see what you discover next? Download TikTok to start watching, creating, and exploring your world in a new way.\n\nNote: If you subscribe via Apple, payment will be charged to App Store Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period at the rate of the selected plan. Subscriptions and auto-renewal may be managed by going to Account Settings after purchase.\n\nLearn more about our safety tools, resources, and policies at the TikTok Safety Center: https://www.tiktok.com/safety/en\n\nTerms of Service:\nhttps://www.tiktok.com/legal/terms-of-service\nPrivacy Policy:\nhttps://www.tiktok.com/legal/privacy-policy\nFeedback?\nContact us at https://www.tiktok.com/legal/report/feedback or tweet us @tiktok_us",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/moe-multi-for-tiktok.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "46.4.0",
+          "minOSVersion": "14.0",
+          "date": "2026-08-29T21:32:02+00:00",
+          "size": 465692789,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/moe-multi-for-tiktok-v46.4.0-b464038-fda62d67944d/moe-multi-for-tiktok_v46.4.0_b464038.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 464038."
+        }
+      ]
+    },
+    {
+      "name": "Moe Multi for Instagram",
+      "bundleIdentifier": "com.burbn.instagram.moe-multi-for-instagram",
+      "developerName": "Instagram, Inc.",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Little moments lead to big friendships. Share yours on Instagram. \n— From Meta\n\nConnect with friends, find other fans, and see what people around you are up to and into. Explore your interests and post what's going on, from your daily moments to life's highlights.\n\nShare what you’re up to and into:\n- Turn your life into a movie and discover short, entertaining videos on Instagram with Reels.\n- Keep up with friends on the fly with Stories and Notes that disappear after 24 hours.\n- Start group chats and share unfiltered moments with your Close Friends.\n- Share memories from recent events or trips in Feed.\n- Customize your posts with exclusive templates, music, stickers and filters.\n\nDive into your interests.\n- Watch videos from your favorite creators and discover new content that’s personalized to your interests.\n- Get inspired by photos and videos from new accounts in Explore.\n- Discover brands and small businesses, and shop products that are relevant to your personal style.\n\nSome Instagram features may not be available in your country or region.\n\nTerms and Policies: https://help.instagram.com/581066165581870\n\nConsumer Health Privacy Policy: https://privacycenter.instagram.com/policies/health\n\nLearn how we're working to help keep our communities safe across Meta technologies at the Instagram Safety Center: https://about.instagram.com/safety",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/moe-multi-for-instagram.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "443.0.0",
+          "minOSVersion": "14.0",
+          "date": "2026-08-29T22:24:44+00:00",
+          "size": 374819589,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/moe-multi-for-instagram-v443.0.0-b1043399932-b403b2433005/moe-multi-for-instagram_v443.0.0_b1043399932.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 1043399932."
+        }
+      ]
+    },
+    {
+      "name": "Glow for Facebook",
+      "bundleIdentifier": "com.facebook.Facebook.glow-for-facebook",
+      "developerName": "Meta Platforms, Inc.",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Where real people propel your curiosity. Whether you’re thrifting gear, showing reels to that group who gets it, or sharing laughs over fun images reimagined by AI, Facebook helps you make things happen like no other social network.\n\nExplore and expand your interests: \n* Shop Marketplace for hidden gems and take your hobbies to the next level\n* Personalize your Feed to see more of what you like, less of what you don’t\n* Ask Meta AI for information and get answers instantly\n* Drive into reels that reflect the things you're interested in\n* Search Facebook on any topic and get more interactive results\n\nConnect with people and communities:\n* Join groups to learn tips from real people who’ve been there, done that\n* Get inspired by creators, or catch up with Friends\n* Add new Friends to your world, but also decide how closely to keep up with them\n* Privately message relatable posts that only your BFF will get or that reels trend everyone’s talking about\n\nShare your world:\n* Use generative AI to create custom stickers and images to delight friends\n* Customize your profile to choose how you show up and who sees your posts\n* Effortlessly create reels from trending templates, or showcase your creativity with a full suite of editing tools\n* Capture moments on the fly with stories\n\nSome features may not be available in your country or region. \n\nTerms & Policies: https://www.facebook.com/policies_center\nPrivacy Policy: https://www.facebook.com/privacy\n\nLearn how we're working to help keep our communities safe across Meta technologies at the Meta Safety Center: https://about.meta.com/actions/safety",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/glow-for-facebook.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "573.0.0",
+          "minOSVersion": "14.0",
+          "date": "2026-08-29T22:29:58+00:00",
+          "size": 208199429,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/glow-for-facebook-v573.0.0-b1032158285-a2162581f465/glow-for-facebook_v573.0.0_b1032158285.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 1032158285."
+        }
+      ]
+    },
+    {
+      "name": "Plants vs. Zombies™ 3: Evolved",
+      "bundleIdentifier": "com.ea.ios.pvzn3xt",
+      "developerName": "Electronic Arts",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "This game includes optional in-game purchases of virtual currency that can be used to acquire virtual in-game items, including a random selection of virtual in-game items.\n\nWhether you love strategy games, fast-paced tower defense, or chaotic action, Plants vs. Zombies™ 3: Evolved delivers a fresh spin on defending against every zombie attack. Step into Neighborville today to grow, merge and experiment with new tactics as you help shape a wild, taco-fueled tower defense against Dr. Zomboss’ latest invasion!\n\nA NEW TWIST ON CLASSIC PvZ TOWER DEFENSE\nUse new tower defense mechanics to merge and upgrade plants into stronger forms with new powers, unlocking fresh tactics and creative ways to outsmart every zombie wave.\n\nREAL-TIME STRATEGY MEETS CHAOTIC ACTION\nTest your real‑time strategy skills across an expanding collection of tower defense levels spanning multiple biomes and unique environments, each designed to challenge your tactical thinking and fast-paced decision-making.\n\nMAKE NEIGHBORVILLE YOUR OWN\nCustomize and decorate your yard to create a space that feels uniquely yours, because why defend the lawn if you can’t do it in style? Join the Neighborville Watch to team up in community events, harvest rewards, and help keep Neighborville brains safe, bright, and weird.\n\nSTORY-DRIVEN LEVELS & ADVENTURES\nPlay through comic-inspired adventures filled with classic PvZ humor. Unlock new biomes, storylines, and zombie game variants as you progress.\n\nPLANT PASS REWARDS & CUSTOMIZATION\nMerge through themed seasons and earn plants, cosmetics, vanity items, and more. Advance your strategy game journey with unlocks that keep your plant defenses growing in an ever-zanier, ever-evolving tactical tower defense experience.\n\nDownload Plants vs. Zombies™ 3: Evolved today and test your ultimate tower defense strategy in the brain-iest, wackiest, and most chaotic PvZ yet.\n\nRequires acceptance of EA’s User Agreement. EA’s Privacy & Cookie Policy applies. You consent to any personal data collected through your use of EA’s services being transferred to the United States, as further explained in the Privacy & Cookie Policy. Requires an Internet connection (network fees may apply). EA may retire online features after 30 days’ notice posted on ea.com/service-updates.\n\n•    User Agreement: terms.ea.com \n•    Privacy and Cookie Policy: privacy.ea.com\n•    Visit help.ea.com for assistance or inquiries.\n\n© 2026 Electronic Arts Inc. Electronic Arts and Plants vs. Zombies are trademarks of Electronic Arts Inc.",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/plants-vs.-zombies-3-evolved.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "32.0.10",
+          "minOSVersion": "14.0",
+          "date": "2026-08-29T22:38:14+00:00",
+          "size": 162540375,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/plants-vs.-zombies-3-evolved-v32.0.10-b1-2653e67806e7/plants-vs.-zombies-3-evolved_v32.0.10_b1.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 1."
+        }
+      ]
+    },
+    {
+      "name": "Expense Tracker: Money Note",
+      "bundleIdentifier": "com.money.note",
+      "developerName": "hieudz",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Modified iOS application",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/expense-tracker-money-note.webp",
+      "tintColor": "#FF6B35",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "5.0.0",
+          "minOSVersion": "14.0",
+          "date": "2026-01-13T19:00:28+00:00",
+          "size": 54816487,
+          "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/expense-tracker-money-note-v5.0.0/expense-tracker-money-note-v5.0.0.ipa",
+          "localizedDescription": "Latest version"
+        }
+      ]
+    },
+    {
+      "name": "Plants vs. Zombies™",
+      "bundleIdentifier": "com.ea.pvzfree.bv",
+      "developerName": "hieudz",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Hack Features:   \n - Infinite Sun   \n - Infinite Fertilizer, BugSpray, and Chocolate   \n - Infinite Coins   \n - Infinite Plants Life   \n - No Cooldown   \n    \n Author: https://iosgods.com/profile/37846-asianqueen/ & AnonyN   \n    \n Complete tutorial before using any hacked features or you will stuck forever",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/plants-vs-zombies.jpg",
+      "tintColor": "#FF6B35",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "3.12.0",
+          "minOSVersion": "14.0",
+          "date": "2025-11-30T02:59:39+00:00",
+          "size": 117684686,
+          "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/plants-vs-zombies-v3.12.0/plants-vs-zombies-v3.12.0.ipa",
+          "localizedDescription": "Hack Features:   \n - Infinite Sun   \n - Infinite Fertilizer, BugSpray, and Chocolate   \n - Infinite Coins   \n - Infinite Plants Life   \n - No Cooldown   \n    \n Author: https://iosgods.com/profile/37846-asianqueen/ & AnonyN   \n    \n Complete tutorial before using any hacked features or you will stuck forever"
+        }
+      ]
+    },
+    {
+      "name": "Bloons TD 6 NETFLIX Hack",
+      "bundleIdentifier": "com.netflix.NGP.BloonsTDSix",
+      "developerName": "hieudz",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Hack Features:   \n - God Mode   \n - Money    \n - Monkey Money   \n - Consumes   \n - Unlocked All Towers   \n - Unlocked All Heroes",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/bloons-td-6-netflix-hack.jpg",
+      "tintColor": "#FF6B35",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "51.2",
+          "minOSVersion": "14.0",
+          "date": "2025-11-30T02:43:54+00:00",
+          "size": 116518547,
+          "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/bloons-td-6-netflix-hack-v51.2/bloons-td-6-netflix-hack-v51.2.ipa",
+          "localizedDescription": "Hack Features:   \n - God Mode   \n - Money    \n - Monkey Money   \n - Consumes   \n - Unlocked All Towers   \n - Unlocked All Heroes"
+        }
+      ]
+    },
+    {
+      "name": "Bloons TD 6 China",
+      "bundleIdentifier": "com.xd.bloonstd",
+      "developerName": "hieudz",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Hack Features:   \n - Never Die   \n - Cash    \n - Monkey Money   \n - Consumes   \n - All Heroes Unlock   \n - All Towers Unlock   \n - All Upgrades Unlock   \n - All Knowledges Unlock",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/bloons-td-6-china.jpg",
+      "tintColor": "#FF6B35",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "51.2",
+          "minOSVersion": "14.0",
+          "date": "2025-11-30T02:42:51+00:00",
+          "size": 1465136375,
+          "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/bloons-td-6-china-v51.2/bloons-td-6-china-v51.2.ipa",
+          "localizedDescription": "Hack Features:   \n - Never Die   \n - Cash    \n - Monkey Money   \n - Consumes   \n - All Heroes Unlock   \n - All Towers Unlock   \n - All Upgrades Unlock   \n - All Knowledges Unlock"
+        }
+      ]
+    },
+    {
+      "name": "Rổ Phim",
+      "bundleIdentifier": "co.roteam.roteamios",
+      "developerName": "hieudz",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Modified iOS application",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/r-phim.png",
+      "tintColor": "#FF6B35",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.0.5",
+          "minOSVersion": "14.0",
+          "date": "2025-11-27T21:45:10+00:00",
+          "size": 37564574,
+          "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/r-phim-v1.0.5/r-phim-v1.0.5.ipa",
+          "localizedDescription": "Latest version"
+        }
+      ]
+    },
+    {
+      "name": "Mimo: Learn Coding/Programming",
+      "bundleIdentifier": "com.getmimo.mimo",
+      "developerName": "hieudz",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Hack Features:  \n - PREMIUM",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/mimo-learn-codingprogramming.jpg",
+      "tintColor": "#FF6B35",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "9.33.0",
+          "minOSVersion": "14.0",
+          "date": "2025-11-21T20:12:10+00:00",
+          "size": 146511884,
+          "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/mimo-learn-codingprogramming-v9.33.0/mimo-learn-codingprogramming-v9.33.0.ipa",
+          "localizedDescription": "Hack Features:  \n - PREMIUM"
+        }
+      ]
+    },
+    {
+      "name": "Bloons TD 6+",
+      "bundleIdentifier": "com.ninjakiwi.bloonstd6",
+      "developerName": "hieudz",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Hack Features:   \n - God Mode   \n - Fast Fire Rate   \n - No Regen Bloons   \n - Clear Bloons   \n - Auto Win   \n - Set Round   \n - Restart Match   \n - Add Cash   \n - Set Level   \n - Unlimited Daily Chest   \n - Add Trophies (‼️Use at your own risk‼️)   \n - Infinite Ability -new   \n - Place Tower Anywhere   \n - Infinite Heroes   \n - Multiple God Towers   \n - Infinite Cash   \n - Infinite Monkey Money   \n - Infinite Powers   \n - Unlock All Heroes   \n - Unlock All Knowledges   \n - Unlock All Towers   \n - Unlock All Upgrades   \n - Can Unlock Map (Click any locked map)   \n - Bypass Tutorial (Place one tower and quit the game)",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/bloons-td-6.jpg",
+      "tintColor": "#FF6B35",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "51.1",
+          "minOSVersion": "14.0",
+          "date": "2025-11-30T02:46:15+00:00",
+          "size": 83919872,
+          "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/bloons-td-6-v51.1/bloons-td-6-v51.1.ipa",
+          "localizedDescription": "Hack Features:   \n - God Mode   \n - Fast Fire Rate   \n - No Regen Bloons   \n - Clear Bloons   \n - Auto Win   \n - Set Round   \n - Restart Match   \n - Add Cash   \n - Set Level   \n - Unlimited Daily Chest   \n - Add Trophies (‼️Use at your own risk‼️)   \n - Infinite Ability -new   \n - Place Tower Anywhere   \n - Infinite Heroes   \n - Multiple God Towers   \n - Infinite Cash   \n - Infinite Monkey Money   \n - Infinite Powers   \n - Unlock All Heroes   \n - Unlock All Knowledges   \n - Unlock All Towers   \n - Unlock All Upgrades   \n - Can Unlock Map (Click any locked map)   \n - Bypass Tutorial (Place one tower and quit the game)"
+        }
+      ]
+    },
+    {
+      "name": "Quantumult X",
+      "bundleIdentifier": "com.crossutility.quantumult-x",
+      "developerName": "hieudz",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Modified iOS application",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/quantumult-x.jpg",
+      "tintColor": "#FF6B35",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.5.0",
+          "minOSVersion": "14.0",
+          "date": "2025-11-20T00:27:29+00:00",
+          "size": 23032294,
+          "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/quantumult-x-v1.5.0/quantumult-x-v1.5.0.ipa",
+          "localizedDescription": "- FREE PAID APP \n - This IPA only work with TrollStore and Paid Apple Certificate with VPN and CloudKit Entitlement Enabled"
+        }
+      ]
+    },
+    {
+      "name": "Shadowrocket",
+      "bundleIdentifier": "com.liguangming.Shadowrocket",
+      "developerName": "hieudz",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Modified iOS application",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/shadowrocket.jpg",
+      "tintColor": "#FF6B35",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "2.2.61",
+          "minOSVersion": "14.0",
+          "date": "2025-11-20T00:24:35+00:00",
+          "size": 17967075,
+          "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/shadowrocket-v2.2.61/shadowrocket-v2.2.61.ipa",
+          "localizedDescription": "- FREE PAID APP \n - This IPA only work with TrollStore and Paid Apple Certificate with VPN and CloudKit Entitlement Enabled"
+        }
+      ]
+    },
+    {
+      "name": "SoundCloud: The Music You Love",
+      "bundleIdentifier": "com.soundcloud.TouchApp",
+      "developerName": "hieudz",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Modified iOS application",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/soundcloud-the-music-you-love.jpg",
+      "tintColor": "#FF6B35",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "8.40.1",
+          "minOSVersion": "14.0",
+          "date": "2025-11-18T22:10:59+00:00",
+          "size": 91808161,
+          "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/soundcloud-the-music-you-love-v8.40.1/soundcloud-the-music-you-love-v8.40.1.ipa",
+          "localizedDescription": "- SCMusicPlus – SoundCloud++ iPA sử dụng dylib của @Rov3rRepo. \n - Nâng cao trải nghiệm SoundCloud của bạn \n - Với các tính năng nâng cao này, việc nghe nhạc trên SoundCloud sẽ trở nên mượt mà và tập trung hơn: \n - Loại bỏ quảng cáo – nghe nhạc không bị gián đoạn. \n - Loại bỏ playlist được quảng bá – chỉ tập trung vào âm nhạc bạn yêu thích. \n - Loại bỏ nút gợi ý mua nâng cấp (Upsell Buttons) – trải nghiệm gọn gàng, trực quan. \n"
+        }
+      ]
+    },
+    {
+      "name": "iEditor Pro – Text Code Editor",
+      "bundleIdentifier": "com.comcsoft.iEditorPro",
+      "developerName": "hieudz",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Modified iOS application",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/ieditor-pro-text-code-editor.jpg",
+      "tintColor": "#FF6B35",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "7.0",
+          "minOSVersion": "14.0",
+          "date": "2025-11-18T22:18:17+00:00",
+          "size": 20831372,
+          "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/ieditor-pro-text-code-editor-v7.0/ieditor-pro-text-code-editor-v7.0.ipa",
+          "localizedDescription": "- iEditor Pro là phiên bản nâng cấp của iEditor  \n - ứng dụng hàng đầu để chỉnh sửa file văn bản và mã nguồn trên iPhone và iPad.  \n - Với iEditor Pro, việc tạo, chỉnh sửa và quản lý file trở nên nhanh chóng và hiệu quả hơn bao giờ hết. \n"
+        }
+      ]
+    },
+    {
+      "name": "Facebook Wolf",
+      "bundleIdentifier": "com.facebook.Wolf",
+      "developerName": "hieudz",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Modified iOS application",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/facebook-wolf.png",
+      "tintColor": "#FF6B35",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "515.0",
+          "minOSVersion": "14.0",
+          "date": "2025-11-17T01:52:51+00:00",
+          "size": 170808423,
+          "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/facebook-wolf-515.0/facebook-wolf-515.0.ipa",
+          "localizedDescription": "- Facebook Wolf iPA sử dụng Wolf for Facebook bởi Michael và fix login bởi opa334.   \n - Facebook Wolf brings a number of new features to Facebook such as:   \n - Disable Marking Messages  \n - Disable Tying Status  \n - Disable Marking Stories  \n - Disable Auto-Advance in Stories  \n - No Facebook Story Ads  \n - No Facebook Feed Ads  \n - Save Feed videos by long-pressing the video  \n - Tải bản Clone để cài song song. \n"
+        }
+      ]
+    },
+    {
+      "name": "Facebook No Ads",
+      "bundleIdentifier": "com.facebook.Facebooknoads",
+      "developerName": "hieudz",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Modified iOS application",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/facebook-no-ads.png",
+      "tintColor": "#FF6B35",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "513.0",
+          "minOSVersion": "14.0",
+          "date": "2025-11-18T22:37:50+00:00",
+          "size": 167005280,
+          "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/facebook-no-ads-v513.0/facebook-no-ads-v513.0.ipa",
+          "localizedDescription": "- Facebook No Ads iPA sử dụng Facebook No Ads của Hao Nguyen (haoict) và P2KDev.    \n - Facebook No Ads có một số chức năng như sau:    \n - Gỡ quảng cáo: gỡ quảng cáo ở News Feed và Video.   \n - Tải video (hiện tại chưa hỗ trợ tải Reels): ấn giữ vào video để lưu.   \n - Tải story : nhấn vào nút download ở phía dưới bên phải để tải.   \n - Đối với story nào có bình luận anh em bấm giữ vào story để nó mất cái bình luận sau đó bấm tải.   \n - Tắt đã xem story: xem story mà người kia không biết.  \n"
+        }
+      ]
+    },
+    {
+      "name": "FileBrowser Professional",
+      "bundleIdentifier": "com.stratospherix.filebrowserbiz",
+      "developerName": "hieudz",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Modified iOS application",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/filebrowser-professional.jpg",
+      "tintColor": "#FF6B35",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "25.12",
+          "minOSVersion": "14.0",
+          "date": "2025-11-17T00:15:05+00:00",
+          "size": 30835110,
+          "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/filebrowser-professional-25.12/filebrowser-professional-25.12.ipa",
+          "localizedDescription": "- FileBrowser Professional là ứng dụng quản lý và truy cập tệp mạnh mẽ dành cho iPhone và iPad, được thiết kế cho người dùng chuyên nghiệp và môi trường doanh nghiệp. \n - Đây là giải pháp hàng đầu để kết nối, duyệt, chỉnh sửa và đồng bộ hóa dữ liệu từ hơn 20 loại máy chủ mạng, thiết bị lưu trữ và dịch vụ đám mây — tất cả trong một ứng dụng duy nhất."
+        }
+      ]
+    },
+    {
+      "name": "FileBrowser: Documents Manager",
+      "bundleIdentifier": "com.stratospherix.filebrowser",
+      "developerName": "hieudz",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Modified iOS application",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/filebrowser-documents-manager.jpg",
+      "tintColor": "#FF6B35",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "25.12",
+          "minOSVersion": "14.0",
+          "date": "2025-11-18T22:44:42+00:00",
+          "size": 30835110,
+          "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/filebrowser-documents-manager-v25.12/filebrowser-documents-manager-v25.12.ipa",
+          "localizedDescription": "- FileBrowser: Documents Manager là ứng dụng quản lý tệp chuyên sâu dành cho iOS.  \n - Cho phép bạn kết nối trực tiếp với máy tính Windows/Mac/Linux, NAS, ổ mạng, và dịch vụ lưu trữ đám mây ngay trên iPhone hoặc iPad.   \n - Đây là giải pháp lý tưởng cho người dùng muốn duyệt, sao chép, chỉnh sửa và quản lý tệp ở nhiều nguồn khác nhau mà vẫn giữ được tốc độ cực nhanh và giao diện trực quan.  \n"
+        }
+      ]
+    },
+    {
+      "name": "Very Little Nightmares",
+      "bundleIdentifier": "eu.bandainamcoent.verylittlenightmares",
+      "developerName": "hieudz",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Modified iOS application",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/very-little-nightmares.webp",
+      "tintColor": "#FF6B35",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.3.1",
+          "minOSVersion": "14.0",
+          "date": "2025-11-16T22:13:58+00:00",
+          "size": 756833208,
+          "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/very-little-nightmares-1.3.1/very-little-nightmares-1.3.1.ipa",
+          "localizedDescription": "- Very Little Nightmares+ là phiên bản đặc biệt của tựa game giải đố kinh dị nổi tiếng Very Little Nightmares, được phát hành độc quyền trên Apple Arcade. \n - Trò chơi mang đến một trải nghiệm phiêu lưu rùng rợn, kết hợp yếu tố giải đố tinh tế và một bầu không khí u ám, đầy căng thẳng."
+        }
+      ]
+    },
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "developerName": "hieudz",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Modified iOS application",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/81gsSy5r13L.png",
+      "tintColor": "#FF6B35",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.21.123",
+          "minOSVersion": "14.0",
+          "date": "2025-11-16T20:36:16+00:00",
+          "size": 596392258,
+          "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/minecraft-1.21.123/minecraft-1.21.123.ipa",
+          "localizedDescription": "- Minecraft là một trong những tựa game nổi tiếng nhất trên thế giới, và hiện nay đã có mặt trên hầu hết các nền tảng, bao gồm cả iOS. \n - Trò chơi này được phát triển bởi Mojang Studios, một công ty con của Microsoft, và được phát hành lần đầu vào năm 2011."
+        }
+      ]
+    },
+    {
+      "name": "Hitman GO",
+      "bundleIdentifier": "com.squareenixmontreal.hitmango",
+      "developerName": "hieudz",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Modified iOS application",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/Hitman-GO.png",
+      "tintColor": "#FF6B35",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.16",
+          "minOSVersion": "14.0",
+          "date": "2025-11-16T20:02:23+00:00",
+          "size": 527726805,
+          "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/hitman-go-1.16/hitman-go-1.16.ipa",
+          "localizedDescription": "- Hitman GO là một trò chơi chiến lược theo lượt (turn-based strategy) đoạt giải thưởng, nổi bật với đồ họa mô hình diorama tuyệt đẹp. \n - Trò chơi biến các nhiệm vụ ám sát và xâm nhập điển hình của Agent 47 thành những câu đố chiến thuật thông minh, nơi bạn phải suy nghĩ cẩn thận từng bước di chuyển để tránh kẻ thù và hoàn thành mục tiêu. \n - Trong Hitman GO, mọi hành động đều được cân nhắc kỹ lưỡng. Bạn sẽ tận dụng đầy đủ các công cụ quen thuộc của Agent 47: trang phục ngụy trang, vật để gây xao nhãng, súng bắn tỉa và cả hai khẩu Silverballers huyền thoại."
+        }
+      ]
+    },
+    {
+      "name": "DLiPA",
+      "bundleIdentifier": "com.dlipa.client",
+      "developerName": "hieudz",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "DLiPA là một ứng dụng iOS lấy cảm hứng từ dự án ipatool. Ứng dụng cho phép người dùng tải về, cài đặt và chia sẻ các ứng dụng trên App Store bằng Apple ID của họ, hỗ trợ cả việc tải phiên bản cũ — không cần jailbreak.",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/DLiPA.png",
+      "tintColor": "#FF6B35",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.0",
+          "minOSVersion": "14.0",
+          "date": "2025-11-14T23:49:30+00:00",
+          "size": 480247,
+          "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/dlipa-1.0/dlipa-1.0.ipa",
+          "localizedDescription": "- DLiPA là một ứng dụng iOS lấy cảm hứng từ dự án ipatool. \n - Ứng dụng cho phép người dùng tải về, cài đặt và chia sẻ các ứng dụng trên App Store bằng Apple ID của họ, hỗ trợ cả việc tải phiên bản cũ — không cần jailbreak."
+        }
+      ]
+    },
+    {
+      "name": "LiveContainer",
+      "bundleIdentifier": "com.LiveContainer.client",
+      "developerName": "hieudz",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Modified iOS application",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/livecontainer_icon.png",
+      "tintColor": "#FF6B35",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "3.6.1",
+          "minOSVersion": "14.0",
+          "date": "2025-11-14T23:28:50+00:00",
+          "size": 4232092,
+          "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/livecontainer-3.6.1/livecontainer-3.6.1.ipa",
+          "localizedDescription": "- LiveContainer là một trình khởi chạy ứng dụng (app launcher) mạnh mẽ cho iOS.  \n - Cho phép bạn cài đặt và chạy nhiều ứng dụng IPA ngay bên trong nó, mà không cần jailbreak thiết b���.   \n - Không phải là trình giả lập hay hypervisor.  \n - LiveContainer hoạt động như một môi trường độc lập giúp bạn tách biệt các ứng dụng, dễ dàng quản lý, và tận dụng tối đa sức mạnh của thiết bị iOS.  \n"
+        }
+      ]
+    }
+  ]
+}
