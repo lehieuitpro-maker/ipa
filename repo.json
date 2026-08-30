@@ -1234,12 +1234,12 @@
     },
     {
       "name": "LiveContainer",
-      "bundleIdentifier": "com.LiveContainer.client",
-      "developerName": "hieudz",
+      "bundleIdentifier": "com.kdt.livecontainer",
+      "developerName": "LiveContainer",
       "subtitle": "Modified iOS application",
-      "localizedDescription": "Modified iOS application",
+      "localizedDescription": "Trình khởi chạy ứng dụng cho phép cài và chạy nhiều ứng dụng iOS bên trong LiveContainer mà không cần cài từng ứng dụng lên thiết bị. Yêu cầu iOS 15.0+. Đây là bản standalone, yêu cầu SideStore 0.6.2+ hoặc AltStore 2.2.1+ để cài đặt.",
       "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/livecontainer_icon.png",
-      "tintColor": "#FF6B35",
+      "tintColor": "#0A84FF",
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -1247,12 +1247,36 @@
       },
       "versions": [
         {
-          "version": "3.6.1",
+          "version": "3.8.0",
           "minOSVersion": "14.0",
-          "date": "2025-11-14T23:28:50+00:00",
-          "size": 4232092,
-          "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/livecontainer-3.6.1/livecontainer-3.6.1.ipa",
-          "localizedDescription": "- LiveContainer là một trình khởi chạy ứng dụng (app launcher) mạnh mẽ cho iOS.  \n - Cho phép bạn cài đặt và chạy nhiều ứng dụng IPA ngay bên trong nó, mà không cần jailbreak thiết b���.   \n - Không phải là trình giả lập hay hypervisor.  \n - LiveContainer hoạt động như một môi trường độc lập giúp bạn tách biệt các ứng dụng, dễ dàng quản lý, và tận dụng tối đa sức mạnh của thiết bị iOS.  \n"
+          "date": "2026-07-17T07:44:20Z",
+          "size": 4707271,
+          "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.8.0/LiveContainer.ipa",
+          "localizedDescription": "LiveContainer 3.8.0: thêm quản lý dung lượng, hỗ trợ nhiều LiveContainer, Share Extension, cải thiện đa nhiệm, JIT và TweakLoader, đồng thời sửa nhiều lỗi."
+        }
+      ]
+    },
+    {
+      "name": "LiveContainer + SideStore",
+      "bundleIdentifier": "com.kdt.livecontainer.sidestore",
+      "developerName": "LiveContainer",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Bản LiveContainer tích hợp sẵn SideStore, dùng để chạy và quản lý nhiều ứng dụng iOS bên trong một ứng dụng. Yêu cầu iOS 15.0+. Nhà phát triển khuyến nghị cài bản này bằng Impactor hoặc iloader theo hướng dẫn chính thức.",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/livecontainer_icon.png",
+      "tintColor": "#0A84FF",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "3.8.0",
+          "minOSVersion": "14.0",
+          "date": "2026-07-17T07:44:20Z",
+          "size": 35403538,
+          "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.8.0/LiveContainer%2BSideStore.ipa",
+          "localizedDescription": "LiveContainer 3.8.0 tích hợp SideStore: thêm quản lý dung lượng, hỗ trợ nhiều LiveContainer, Share Extension, cải thiện đa nhiệm, JIT và TweakLoader, đồng thời sửa nhiều lỗi."
         }
       ]
     },
