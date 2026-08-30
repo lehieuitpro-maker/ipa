@@ -959,12 +959,12 @@
       },
       "versions": [
         {
-          "version": "1.5.0",
+          "version": "1.7.0",
           "minOSVersion": "14.0",
-          "date": "2025-11-20T00:27:29+00:00",
-          "size": 23032294,
-          "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/quantumult-x-v1.5.0/quantumult-x-v1.5.0.ipa",
-          "localizedDescription": "- FREE PAID APP \n - This IPA only work with TrollStore and Paid Apple Certificate with VPN and CloudKit Entitlement Enabled"
+          "date": "2026-08-30T01:17:03+00:00",
+          "size": 38506839,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/quantumult-x-v1.7.0-b941-82c579d71d1c/quantumult-x_v1.7.0_b941.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 941."
         }
       ]
     },
