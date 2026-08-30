@@ -1039,6 +1039,22 @@
       "isLanZouCloud": 0,
       "size": 269923719,
       "type": 1
+    },
+    {
+      "name": "Dazz Cam - Vintage Camera",
+      "bundleIdentifier": "dazz.camera.vintagecamera",
+      "developerName": "DAZZ PTE. LTD.",
+      "version": "2.17.4",
+      "buildVersion": "17",
+      "versionDate": "2026-08-30T23:43:52+00:00",
+      "versionDescription": "Cập nhật tự động từ IPA đã xác minh. Build 17.",
+      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/dazz-cam---vintage-camera-v2.17.4-b17-8f933ba7c835/dazz-cam---vintage-camera_v2.17.4_b17.ipa",
+      "localizedDescription": "Dazz Camera, Pro Photographer in your Pocket.\nWe believe in keeping it simple, no need for post-editing. With just one tap, you can capture the most authentic vintage photos or videos, letting you enjoy the moment without distractions.\n\nDazz camera is inspired by classic film cameras from the 80s. We’ve sampled real film stock to recreate the colors and textures of vintage photography. Dazz camera supports shooting in various retro film formats like 135 film, 120 film, toy cameras, slide film, half-frame cameras, instant camera, 3D film photography, disposable camera, and more. \n\nBesides film photography, Dazz camera also offers modern digital camera color profiles, including compact camera, CCD camera, and we’re constantly adding more.\n\nYou can also capture videos with a retro vibe, using formats like 8mm film camera, 16mm film camera, VHS tape camera, DCR camera, movie camera, and slide projector.\n\nWe’re always rolling out new cameras, so keep an eye out!\n\nWhen you’re capturing photos and videos, we’ve got some cool extra features and accessories for you:\n\n- Save the negative and reprocess it to achieve different exposure and color temperature. (Available on select cameras)\n- Double exposure effect by layering two photos.\n- Timer for delayed shots.\n- Flash.\n- Import your existing photos for editing. (Available on select cameras)\n- Adjust color temperature and tint.\n- Switch between preset focal lengths or adjust freely.\n- Tweak exposure compensation.\n- Adjust ISO and shutter speed.\n- Stabilization settings.\n- Composition grids.\n- Fisheye lens.\n- Starburst lens.\n- Color flash filters.\n- Prism lens.\n- ND filter.\n\nWhen you share your photos on social media, don’t forget to tag them with #dazzcam. Our team might just feature your awesome photos in our collection!\n\nGot any questions? Email us at dazz.camera@gmail.com.\n\n\nDazz Pro Subscription\n\n- Join Dazz Pro to access all cameras and accessories.\n- Payment will be charged to your iTunes account at confirmation of purchase. \n- Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. \n- Your account will be charged for renewal, in accordance with your plan, within 24 hours prior to the end of the current period. \n- You can manage or turn off auto-renew in your Apple ID account settings any time after purchase.\n\nTerms of Use:\nhttp://dazz.ltd/dazz/terms_and_conditions.html\n\nPrivacy policy:\nhttp://dazz.ltd/dazz/privacy_policy.html",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/dazz-cam---vintage-camera.jpg",
+      "tintColor": "4A90E2",
+      "isLanZouCloud": 0,
+      "size": 121059452,
+      "type": 1
     }
   ]
 }
