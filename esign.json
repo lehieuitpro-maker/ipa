@@ -631,16 +631,17 @@
       "name": "Shadowrocket",
       "bundleIdentifier": "com.liguangming.Shadowrocket",
       "developerName": "hieudz",
-      "version": "2.2.61",
-      "versionDate": "2025-11-20T00:24:35+00:00",
-      "versionDescription": "- FREE PAID APP \n - This IPA only work with TrollStore and Paid Apple Certificate with VPN and CloudKit Entitlement Enabled",
-      "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/shadowrocket-v2.2.61/shadowrocket-v2.2.61.ipa",
+      "version": "2.2.90",
+      "versionDate": "2026-08-30T01:15:44+00:00",
+      "versionDescription": "Cập nhật tự động từ IPA đã xác minh. Build 3378.",
+      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/shadowrocket-v2.2.90-b3378-a15f490951a9/shadowrocket_v2.2.90_b3378.ipa",
       "localizedDescription": "Modified iOS application",
       "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/shadowrocket.jpg",
       "tintColor": "FF6B35",
       "isLanZouCloud": 0,
-      "size": 17967075,
-      "type": 1
+      "size": 22981489,
+      "type": 1,
+      "buildVersion": "3378"
     },
     {
       "name": "SoundCloud: The Music You Love",
