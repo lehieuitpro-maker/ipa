@@ -924,6 +924,22 @@
       "isLanZouCloud": 0,
       "size": 76340911,
       "type": 1
+    },
+    {
+      "name": "X",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "X Corp.",
+      "version": "12.20",
+      "buildVersion": "16",
+      "versionDate": "2026-08-30T23:03:40+00:00",
+      "versionDescription": "Cập nhật tự động từ IPA đã xác minh. Build 16.",
+      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/x-v12.20-b16-dc79a650628c/x_v12.20_b16.ipa",
+      "localizedDescription": "X (formerly Twitter) is a social media app where you can follow breaking news, live events, and trending topics as they happen. Sports, tech, music, politics: whatever you're into, the conversation starts here, raw and unfiltered.\n\nIt's also a place to be heard. Post your take on the day's news, go live, and grow an audience for whatever you create. Millions of people come to X every day to find out what's happening and talk about it.\n\n\nWHAT YOU CAN DO ON X\n\n- Follow breaking news – Get news from around the world before it hits the headlines, with real-time updates on trending topics and viral conversations.\n- Post to a global community – Share your thoughts, photos, and videos. Join millions of users shaping public dialogue across social, cultural, and political conversations.\n- Ask Grok – Grok is the AI assistant powered by X's real-time data. Ask Grok to summarize trending news, explain videos, or give you more context about posts. Grok also powers the photo and video editing tools in the app.\n- Create original videos – The built-in Video Editor and Recorder lets you shoot, add multi-language captions, apply green screen effects, and post pro-level content directly in the app.\n- Go live on video – Stream a concert, a live game, or your thoughts on a hot topic, and keep your audience engaged with enhanced livestream tools.\n- Watch video and podcasts – From live breaking news and sports clips to podcasts and gaming sessions up to 3 hours long. Many of the world's leading voices in comedy, gaming, podcasting, and politics share their content on X.\n- Host live audio with Spaces – Spaces is X's audio feature for hosting discussions, holding interviews, or starting your next live podcast.\n- Message privately – Connect and chat with friends, followers, customers, or collaborators through Direct Messages.\n- Pin Custom Timelines – Custom Timelines are Grok-powered topic feeds you can pin for the topics you follow most.\n- Turn on Priority Notifications – Priority Notifications surface your key interactions first.\n- Open your History tab – The History tab is one unified place for your bookmarks, likes, videos, and articles.\n- Subscribe to X Premium – X Premium unlocks a blue checkmark, boosted visibility, prioritized replies, fewer ads, longer videos, and post editing. It also gives you creator revenue sharing and the ability to offer exclusive content to subscribers.\n\nWHO X IS FOR\n\nX is for people who follow breaking news and live events in real time, for sports, tech, music, and politics fans, for creators and podcasters who stream and create original video content for an audience, and for anyone building a community around gaming, entertainment, crypto, entrepreneurship, or tech.\n\nWHY X?\n\nIn a world of constant change, X is your real-time source to stay ahead of the curve, connect with people, explore diverse perspectives, and create standout content. From breaking live news and trending memes to top podcasts, live streams, and original videos from your favorite creators, X brings it all together in one powerful social experience.\n\nPrivacy Policy: https://x.com/privacy\nTerms and Conditions: https://x.com/tos",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/x.jpg",
+      "tintColor": "4A90E2",
+      "isLanZouCloud": 0,
+      "size": 282085781,
+      "type": 1
     }
   ]
 }
