@@ -972,6 +972,23 @@
       "isLanZouCloud": 0,
       "size": 371990584,
       "type": 1
+    },
+    {
+      "name": "RyukGram for Instagram",
+      "bundleIdentifier": "com.burbn.instagram.ryukgram-for-instagram",
+      "developerName": "Instagram, Inc.",
+      "version": "443.1.0",
+      "buildVersion": "1045455915",
+      "versionDate": "2026-08-30T23:20:38+00:00",
+      "versionDescription": "Cập nhật tự động từ IPA đã xác minh. Build 1045455915.",
+      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/ryukgram-for-instagram-v443.1.0-b1045455915-3b8a518249b5/ryukgram-for-instagram_v443.1.0_b1045455915.ipa",
+      "localizedDescription": "Little moments lead to big friendships. Share yours on Instagram. \n— From Meta\n\nConnect with friends, find other fans, and see what people around you are up to and into. Explore your interests and post what's going on, from your daily moments to life's highlights.\n\nShare what you’re up to and into:\n- Turn your life into a movie and discover short, entertaining videos on Instagram with Reels.\n- Keep up with friends on the fly with Stories and Notes that disappear after 24 hours.\n- Start group chats and share unfiltered moments with your Close Friends.\n- Share memories from recent events or trips in Feed.\n- Customize your posts with exclusive templates, music, stickers and filters.\n\nDive into your interests.\n- Watch videos from your favorite creators and discover new content that’s personalized to your interests.\n- Get inspired by photos and videos from new accounts in Explore.\n- Discover brands and small businesses, and shop products that are relevant to your personal style.\n\nSome Instagram features may not be available in your country or region.\n\nTerms and Policies: https://help.instagram.com/581066165581870\n\nConsumer Health Privacy Policy: https://privacycenter.instagram.com/policies/health\n\nLearn how we're working to help keep our communities safe across Meta technologies at the Instagram Safety Center: https://about.instagram.com/safety",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/ryukgram-for-instagram.jpg",
+      "tintColor": "4A90E2",
+      "isLanZouCloud": 0,
+      "size": 346069038,
+      "type": 1,
+      "originalBundleIdentifier": "com.burbn.instagram"
     }
   ]
 }
