@@ -806,6 +806,22 @@
       "isLanZouCloud": 0,
       "size": 4232092,
       "type": 1
+    },
+    {
+      "name": "Học Cùng Bơ",
+      "bundleIdentifier": "com.example.kidiosnative",
+      "developerName": "lehieuit",
+      "version": "1.0",
+      "buildVersion": "1",
+      "versionDate": "2026-08-30T01:06:59+00:00",
+      "versionDescription": "Cập nhật tự động từ IPA đã xác minh. Build 1.",
+      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/h-c-c-ng-b-v1.0-b1-7ab957dd3fdb/h-c-c-ng-b_v1.0_b1.ipa",
+      "localizedDescription": "Thế giới động vật",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/h-c-c-ng-b.png",
+      "tintColor": "4A90E2",
+      "isLanZouCloud": 0,
+      "size": 98981920,
+      "type": 1
     }
   ]
 }
