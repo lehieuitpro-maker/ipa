@@ -1135,6 +1135,22 @@
       "isLanZouCloud": 0,
       "size": 84836056,
       "type": 1
+    },
+    {
+      "name": "Babilala: Tiếng Anh Online",
+      "bundleIdentifier": "com.edupia.babilala",
+      "developerName": "Hung Tran Duc",
+      "version": "2.74",
+      "buildVersion": "1",
+      "versionDate": "2026-08-30T23:52:22+00:00",
+      "versionDescription": "Cập nhật tự động từ IPA đã xác minh. Build 1.",
+      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/babilala-ti-ng-anh-online-v2.74-b1-1025c8cd88c4/babilala-ti-ng-anh-online_v2.74_b1.ipa",
+      "localizedDescription": "Babilala is a foundation English course for children from 3 to 8 years old. The program is logically designed by Vietnamese and international early education experts, attached to the CEFR common European language standard.\n\nUsing the Cambridge curriculum as a core, Babilala helps preschool children learn English in a systematic ways. We believe that Babilala is a perfect start for a future generation keen to get a hatch learning English.\n\nInteresting points of the course:\n- A comprehensive system of courses equivalent to Cambridge Starter Certificate, including 3 levels, 75 topics, 5000 interactive games.\n- Online learning at home on phones, tablets / iPads only 15-20 minutes / day\n- Babilala's lessons are built lively and humorous to stimulate your child's interest in learning English.\n- Role-playing and interactive learning methods: New words, sentence patterns are introduced naturally in context. Using cartoon and interactive games, which helps children memorize well and longer than other methods.\n- Learn English through songs: Children dance to the melodies of 35 English songs Copyright only on Babilala\n- Children with English pronunciation standard with iSpeak technology: Using Google's voice recognition technology. Grading, fixing errors in time and encouraging children to strongly communicate.\n\nTargets course:\n- Improve overall Listening - Speaking - Reading - Writing skills.\n-Get acquainted with English, develop interest in learning, build a solid foundation.\n- Master 3000 new words with 300 common sentence patterns and using learned knowledge patterns for basic communication.\n- Children pronounce accurately thanks to studying with foreign teachers and practicing with the exclusive I-Speak speaking technology.\n- Not only helps children improve their vocabulary, Babilala also surpasses textbook knowledge to help them expand their knowledge of life and explore culture.\n- Babilala has 75 topics which are all about kids and their life such as family, going to school, animals, colours, and numbers.\n\nApplication functions:\n- The content is built with 75 familiar topics, 100 songs, 3000 words, 5000 interactive games.\n- Easy interactive games. Help children memorize vocabulary naturally.\n- iSpeak technology scores and checks pronunciation errors in time\n- The collection of eye-catching stickers attracts children to study on Babilala\n- Detailed tracking of learning results and sharing achievements.\n- Allow 1 study account on multiple devices\n- Effective support and guidance from teaching staffs with many experiences in English training\n- No ads and completely safe for children.\n\nIf you have any questions or suggestions, feel free to contact us. We are always ready to support you!\n\nEmail: hotro@babilala.vn\nFanpage : https://www.facebook.com/babilala.vn\nHotline: 093.120.8686",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/babilala-ti-ng-anh-online.jpg",
+      "tintColor": "4A90E2",
+      "isLanZouCloud": 0,
+      "size": 178039238,
+      "type": 1
     }
   ]
 }
