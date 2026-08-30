@@ -616,16 +616,17 @@
       "name": "Quantumult X",
       "bundleIdentifier": "com.crossutility.quantumult-x",
       "developerName": "hieudz",
-      "version": "1.5.0",
-      "versionDate": "2025-11-20T00:27:29+00:00",
-      "versionDescription": "- FREE PAID APP \n - This IPA only work with TrollStore and Paid Apple Certificate with VPN and CloudKit Entitlement Enabled",
-      "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/quantumult-x-v1.5.0/quantumult-x-v1.5.0.ipa",
+      "version": "1.7.0",
+      "versionDate": "2026-08-30T01:17:03+00:00",
+      "versionDescription": "Cập nhật tự động từ IPA đã xác minh. Build 941.",
+      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/quantumult-x-v1.7.0-b941-82c579d71d1c/quantumult-x_v1.7.0_b941.ipa",
       "localizedDescription": "Modified iOS application",
       "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/quantumult-x.jpg",
       "tintColor": "FF6B35",
       "isLanZouCloud": 0,
-      "size": 23032294,
-      "type": 1
+      "size": 38506839,
+      "type": 1,
+      "buildVersion": "941"
     },
     {
       "name": "Shadowrocket",
