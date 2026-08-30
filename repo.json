@@ -873,30 +873,6 @@
       ]
     },
     {
-      "name": "Rổ Phim",
-      "bundleIdentifier": "co.roteam.roteamios",
-      "developerName": "hieudz",
-      "subtitle": "Modified iOS application",
-      "localizedDescription": "Modified iOS application",
-      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/r-phim.png",
-      "tintColor": "#FF6B35",
-      "screenshots": [],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "versions": [
-        {
-          "version": "1.0.5",
-          "minOSVersion": "14.0",
-          "date": "2025-11-27T21:45:10+00:00",
-          "size": 37564574,
-          "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/r-phim-v1.0.5/r-phim-v1.0.5.ipa",
-          "localizedDescription": "Latest version"
-        }
-      ]
-    },
-    {
       "name": "Mimo: Learn Coding/Programming",
       "bundleIdentifier": "com.getmimo.mimo",
       "developerName": "hieudz",
