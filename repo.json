@@ -143,12 +143,12 @@
       },
       "versions": [
         {
-          "version": "2.9.0",
+          "version": "2.34.0",
           "minOSVersion": "14.0",
-          "date": "2025-11-10T21:40:00+01:00",
-          "size": 73615608,
-          "downloadURL": "https://www.dropbox.com/scl/fi/3g466l7fydodlyrgyr3ua/Locket_68bdfba2bde41.ipa?rlkey=2t4frkri2knnhfzj4zz5ejjzg&st=fsb8otd3&dl=1",
-          "localizedDescription": "Locket Gold – Locket++ iPA by Lê Tí, cảm ơn LK Team đã hỗ trợ.\nLưu ý:\n- Nếu sign bằng Apple ID (AltStore, Sideloadly, BullFrog Assistant…) hoặc clone thêm 1 bản sẽ không thể đăng nhập hoặc bị crash.\n- Tạo tài khoản bằng địa chỉ email trên ứng dụng tải từ App Store trước, sau đó đăng nhập bằng email trên ứng dụng cài bằng iPA.\n- Để có thể sử dụng widget vui lòng cài Locket từ App Store trước, sau đó đăng ký hoặc đăng nhập tài khoản, tiếp theo thêm widget của Locket vào màn hình chính, bây giờ sử dụng TrollStore cài đè iPA để kích hoạt tính năng Gold như upload ảnh, không quảng cáo…\n- Nếu bạn muốn sử dụng Widget khi cài đặt bằng chứng chỉ, hãy tải ipa Locket++ về -> upload ipa lên https://ipatool.codevn.net/inject-dylib/ -> tick vào ExtensionFix (By Blatant) -> bấm Inject now -> chờ hệ thống xử lý và tải ipa mới về -> ký bằng chứng chỉ và cài đặt."
+          "date": "2026-03-08T18:57:28Z",
+          "size": 338992146,
+          "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/locket-gold-v2.34.0/locket-gold-v2.34.0.ipa",
+          "localizedDescription": "Locket Gold 2.34.0. Lưu ý: ký bằng Apple ID hoặc clone có thể khiến ứng dụng không đăng nhập được hoặc bị crash. Nên tạo tài khoản bằng ứng dụng App Store trước; để dùng widget, thêm widget bằng bản App Store rồi cài đè IPA bằng TrollStore."
         }
       ]
     },
@@ -1325,6 +1325,30 @@
           "size": 2340147,
           "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/ch-m-c-ng-hi-u-it-v1.0-b1-2463101e2915/ch-m-c-ng-hi-u-it_v1.0_b1.ipa",
           "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 1."
+        }
+      ]
+    },
+    {
+      "name": "Plant vs Zombies China",
+      "bundleIdentifier": "com.popcap.ios.chs.PVZ2",
+      "developerName": "PopCap",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "- Mặt trời không giới hạn → chi tiêu tự do cho việc đặt cây \\n - Thức ăn cây không giới hạn → nâng cao sức mạnh cho cây của bạn mà không có giới hạn",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/plant-vs-zombies-china.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "4.2.1",
+          "minOSVersion": "14.0",
+          "date": "2026-08-30T01:45:37+00:00",
+          "size": 3080243588,
+          "downloadURL": "https://archive.org/download/lehieuitpro-maker-ipa-plant-vs-zombies-china-v4.2.1-b4.2.1.392-f326f458ba61/plant-vs-zombies-china_v4.2.1_b4.2.1.392.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 4.2.1.392."
         }
       ]
     }
