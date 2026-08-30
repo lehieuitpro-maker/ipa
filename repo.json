@@ -1255,6 +1255,54 @@
           "localizedDescription": "- LiveContainer là một trình khởi chạy ứng dụng (app launcher) mạnh mẽ cho iOS.  \n - Cho phép bạn cài đặt và chạy nhiều ứng dụng IPA ngay bên trong nó, mà không cần jailbreak thiết b���.   \n - Không phải là trình giả lập hay hypervisor.  \n - LiveContainer hoạt động như một môi trường độc lập giúp bạn tách biệt các ứng dụng, dễ dàng quản lý, và tận dụng tối đa sức mạnh của thiết bị iOS.  \n"
         }
       ]
+    },
+    {
+      "name": "Học Cùng Bơ",
+      "bundleIdentifier": "com.example.kidiosnative",
+      "developerName": "lehieuit",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Thế giới động vật",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/h-c-c-ng-b.png",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.0",
+          "minOSVersion": "14.0",
+          "date": "2026-08-30T01:06:59+00:00",
+          "size": 98981920,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/h-c-c-ng-b-v1.0-b1-7ab957dd3fdb/h-c-c-ng-b_v1.0_b1.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 1."
+        }
+      ]
+    },
+    {
+      "name": "Chấm Công Hiếu IT",
+      "bundleIdentifier": "com.hieuit.ChamCongHieuIT",
+      "developerName": "lehieuit",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Ứng dụng iOS chấm công cá nhân, lưu offline và xuất PDF",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/ch-m-c-ng-hi-u-it.png",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.0",
+          "minOSVersion": "14.0",
+          "date": "2026-08-30T01:10:59+00:00",
+          "size": 2340147,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/ch-m-c-ng-hi-u-it-v1.0-b1-2463101e2915/ch-m-c-ng-hi-u-it_v1.0_b1.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 1."
+        }
+      ]
     }
   ]
 }
