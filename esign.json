@@ -1023,6 +1023,22 @@
       "size": 124187610,
       "type": 1,
       "originalBundleIdentifier": "com.google.ios.youtube"
+    },
+    {
+      "name": "Toca Boca Hair Salon 4",
+      "bundleIdentifier": "com.tocaboca.tocahairsalon4",
+      "developerName": "Piknik",
+      "version": "3.1.224",
+      "buildVersion": "3.1.224",
+      "versionDate": "2026-08-30T23:42:03+00:00",
+      "versionDescription": "Cập nhật tự động từ IPA đã xác minh. Build 3.1.224.",
+      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/toca-boca-hair-salon-4-v3.1.224-b3.1.224-5540b37e6e43/toca-boca-hair-salon-4_v3.1.224_b3.1.224.ipa",
+      "localizedDescription": "Welcome to Toca Boca Hair Salon 4! Unleash your creativity in the salon and whip up any style you can imagine. Whether you choose a character and create a brand-new look you’ve dreamed up or just see where the tools take you, each makeover is an adventure. Get creative with makeup, face paint, hair and beard tools, and much more!\n\nToca Boca Hair Salon 4 is part of Piknik – one subscription, endless ways to play and learn! Get full access to the world's best preschool apps from  Toca Boca, Sago Mini, and Originator with an Unlimited Plan.\n\nCUT, COLOR, AND STYLE AT THE HAIR AND BEARD STATION\nTrim, shave, and even re-grow hair anywhere on your character’s head! This station has all the hot tools you need for curling, straightening, and texturizing. In the mood to create something colorful? Grab the bottles of hair dye and choose any color of the rainbow for a bold new look. Your hair salon, your rules! \n\nGET CREATIVE WITH MAKEUP IN THE FACE STATION\nExpand your hair salon by purchasing the face station! You’ll find all kinds of makeup in every color for endless makeover options. Create lush lashes with mascara, and pick a tool to put on eyeliner, eyeshadow, or blush! In the mood for a bolder look? Grab the face paints and draw right onto your character’s face for a creative new style that’s anything but boring. \n\nPICK OUT A NEW OUTFIT AT THE STYLE STATION\nWhat’s a makeover without some new clothes to go with it? There are hundreds of styles to suit that new look at the style station! Change up your character’s outfit, pick out some stickers, and add a finishing touch with accessories like glasses and hats. \n\nSNAP A PIC IN THE PHOTO BOOTH\nChoose a background, watch them strike a pose, and snap a picture of your character’s new style! You can even save a picture of your character’s makeover in a photo book and return to styling them later. \n\nSCRUB UP SOME SUDS AT THE SHAMPOO STATION\nReady for a fresh start? Wash hair, towel off, and blow dry at the shampoo station. Watch their face paint and makeup drip away so you can create a brand-new look at the salon!\n\nPRIVACY POLICY\nAll of Toca Boca’s products are COPPA-compliant. We take privacy very seriously, and we’re committed to providing safe and secure apps for kids that parents can trust. To learn more about how we design and maintain safe games for kids, please read our - \nPrivacy policy: https://playpiknik.link/privacy-policy\nTerms of use: https://playpiknik.link/terms-of-use\n\nABOUT TOCA BOCA \nToca Boca is an award-winning game studio that makes digital toys for kids. We think playing and having fun is the best way to learn about the world. Therefore we make digital toys and games that help stimulate the imagination, and that you can play together with your kids. Best of all – we do it in a safe way without third-party advertising.",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/toca-boca-hair-salon-4.jpg",
+      "tintColor": "4A90E2",
+      "isLanZouCloud": 0,
+      "size": 269923719,
+      "type": 1
     }
   ]
 }
