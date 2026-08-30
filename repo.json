@@ -983,12 +983,12 @@
       },
       "versions": [
         {
-          "version": "2.2.61",
+          "version": "2.2.90",
           "minOSVersion": "14.0",
-          "date": "2025-11-20T00:24:35+00:00",
-          "size": 17967075,
-          "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/shadowrocket-v2.2.61/shadowrocket-v2.2.61.ipa",
-          "localizedDescription": "- FREE PAID APP \n - This IPA only work with TrollStore and Paid Apple Certificate with VPN and CloudKit Entitlement Enabled"
+          "date": "2026-08-30T01:15:44+00:00",
+          "size": 22981489,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/shadowrocket-v2.2.90-b3378-a15f490951a9/shadowrocket_v2.2.90_b3378.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 3378."
         }
       ]
     },
