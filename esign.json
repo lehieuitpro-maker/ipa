@@ -940,6 +940,22 @@
       "isLanZouCloud": 0,
       "size": 282085781,
       "type": 1
+    },
+    {
+      "name": "Facetune: Photo & Video Editor",
+      "bundleIdentifier": "com.lightricks.Facetune2",
+      "developerName": "Lightricks Ltd.",
+      "version": "26.26",
+      "buildVersion": "9960",
+      "versionDate": "2026-08-30T23:10:26+00:00",
+      "versionDescription": "Cập nhật tự động từ IPA đã xác minh. Build 9960.",
+      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/facetune-photo-video-editor-v26.26-b9960-081594a56c7c/facetune-photo-video-editor_v26.26_b9960.ipa",
+      "localizedDescription": "Welcome to Facetune, where every photo hits.\nYour camera captures the moment. Facetune makes it unforgettable. From quick touch-ups to full transformations, we've built the tools that let you show up exactly how you want.\n‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿\n\nKey Features:\n\nRetouch & Refine:\n* Smooth: Achieve a natural, flawless complexion by removing blemishes and imperfections instantly.\n* Reshape: Subtly enhance your features with precise, natural-looking adjustments.\n* Whiten: Brighten your smile and make your teeth look their best (works on sneakers too).\n\nStyle & Transform:\n* Hairstyles: Try 20+ styles — from Sleek Bun to Butterfly Cut to Glam Blowout — without touching a single strand.\n* Beard & Hair: Try on Stubble, Hipster, Goatee, Long Beard, and more with editing that actually looks real.\n* Makeup: Apply virtual makeup for a full glam look with zero commitment.\n\nPro-Level Editing:\n* Headshots: Turn any photo into a polished, professional headshot in seconds, powered by AI.\n* Filters & Looks: Instantly set the mood with curated filters and one-tap presets.\n* Remove & Vanish: Erase unwanted objects, backgrounds, or photobombers seamlessly.\n* Lighting: Get studio-quality light in every shot with precision lighting tools.\n\nEnhance & Polish:\n* Enhance: Automatically upgrade your photo's quality with a single tap.\n* Color Correction: Correct and elevate colors for a vibrant, polished finish.\n* Video Editing: All your favorite tools to perfect your reels and short-form content.\n‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿\n\nWhy Facetune?\nBecause you deserve photos that match the vision. Whether you're a creator, a professional, or someone who just wants to look good — Facetune gets it done. No experience needed, no excuses.\n\nDownload. Edit. Post. Repeat.\n\nTerms of use: https://static.lightricks.com/legal/terms-of-use.pdf \nPrivacy policy: https://static.lightricks.com/legal/privacy-policy.pdf",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/facetune-photo-video-editor.jpg",
+      "tintColor": "4A90E2",
+      "isLanZouCloud": 0,
+      "size": 440582304,
+      "type": 1
     }
   ]
 }
