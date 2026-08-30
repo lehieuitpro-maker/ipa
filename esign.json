@@ -822,6 +822,22 @@
       "isLanZouCloud": 0,
       "size": 98981920,
       "type": 1
+    },
+    {
+      "name": "Chấm Công Hiếu IT",
+      "bundleIdentifier": "com.hieuit.ChamCongHieuIT",
+      "developerName": "lehieuit",
+      "version": "1.0",
+      "buildVersion": "1",
+      "versionDate": "2026-08-30T01:10:59+00:00",
+      "versionDescription": "Cập nhật tự động từ IPA đã xác minh. Build 1.",
+      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/ch-m-c-ng-hi-u-it-v1.0-b1-2463101e2915/ch-m-c-ng-hi-u-it_v1.0_b1.ipa",
+      "localizedDescription": "Ứng dụng iOS chấm công cá nhân, lưu offline và xuất PDF",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/ch-m-c-ng-hi-u-it.png",
+      "tintColor": "4A90E2",
+      "isLanZouCloud": 0,
+      "size": 2340147,
+      "type": 1
     }
   ]
 }
