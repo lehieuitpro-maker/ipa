@@ -528,16 +528,17 @@
       "name": "Bloons TD 6 NETFLIX Hack",
       "bundleIdentifier": "com.netflix.NGP.BloonsTDSix",
       "developerName": "hieudz",
-      "version": "51.2",
-      "versionDate": "2025-11-30T02:43:54+00:00",
+      "version": "56.3",
+      "versionDate": "2026-08-31T23:56:43+00:00",
       "versionDescription": "Chế độ Bất Tử và Tiền Vô Hạn mở khóa tự do hoàn toàn trong Bloons TD 6 NETFLIX Hack này, cho phép bạn xây dựng các phòng thủ tháp khỉ không thể chống lại mà không có giới hạn tài nguyên hoặc thất bại.\n\nCho dù bạn đang khám phá mọi kết hợp tháp và anh hùng hay thống trị các trận đấu hợp tác với bạn bè, IPA được chỉnh sửa này loại bỏ sự lặp lại để bạn có thể tập trung vào chiến lược và niềm vui thuần túy.\n\nHack Tính Năng\n\n- Chế độ Bất Tử → không nhận sát thương\n- Tiền → quỹ vô hạn để nâng cấp\n- Tiền Khỉ → tiền tệ cao cấp được mở khóa\n- Vật Tiêu Thụ → các vật phẩm tiêu thụ có sẵn\n- Mở Khóa Tất Cả Tháp → mọi loại tháp sẵn sàng triển khai\n- Mở Khóa Tất Cả Anh Hùng → tất cả các nhân vật anh hùng có sẵn",
-      "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/bloons-td-6-netflix-hack-v51.2/bloons-td-6-netflix-hack-v51.2.ipa",
+      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/bloons-td-6-netflix-hack-v56.3-b11937-bf3ae0987ca3/bloons-td-6-netflix-hack_v56.3_b11937.ipa",
       "localizedDescription": "Hack Features:   \n - God Mode   \n - Money    \n - Monkey Money   \n - Consumes   \n - Unlocked All Towers   \n - Unlocked All Heroes",
       "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/bloons-td-6-netflix-hack.jpg",
       "tintColor": "FF6B35",
       "isLanZouCloud": 0,
-      "size": 116518547,
-      "type": 1
+      "size": 155446287,
+      "type": 1,
+      "buildVersion": "11937"
     },
     {
       "name": "Bloons TD 6 China",
