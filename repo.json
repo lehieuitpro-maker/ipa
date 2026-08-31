@@ -503,12 +503,12 @@
       },
       "versions": [
         {
-          "version": "1.137.1",
+          "version": "1.138",
           "minOSVersion": "14.0",
-          "date": "2026-08-29T04:06:30+00:00",
-          "size": 818028206,
-          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/toca-boca-world-game-play-v1.137.1-b111062-2d44f220a9be/toca-boca-world-game-play_v1.137.1_b111062.ipa",
-          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 111062."
+          "date": "2026-08-30T22:52:43+00:00",
+          "size": 819764780,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/toca-boca-world-game-play-v1.138-b112379-223033de75ad/toca-boca-world-game-play_v1.138_b112379.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 112379."
         }
       ]
     },
@@ -623,12 +623,12 @@
       },
       "versions": [
         {
-          "version": "0.4.12",
+          "version": "0.4.13",
           "minOSVersion": "14.0",
-          "date": "2026-08-29T20:39:32+00:00",
-          "size": 51718448,
-          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/nuvio-v0.4.12-b116-eefce854675c/nuvio_v0.4.12_b116.ipa",
-          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 116."
+          "date": "2026-08-30T22:45:48+00:00",
+          "size": 51726937,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/nuvio-v0.4.13-b117-1e4458b0613c/nuvio_v0.4.13_b117.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 117."
         }
       ]
     },
@@ -1373,6 +1373,414 @@
           "size": 101326675,
           "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/ulike---define-trendy-selfie-v5.4.1-b5.4.1.02-01e5bd16018e/ulike---define-trendy-selfie_v5.4.1_b5.4.1.02.ipa",
           "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 5.4.1.02."
+        }
+      ]
+    },
+    {
+      "name": "Infuse",
+      "bundleIdentifier": "com.firecore.infuse",
+      "developerName": "Firecore, LLC",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Ignite your video content with Infuse – the beautiful way to watch almost any video format on your iPhone, iPad, Apple TV, Mac, and Vision. No need to convert files! Infuse is optimized for iOS 26, with powerful streaming options, Trakt sync, and unmatched AirPlay & subtitle support. Gorgeous interface. Precise controls. And silky-smooth playback.\n\n- PLAY MORE VIDEO TYPES\nA powerful video player that plays just about anything, including MP4, MKV, M4V and MOV – plus many others. Includes support for HDR, HDR10+, Dolby Vision, plus Dolby and DTS audio.\n\n- STREAM FROM OTHER DEVICES\nBrowse and play videos stored on your Mac, PC, NAS, Wi-Fi hard drive, apps like Plex, Emby, and Jellyfin, or from cloud services like Dropbox, Google Drive, OneDrive, Box, pCloud, Yandex.Disk, MEGA, Aliyun Drive, and others – no syncing required!\n\n- AIRPLAY & GOOGLE CAST OPTIONS\nStream a wide variety of videos types such as MKV, MP4, M4V, and others over AirPlay & Google Cast with full surround sound and subtitles.\n\n- TRAKT 2-WAY SYNC\nConnect with Trakt to sync watched history, submit ratings and post comments.\n\n- OPTIMIZED SUBTITLES POWERED BY OPENSUBTITLES\nBring your own subtitles, or download them on the fly (for free) in virtually any language.\n\n===== \n\n“Looks great, plays anything you throw at it...surprisingly powerful”\n- Lifehacker\n\n“The best media player for iPhone and iPad...superior to VLC.”\n- Cult of Mac\n\n“I can't give the UI high enough praise. It's great.”\n- 9to5Mac\n\n“I see no reason whatsoever to remove Infuse from my Home screen anytime soon.”\n- iDownloadBlog \n\n“A beautiful UI.”\n- Trakt co-founder\n\n“A mini Kodi!”\n- Infuse user\n\n=====\n\nMORE THAN JUST A PRETTY FACE\n\nTHE BASICS\n- Silky-smooth video player (plays full 4K w/ HDR & Dolby Vision)\n- Stream from a Mac, PC, NAS or Wi-Fi enabled hard drive\n- Connect with Plex, Emby, Jellyfin, Kodi (XBMC), WMC and other media servers\n- Beautiful layout with quick access to video info\n- Artwork and metadata added automatically\n- Split View & PIP\n- Spatial audio\n\nSUPPORTED FORMATS\n- Video: 33GP, AVI, AV1, ASF, BDMV, DIVX, DVDMEDIA, DVR-MS, FLV, H.264 (AVC), H.265 (HEVC), ISO/IMG, M4V, MKV, MOV, MP4, MPEG, MTS/M2TS, MXF, OGM, OGV, RMVB, TS, VC1, VIDEO_TS, VOB, VP9, WEBM, WMV, WTV\n- Audio: AAC, AC3/E-AC3, DOLBY TRUEHD, DTS, DTS-HD MA, FLAC, MP3, OGG, PCM, WMA\n- Subtitles: DVB, DVDSUB, MICRODVD, MPL2, PGS, SMI, SSA/ASS, SRT, SUB, SUP, TIMED TEXT, TXT, VOBSUB, VTT, XSUB\n\nPLAYER FEATURES\n- Multiple audio tracks\n- Chapters\n- Gesture controls\n- 8 video zoom options\n- Continuous playback\n- TV out via HDMI or VGA adapter\n- Deinterlacing\n\nEXTRAS\n- Folders\n- One-click subtitle downloads from OpenSubtitles\n- Scrobble plays to Trakt\n- Download videos from networked devices\n- Drag and drop uploads via web browser\n- Get extra onboard storage with SanDisk iXpand and other USB drives\n\nGET MORE WITH INFUSE PRO!\n- Play even more video formats\n- Stream video trailers for movies and TV shows\n- Enjoy high-resolution Dolby® and DTS® audio\n- Access videos stored in cloud services like Dropbox, Google Drive, Box, OneDrive, pCloud, Yandex.Disk, MEGA, Aliyun Drive, and more\n- Stream a wide variety of video types over AirPlay and Google Cast\n- Sync libraries, settings, watched history, and playback progress between devices\n\n====\n\nNote: DRM-protected movies & TV shows purchased from the iTunes store are not supported.\n\nMetadata and artwork provided by TMDB, which is a community maintained movie and TV show database.\n\n====\n\nInfuse Pro is available as a optional subscription, and includes a free trial period that begins once your purchase has been confirmed with your iTunes Account. When the trial period concludes, your subscription will start and renew automatically. Your iTunes Account will be charged for the upcoming period unless you disable auto-renew or cancel your subscription in your Account Settings at least 24-hours prior to the end of the current period. Visit firecore.com/terms-privacy for full terms and privacy policy.",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/infuse.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "8.5.3",
+          "minOSVersion": "14.0",
+          "date": "2026-08-30T22:54:14+00:00",
+          "size": 98610950,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/infuse-v8.5.3-b8.5.5741-def74edba20b/infuse_v8.5.3_b8.5.5741.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 8.5.5741."
+        }
+      ]
+    },
+    {
+      "name": "Windy.com",
+      "bundleIdentifier": "com.windytv.ios",
+      "developerName": "Windyty, SE",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "A UNIQUE WEATHER FORECAST VISUALISATION\nWhile most weather forecasting apps rely solely on free global models, Windy has gone a step further by investing heavily in the most accurate weather models available, always at the highest possible resolution, to deliver you the most accurate forecasts in the world.\n\nLIVE WEATHER APP - WEATHER RADAR & SATELLITE\n(Now with Precipitation Type & Lightning tracker)\nRadar is a highly valued tool for weather forecasting. To provide you with the most accurate radar imagery, we constantly expand our resources so that rain, snow, and storms don't catch you by surprise.\nTrusted radar sources include NOAA, Met Office, Météo France, DWD, JMA, IMD, BoM & more.\nThe global satellite composite is created from NOAA, EUMETSAT & Himawari data.\n\nMORE THAN 50 WEATHER MAPS\n- Rain radar, Satellite and a unique combined layer of Radar & Satellite images (blue, infrared, visible)\n- Hurricane tracker, Weather warnings & Extreme forecast\n- Wind forecast: Wind speed, Wind gusts & Accumulation, models comparison, data from live Weather stations\n- Temperature: Humidity, Pressure, Dew point, live data from Weather stations\n- Rain: Thunder & storms, Rain accumulation, Thunderstorms, Precipitation type, CAPE-index\n- Aviation: Clouds, Cloud tops, Cloud base, Visibility (LIFR, IFR, MVFR, VFR), Fog, Icing, Clear air turbulence, Thermals, Freezing altitude\n- Marine Forecast: Waves, Swell, Wave power, Tide forecast, Currents, Sea temperature\n- Solar activity: Solar power, UV index, Wet-bulb temperature\n- Snow: Snow depth, New snow, Snow density\n- Air Quality: Air Quality Index (AQI) with Pollen (CAMS), NO2, PM 2.5, Aerosol, SO2, Ozone layer, Surface ozone, CO concentration, Dust mass\n- Soil moisture, Moisture anomaly, Drought intensity, Fire Danger, Fuel moisture\n\nMORE THAN 15 WEATHER MODELS\nGlobal weather models:\n- meteoblue - AI forecast\n- ECMWF\n- GFS by NOAA\n- ICON by DWD\n\nLocal weather models:\n- HRRR by NOAA\n- NAM by NOAA\n- HRDPS by MSC\n- ICON-EU by DWD\n- ICON-D2 by DWD\n- UKV by Met Office\n- AROME-HD by Météo France\n- ALADIN by CHMI\n- NEMS by meteoblue\n- MSM by JMA\n- ACCESS-C by BoM\n\nLIVE RAIN, STORM ALERTS & CUSTOM WEATHER ALERTS\nWant to know before the storm hits near you while you hike, bike or spend time outdoors? You can now access live weather alerts or set up your custom weather alert for wind, sunshine, or new snow.\n\nHURRICANE TRACKER FOR STORM TRACKING\nWith Windy's hurricane tracker, you can track the past and projected path of a hurricane or a storm. Windy doesn't rely on just one hurricane model, but will give you all the forecasts available for a storm or hurricane.\n\nWINDY MADE FOR PILOTS\n- 16 altitude levels from the surface to 13.5km/FL450\n- 50k+ Airports searchable by ICAO and IATA, including runway info, decoded & raw METAR, TAF & NOTAMs\n- Detailed Airgram and Meteogram: temperature and dew point, wind speed and wind gusts, pressure, precipitation, altitude cloud cover, freezing altitude\n- Thermals forecast\n- Route planner\n\nWINDY MADE FOR OUTDOOR SPORTS, SURF & BOATING\n- 67K+ global webcams\n- Summer & winter outdoor topographic maps by Mapy.com\n- 4.5K+ Surfing spots\n- 12.1K+ Paragliding spots\n- 4.3K+ Kiting spots\n- Boating tide forecast\n- Sun & Moon tracker\n- Plugins with buoy data\n\nWINDY AS A WEATHER WIDGET ON YOUR DEVICE\nGet the weather now on your iPhone, MacOS, iPad, CarPlay & Apple Watch, from forecast, Radar, METAR, Weather stations & Wind, ready for your travels and outdoor sports.\n\nWINDY PREMIUM — FORECAST LIKE A PRO\n- 1-hour & 15-day outlook with 4–6× daily updates\n- Radar/Satellite 24h loops & 1-year archives\n- More maps (Tide Forecast)\n- Model comparison to find the best model\n\nTerms of Use: https://account.windy.com/agreements/windy-terms-of-use\nPrivacy Policy: https://account.windy.com/agreements/windy-privacy-policy\n\nGET IN TOUCH\nJoin us on social media or at community.windy.com to discuss weather-related topics, report bugs, or suggest a new feature. Contact us directly at info@windy.com.",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/windy.com.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "51.010109.9510102",
+          "minOSVersion": "14.0",
+          "date": "2026-08-30T22:55:52+00:00",
+          "size": 76340911,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/windy.com-v51.010109.9510102-b51.010109.9510102-2302fbe35ae6/windy.com_v51.010109.9510102_b51.010109.9510102.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 51.010109.9510102."
+        }
+      ]
+    },
+    {
+      "name": "X",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "X Corp.",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "X (formerly Twitter) is a social media app where you can follow breaking news, live events, and trending topics as they happen. Sports, tech, music, politics: whatever you're into, the conversation starts here, raw and unfiltered.\n\nIt's also a place to be heard. Post your take on the day's news, go live, and grow an audience for whatever you create. Millions of people come to X every day to find out what's happening and talk about it.\n\n\nWHAT YOU CAN DO ON X\n\n- Follow breaking news – Get news from around the world before it hits the headlines, with real-time updates on trending topics and viral conversations.\n- Post to a global community – Share your thoughts, photos, and videos. Join millions of users shaping public dialogue across social, cultural, and political conversations.\n- Ask Grok – Grok is the AI assistant powered by X's real-time data. Ask Grok to summarize trending news, explain videos, or give you more context about posts. Grok also powers the photo and video editing tools in the app.\n- Create original videos – The built-in Video Editor and Recorder lets you shoot, add multi-language captions, apply green screen effects, and post pro-level content directly in the app.\n- Go live on video – Stream a concert, a live game, or your thoughts on a hot topic, and keep your audience engaged with enhanced livestream tools.\n- Watch video and podcasts – From live breaking news and sports clips to podcasts and gaming sessions up to 3 hours long. Many of the world's leading voices in comedy, gaming, podcasting, and politics share their content on X.\n- Host live audio with Spaces – Spaces is X's audio feature for hosting discussions, holding interviews, or starting your next live podcast.\n- Message privately – Connect and chat with friends, followers, customers, or collaborators through Direct Messages.\n- Pin Custom Timelines – Custom Timelines are Grok-powered topic feeds you can pin for the topics you follow most.\n- Turn on Priority Notifications – Priority Notifications surface your key interactions first.\n- Open your History tab – The History tab is one unified place for your bookmarks, likes, videos, and articles.\n- Subscribe to X Premium – X Premium unlocks a blue checkmark, boosted visibility, prioritized replies, fewer ads, longer videos, and post editing. It also gives you creator revenue sharing and the ability to offer exclusive content to subscribers.\n\nWHO X IS FOR\n\nX is for people who follow breaking news and live events in real time, for sports, tech, music, and politics fans, for creators and podcasters who stream and create original video content for an audience, and for anyone building a community around gaming, entertainment, crypto, entrepreneurship, or tech.\n\nWHY X?\n\nIn a world of constant change, X is your real-time source to stay ahead of the curve, connect with people, explore diverse perspectives, and create standout content. From breaking live news and trending memes to top podcasts, live streams, and original videos from your favorite creators, X brings it all together in one powerful social experience.\n\nPrivacy Policy: https://x.com/privacy\nTerms and Conditions: https://x.com/tos",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/x.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "12.20",
+          "minOSVersion": "14.0",
+          "date": "2026-08-30T23:03:40+00:00",
+          "size": 282085781,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/x-v12.20-b16-dc79a650628c/x_v12.20_b16.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 16."
+        }
+      ]
+    },
+    {
+      "name": "Facetune: Photo & Video Editor",
+      "bundleIdentifier": "com.lightricks.Facetune2",
+      "developerName": "Lightricks Ltd.",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Welcome to Facetune, where every photo hits.\nYour camera captures the moment. Facetune makes it unforgettable. From quick touch-ups to full transformations, we've built the tools that let you show up exactly how you want.\n‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿\n\nKey Features:\n\nRetouch & Refine:\n* Smooth: Achieve a natural, flawless complexion by removing blemishes and imperfections instantly.\n* Reshape: Subtly enhance your features with precise, natural-looking adjustments.\n* Whiten: Brighten your smile and make your teeth look their best (works on sneakers too).\n\nStyle & Transform:\n* Hairstyles: Try 20+ styles — from Sleek Bun to Butterfly Cut to Glam Blowout — without touching a single strand.\n* Beard & Hair: Try on Stubble, Hipster, Goatee, Long Beard, and more with editing that actually looks real.\n* Makeup: Apply virtual makeup for a full glam look with zero commitment.\n\nPro-Level Editing:\n* Headshots: Turn any photo into a polished, professional headshot in seconds, powered by AI.\n* Filters & Looks: Instantly set the mood with curated filters and one-tap presets.\n* Remove & Vanish: Erase unwanted objects, backgrounds, or photobombers seamlessly.\n* Lighting: Get studio-quality light in every shot with precision lighting tools.\n\nEnhance & Polish:\n* Enhance: Automatically upgrade your photo's quality with a single tap.\n* Color Correction: Correct and elevate colors for a vibrant, polished finish.\n* Video Editing: All your favorite tools to perfect your reels and short-form content.\n‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿\n\nWhy Facetune?\nBecause you deserve photos that match the vision. Whether you're a creator, a professional, or someone who just wants to look good — Facetune gets it done. No experience needed, no excuses.\n\nDownload. Edit. Post. Repeat.\n\nTerms of use: https://static.lightricks.com/legal/terms-of-use.pdf \nPrivacy policy: https://static.lightricks.com/legal/privacy-policy.pdf",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/facetune-photo-video-editor.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "26.26",
+          "minOSVersion": "14.0",
+          "date": "2026-08-30T23:10:26+00:00",
+          "size": 440582304,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/facetune-photo-video-editor-v26.26-b9960-081594a56c7c/facetune-photo-video-editor_v26.26_b9960.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 9960."
+        }
+      ]
+    },
+    {
+      "name": "Airbrush: Face Photo Editor",
+      "bundleIdentifier": "com.magicv.AirBrush",
+      "developerName": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Master Your Selfie Game with Airbrush – The Ultimate Photo and Video Editor! With our easy-to-use features, you can master your selfie and photo with tools designed to enhance your natural beauty while maintaining authentic charm.\n\nMASTERFUL PORTRAITS WITH A TAP\n• AI Retouch: Unleash the power of artificial intelligence as you elevate your portraits, fine-tuning every detail to perfection.\n• Blemish Removal: Say goodbye to acne and blemishes with precision editing that leaves your skin peachy and spotless.\n• Smooth: Soften wrinkles and balance skin tones for a youthful glow.\n• Highlighter: Illuminate your best features by adding texture or highlighter to make them pop.\n• Reshape: Sculpt your facial features effortlessly, ensuring every angle is your best angle.\n• Eye Enhancer: Overcome red eyes, erase dark circles, or experiment with vibrant eye colors for a captivating look.\n• Teeth: Flaunt a brighter smile and whiten clothing to keep your style looking immaculate.\n• Makeup: From eyebrows to lipstick, apply makeup with virtual tools that rival any beauty editor's kit.\n• Hair: Add depth to your hair, explore new hair colors, or simply darken your tresses for dramatic effect.\n\nUNLOCK YOUR CREATIVITY\n• Background: Blur distractions or swap backgrounds seamlessly.\n• Photo Cleaner: Utilize the Eraser or Stamp to remove unwanted objects and clutter from your shots.\n• AI-Powered Adjustments: Tweak photo temperature, saturation, and more, letting AI optimize your image balance.\n• Filter & Effects: Dare to be different using filters and effects that push the boundaries of creativity.\n• AI Repair: Enhance lower quality photos effortlessly, breathing new life into every pixel.\n\nSELFIE VIDEO PERFECTION\n• Face Retouch: Apply our renowned face retouching to your videos.\n• Object Removal: Clear up your scenes by removing distractions.\n• Quality Enhancement: Upgrade the clarity of your videos, making every moment crisp and memorable.\n\nHAVE FUN WITH AI\n• Mood Swapper: Change your expressions in seconds – when your smile says it all.\n• Style Explorer: See yourself in different styles, discovering portrait variations that showcase your versatility.\n• Pro Headshots: Generate professional headshots instantly, skipping the studio without compromising on quality.\n\nJoin millions who trust Airbrush to edit their photos and selfie videos with ease, speed, and incredible results. Whether it's for a quick touch-up or a complete digital makeover, Airbrush stands out among apps like Facetune, delivering unparalleled precision and simplicity. Get ready to express yourself, capture every moment, and share your world with confidence.\n\nDownload Airbrush now and start creating photos and video selfies that reflect the true beauty of your moments.\n\nDISCOVER EDITING TIPS ON SOCIAL MEDIA!\n- Instagram: instagram.com/AirbrushOfficial\n- TikTok: https://www.tiktok.com/@airbrushofficial\n- Facebook: facebook.com/airbrushappofficial\n- Twitter: twitter.com/AirbrushApp\n\nAirbrush Premium\nWith Airbrush Premium, you get everything with unlimited access to our full suite of advanced retouching tools, cutting-edge AI tools, filters and more.\n\nStart your subscription with a free trial - limited to one per Apple account. Once the trial is over, you’ll be charged a nominal subscription fee. Your subscription will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. If your subscription is subject to any promotional discount, the discount will expire upon the end of the current period & you’ll be charged the standard rate upon renewal. Go to your Apple account to manage your membership & to turn auto-renew off. Your Apple account will be charged when the purchase is confirmed.\n\n---\n\nTerms of Service: https://airbrush.com/legal/terms-of-service\nPrivacy Policy: https://airbrush.com/legal/privacy-policy",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/airbrush-face-photo-editor.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "8.15.0",
+          "minOSVersion": "14.0",
+          "date": "2026-08-30T23:13:55+00:00",
+          "size": 371990584,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/airbrush-face-photo-editor-v8.15.0-b8.15.0.2-0a8df57c697e/airbrush-face-photo-editor_v8.15.0_b8.15.0.2.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 8.15.0.2."
+        }
+      ]
+    },
+    {
+      "name": "RyukGram for Instagram",
+      "bundleIdentifier": "com.burbn.instagram.ryukgram-for-instagram",
+      "developerName": "Instagram, Inc.",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Little moments lead to big friendships. Share yours on Instagram. \n— From Meta\n\nConnect with friends, find other fans, and see what people around you are up to and into. Explore your interests and post what's going on, from your daily moments to life's highlights.\n\nShare what you’re up to and into:\n- Turn your life into a movie and discover short, entertaining videos on Instagram with Reels.\n- Keep up with friends on the fly with Stories and Notes that disappear after 24 hours.\n- Start group chats and share unfiltered moments with your Close Friends.\n- Share memories from recent events or trips in Feed.\n- Customize your posts with exclusive templates, music, stickers and filters.\n\nDive into your interests.\n- Watch videos from your favorite creators and discover new content that’s personalized to your interests.\n- Get inspired by photos and videos from new accounts in Explore.\n- Discover brands and small businesses, and shop products that are relevant to your personal style.\n\nSome Instagram features may not be available in your country or region.\n\nTerms and Policies: https://help.instagram.com/581066165581870\n\nConsumer Health Privacy Policy: https://privacycenter.instagram.com/policies/health\n\nLearn how we're working to help keep our communities safe across Meta technologies at the Instagram Safety Center: https://about.instagram.com/safety",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/ryukgram-for-instagram.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "443.1.0",
+          "minOSVersion": "14.0",
+          "date": "2026-08-30T23:20:38+00:00",
+          "size": 346069038,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/ryukgram-for-instagram-v443.1.0-b1045455915-3b8a518249b5/ryukgram-for-instagram_v443.1.0_b1045455915.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 1045455915."
+        }
+      ]
+    },
+    {
+      "name": "Instagram w/ Theta",
+      "bundleIdentifier": "com.burbn.instagram.instagram-w-theta",
+      "developerName": "Instagram, Inc.",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Little moments lead to big friendships. Share yours on Instagram. \n— From Meta\n\nConnect with friends, find other fans, and see what people around you are up to and into. Explore your interests and post what's going on, from your daily moments to life's highlights.\n\nShare what you’re up to and into:\n- Turn your life into a movie and discover short, entertaining videos on Instagram with Reels.\n- Keep up with friends on the fly with Stories and Notes that disappear after 24 hours.\n- Start group chats and share unfiltered moments with your Close Friends.\n- Share memories from recent events or trips in Feed.\n- Customize your posts with exclusive templates, music, stickers and filters.\n\nDive into your interests.\n- Watch videos from your favorite creators and discover new content that’s personalized to your interests.\n- Get inspired by photos and videos from new accounts in Explore.\n- Discover brands and small businesses, and shop products that are relevant to your personal style.\n\nSome Instagram features may not be available in your country or region.\n\nTerms and Policies: https://help.instagram.com/581066165581870\n\nConsumer Health Privacy Policy: https://privacycenter.instagram.com/policies/health\n\nLearn how we're working to help keep our communities safe across Meta technologies at the Instagram Safety Center: https://about.instagram.com/safety",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/instagram-w-theta.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "408.1.0",
+          "minOSVersion": "14.0",
+          "date": "2026-08-30T23:36:13+00:00",
+          "size": 259284833,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/instagram-w-theta-v408.1.0-b833451024-685a688afdd4/instagram-w-theta_v408.1.0_b833451024.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 833451024."
+        }
+      ]
+    },
+    {
+      "name": "YouMod for YouTube",
+      "bundleIdentifier": "com.google.ios.youtube.youmod-for-youtube",
+      "developerName": "Google",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Get the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore different topics, what’s popular, and on the rise (available in select countries)\n● Stay up to date on what’s popular in music, gaming, beauty, news, learning and more\n● See what’s trending on YouTube and around the world on Explore\n● Learn about the coolest Creators, Gamers, and Artists on the Rise (available in select countries)\n\nConnect with the YouTube community\n● Keep up with your favorites creators with Posts, Stories, Premieres, and Live streams\n● Join the conversation with comments and interact with creators and other community members\n\nCreate content from your mobile device\n● Create or upload your own videos directly in the app\n● Engage with your audience in real time with live streaming right from the app\n\nFind the experience that fits you and your family (available in select countries)\n● Every family has their own approach to online video. Learn about your options: the YouTube Kids app or a new parent supervised experience on YouTube at youtube.com/myfamily\n\nSupport creators you love with channel memberships (available in select countries)\n● Join channels that offer paid monthly memberships and support their work\n● Get access to exclusive perks from the channel & become part of their members community\n● Stand out in comments and live chats with a loyalty badge next to your username\n\nUpgrade to YouTube Premium (available in select countries)\n● Watch videos uninterrupted by ads, while using other apps, or when the screen is locked\n● Save videos for when you really need them – like when you’re on a plane or commuting\n● Get access to YouTube Music Premium as part of your benefits\n\nNote: If you subscribe via Apple, payment will be charged to App Store Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Account will be charged for renewal within 24 hours prior to the end of the current period at the rate of the selected plan. Subscriptions and auto-renewal may be managed by going to Account Settings after purchase.\n\nYouTube paid service terms: https://www.youtube.com/t/terms_paidservice.\nPrivacy policy: https://www.google.com/policies/privacy",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/youmod-for-youtube.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "21.31.3",
+          "minOSVersion": "14.0",
+          "date": "2026-08-30T23:38:46+00:00",
+          "size": 124187610,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/youmod-for-youtube-v21.31.3-b21.31.3-c43d742521da/youmod-for-youtube_v21.31.3_b21.31.3.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 21.31.3."
+        }
+      ]
+    },
+    {
+      "name": "Toca Boca Hair Salon 4",
+      "bundleIdentifier": "com.tocaboca.tocahairsalon4",
+      "developerName": "Piknik",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Welcome to Toca Boca Hair Salon 4! Unleash your creativity in the salon and whip up any style you can imagine. Whether you choose a character and create a brand-new look you’ve dreamed up or just see where the tools take you, each makeover is an adventure. Get creative with makeup, face paint, hair and beard tools, and much more!\n\nToca Boca Hair Salon 4 is part of Piknik – one subscription, endless ways to play and learn! Get full access to the world's best preschool apps from  Toca Boca, Sago Mini, and Originator with an Unlimited Plan.\n\nCUT, COLOR, AND STYLE AT THE HAIR AND BEARD STATION\nTrim, shave, and even re-grow hair anywhere on your character’s head! This station has all the hot tools you need for curling, straightening, and texturizing. In the mood to create something colorful? Grab the bottles of hair dye and choose any color of the rainbow for a bold new look. Your hair salon, your rules! \n\nGET CREATIVE WITH MAKEUP IN THE FACE STATION\nExpand your hair salon by purchasing the face station! You’ll find all kinds of makeup in every color for endless makeover options. Create lush lashes with mascara, and pick a tool to put on eyeliner, eyeshadow, or blush! In the mood for a bolder look? Grab the face paints and draw right onto your character’s face for a creative new style that’s anything but boring. \n\nPICK OUT A NEW OUTFIT AT THE STYLE STATION\nWhat’s a makeover without some new clothes to go with it? There are hundreds of styles to suit that new look at the style station! Change up your character’s outfit, pick out some stickers, and add a finishing touch with accessories like glasses and hats. \n\nSNAP A PIC IN THE PHOTO BOOTH\nChoose a background, watch them strike a pose, and snap a picture of your character’s new style! You can even save a picture of your character’s makeover in a photo book and return to styling them later. \n\nSCRUB UP SOME SUDS AT THE SHAMPOO STATION\nReady for a fresh start? Wash hair, towel off, and blow dry at the shampoo station. Watch their face paint and makeup drip away so you can create a brand-new look at the salon!\n\nPRIVACY POLICY\nAll of Toca Boca’s products are COPPA-compliant. We take privacy very seriously, and we’re committed to providing safe and secure apps for kids that parents can trust. To learn more about how we design and maintain safe games for kids, please read our - \nPrivacy policy: https://playpiknik.link/privacy-policy\nTerms of use: https://playpiknik.link/terms-of-use\n\nABOUT TOCA BOCA \nToca Boca is an award-winning game studio that makes digital toys for kids. We think playing and having fun is the best way to learn about the world. Therefore we make digital toys and games that help stimulate the imagination, and that you can play together with your kids. Best of all – we do it in a safe way without third-party advertising.",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/toca-boca-hair-salon-4.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "3.1.224",
+          "minOSVersion": "14.0",
+          "date": "2026-08-30T23:42:03+00:00",
+          "size": 269923719,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/toca-boca-hair-salon-4-v3.1.224-b3.1.224-5540b37e6e43/toca-boca-hair-salon-4_v3.1.224_b3.1.224.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 3.1.224."
+        }
+      ]
+    },
+    {
+      "name": "Dazz Cam - Vintage Camera",
+      "bundleIdentifier": "dazz.camera.vintagecamera",
+      "developerName": "DAZZ PTE. LTD.",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Dazz Camera, Pro Photographer in your Pocket.\nWe believe in keeping it simple, no need for post-editing. With just one tap, you can capture the most authentic vintage photos or videos, letting you enjoy the moment without distractions.\n\nDazz camera is inspired by classic film cameras from the 80s. We’ve sampled real film stock to recreate the colors and textures of vintage photography. Dazz camera supports shooting in various retro film formats like 135 film, 120 film, toy cameras, slide film, half-frame cameras, instant camera, 3D film photography, disposable camera, and more. \n\nBesides film photography, Dazz camera also offers modern digital camera color profiles, including compact camera, CCD camera, and we’re constantly adding more.\n\nYou can also capture videos with a retro vibe, using formats like 8mm film camera, 16mm film camera, VHS tape camera, DCR camera, movie camera, and slide projector.\n\nWe’re always rolling out new cameras, so keep an eye out!\n\nWhen you’re capturing photos and videos, we’ve got some cool extra features and accessories for you:\n\n- Save the negative and reprocess it to achieve different exposure and color temperature. (Available on select cameras)\n- Double exposure effect by layering two photos.\n- Timer for delayed shots.\n- Flash.\n- Import your existing photos for editing. (Available on select cameras)\n- Adjust color temperature and tint.\n- Switch between preset focal lengths or adjust freely.\n- Tweak exposure compensation.\n- Adjust ISO and shutter speed.\n- Stabilization settings.\n- Composition grids.\n- Fisheye lens.\n- Starburst lens.\n- Color flash filters.\n- Prism lens.\n- ND filter.\n\nWhen you share your photos on social media, don’t forget to tag them with #dazzcam. Our team might just feature your awesome photos in our collection!\n\nGot any questions? Email us at dazz.camera@gmail.com.\n\n\nDazz Pro Subscription\n\n- Join Dazz Pro to access all cameras and accessories.\n- Payment will be charged to your iTunes account at confirmation of purchase. \n- Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. \n- Your account will be charged for renewal, in accordance with your plan, within 24 hours prior to the end of the current period. \n- You can manage or turn off auto-renew in your Apple ID account settings any time after purchase.\n\nTerms of Use:\nhttp://dazz.ltd/dazz/terms_and_conditions.html\n\nPrivacy policy:\nhttp://dazz.ltd/dazz/privacy_policy.html",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/dazz-cam---vintage-camera.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "2.17.4",
+          "minOSVersion": "14.0",
+          "date": "2026-08-30T23:43:52+00:00",
+          "size": 121059452,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/dazz-cam---vintage-camera-v2.17.4-b17-8f933ba7c835/dazz-cam---vintage-camera_v2.17.4_b17.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 17."
+        }
+      ]
+    },
+    {
+      "name": "ibis Paint X",
+      "bundleIdentifier": "jp.ne.ibis.ibisPaintX",
+      "developerName": "ibis inc.",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "ibis Paint X is a popular and versatile drawing app downloaded more than 500 million times in total as a series, which provides over 105,000 brushes, over 29,000 materials, over 3,000 fonts, 84 filters, 46 screentones, 27 blending modes, recording drawing processes, stroke stabilization feature, various ruler features such as radial line rulers or symmetry rulers, clipping mask features.\n\n*YouTube channel\nMany tutorial videos on ibis Paint are uploaded to our YouTube channel.\nSubscribe it!\nhttps://youtube.com/ibisPaint\n\n*Concept/Features\n- A Highly functional and professional features surpassing that of desktop drawing apps.\n- Smooth and comfortable drawing experience realized by OpenGL technology.\n- Recording your drawing process as a video.\n- SNS feature where you can learn drawing techniques from other users' drawing process videos.\n\n*Feedback from users\nWe receive many good reputations from users.\n- I could have never assumed that I can draw such a beautiful drawings on smartphones!\n- Easiest to use among all drawing apps!\n- I have learned how to draw digital drawings without Mac or PC!\n\n*Features\nibis Paint has high functionality as a drawing app along with features of sharing drawing processes with other users.\n\n[Brush Features]\n- Smooth drawing at up to 120 fps.\n- Over 105,000 kinds of brushes including dip pens, felt tip pens, digital pens, air brushes, fan brushes, flat brushes, pencils, oil brushes, charcoal brushes, crayons and stamps.\n\n[Layer Features]\n- You can add layers as many as you need with no limit.\n- Layer parameters that can be set to each layers individually such as layer opacity, alpha blending, adding, subtracting, and multiplying.\n- A handy clipping feature for clipping images, etc.\n- Various layer commands such as layer duplication, import from the photo library, horizontal inversion, vertical inversion, layer rotation, layer moving, and zooming in/out.\n- A feature for setting layer names to distinguish different layers.\n\n[Manga Features]\n- Advanced text tool function featuring Vertical, Horizontal, Stroke, Font select, and Multiple text functions.\n\n*About ibis Paint purchase plan\nThe following purchase plans are available for ibis Paint:\n- ibis Paint X (free version)\n- ibis Paint (paid version)\n- Ad Removal Upgrade\n- Premium Membership (Monthly plan / Yearly plan)\nThere is no difference in features other than the presence or absence of advertisements for the paid version and the free version.\nIf you purchase the Ad Removal Upgrade, the ads will not be displayed and there will be no difference from the paid version of ibis Paint.\nIn order to use more advanced functions, the following Premium Membership (Monthly plan / Yearly plan) contracts are required.\n\n[Premium Membership]\nA premium member can use the premium features. Only for the first time, a 7-day or 1-month free trial is available. Premium membership entitles you to the following features.\n- 20GB of cloud storage capacity\n- Vector tool(*1)\n- Premium Materials\n- Premium Canvas Papers\n- Premium Fonts\n- Tone Curve filter\n- Gradation Map filter\n- Levels Adjustment filter\n- Premium Adjustment Layers\n- Surrounding Fill・Surrounding Eraser\n- AI Disturbance\n- Artwork folder feature\n- Import original brush patterns\n- Creating multiple Color Palettes\n- CMYK export\n- Remove watermark from videos\n- No advertisements displayed\n- Plus many other features exclusive to Premium Membership!\n(*1) You can try it for free for up to 1 hour per day.\n* After you become a Premium Membership with a free trial, renewal fee will be charged automatically unless you cancel your Premium Membership at least 24 hours before the end of the free trial period.\n* We will add premium features in future, please look out for them.\n\n*Questions and support\nQuestions and bug reports in reviews will not be responded to, so please contact ibis Paint support.\nhttps://ssl.ibis.ne.jp/en/support/Entry?svid=25\n\n*ibisPaint's terms of service\nhttps://ibispaint.com/agreement.jsp",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/ibis-paint-x.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "14.0.9",
+          "minOSVersion": "14.0",
+          "date": "2026-08-30T23:44:58+00:00",
+          "size": 58009698,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/ibis-paint-x-v14.0.9-b14.0.9.48-69f4abb11b3f/ibis-paint-x_v14.0.9_b14.0.9.48.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 14.0.9.48."
+        }
+      ]
+    },
+    {
+      "name": "Tachimanga",
+      "bundleIdentifier": "com.mangacrush.ios",
+      "developerName": "Tekbrio LLC",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Discover a new world of manga with Tachimanga.\n- Supports manga in ZIP/CBZ and EPUB formats.\n- Supports reading manga from Komga, which is a self-hosted manga server.\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/tachimanga.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "4.20",
+          "minOSVersion": "14.0",
+          "date": "2026-08-30T23:46:19+00:00",
+          "size": 128137873,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/tachimanga-v4.20-b491-787b80981107/tachimanga_v4.20_b491.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 491."
+        }
+      ]
+    },
+    {
+      "name": "Simpia – Learn piano by songs",
+      "bundleIdentifier": "com.smulie.simpia",
+      "developerName": "SMULIE COMPANY LIMITED",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Before you start: To use all features of the app, you’ll need a real piano or a musical keyboard.\n\nSimpia is the fun, easy, and effective way to learn piano—from absolute beginner to confident pianist. Whether you're just starting or looking to enhance your skills, Simpia adapts to your level and helps you improve rapidly.\n\nPlay Your First Song Today\nSimpia works perfectly with any piano or keyboard, whether acoustic, digital, or MIDI controller. Simply place your device nearby, play along, and receive instant, precise feedback on your notes and rhythm.\n\nWhy Choose Simpia?\n- A step-by-step courses from beginner to advanced, crafted by professional educators and suitable for every level.\n- Instant AI feedback that tells you right away whether each note you play is correct.\n- Experience a variety of music genres, from classical to popular songs.\n- Personalized Learning: Customized daily workouts tailored specifically to your skill level and musical goals.\n- Advanced Tools: Comprehensive AI, MIDI and Bluetooth MIDI support for enhanced practice sessions.\n\nGet Started Free! \nEnjoy daily limited time free for all lessons and songs. \n\nOr Start your free trial today and experience all we have to offer!\nUpgrade to Premium for\n- Full access to all courses & advanced lesson features.\n- Complete song library and exclusive lessons\n- Personalized daily learning content with daily workout and tutor\n- Advanced AI feedback with MIDI and Bluetooth MIDI integration.\n- Unlimited, unrestricted daily practice sessions.\n\nSimpia Subscription:\n\nEnjoy unlimited access to all courses and features with flexible Monthly, 3-Month or Annual plans (prices displayed in-app).The subscription is linked to your Apple ID and works on any iOS device using that account. Payment is charged to your Apple ID at purchase, and the plan renews automatically at the current price within 24 hours before each term ends unless you disable auto-renew at least 24 hours in advance in Settings › Apple ID › Subscriptions. You can manage or cancel your plan there at any time. Any unused portion of a free trial is forfeited when you subscribe. Subscriptions stay active until the end of the paid period and can’t be cancelled mid-cycle.\n\nQuestions or feedback? We're always happy to hear from you directly via our in-app \"Have a Question\" support chat.\n\nDownload now and play your first song today!\n\n*** HAVE FUN! ***\n\nTerms and Conditions: https://smulie.io/terms-and-conditions/\nPrivate Policy: https://smulie.io/privacy-policy/\nCopyright/Claims/Issues: hello@smulie.io",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/simpia-learn-piano-by-songs.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "2.6.845",
+          "minOSVersion": "14.0",
+          "date": "2026-08-30T23:47:24+00:00",
+          "size": 252828164,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/simpia-learn-piano-by-songs-v2.6.845-b2605221829-47331cec0824/simpia-learn-piano-by-songs_v2.6.845_b2605221829.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 2605221829."
+        }
+      ]
+    },
+    {
+      "name": "PAW Patrol Rescue World",
+      "bundleIdentifier": "com.budgestudios.PawPatrolRescueWorld",
+      "developerName": "Budge Studios",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Play as your favorite PAW Patrol™ pup and save the day in Adventure Bay! \nSAFE & EASY fun game play for kids from their favorite show! Whenever there’s trouble, just yelp for help! \n\nExplore Adventure Bay like never before in PAW Patrol™ Rescue World! Fun games designed for boys & girls in Preschool & Kindergarten! No job is too big, no pup is too small!\n\nPLAY WITH YOUR FAVORITE PUPS – The Pups are ready to go! Ride around Adventure Bay with Chase, Skye, Marshall, Rubble, Zuma, Rocky and Everest. Each pup has a special skill and vehicle for all your rescue needs. \nEXPLORE & PLAY – There's a ton of things to see and do all throughout Adventure Bay! You're free to explore. The more you play the game, the more things you'll unlock in each area!\nHERO MISSIONS – PAW Patrol™ to the lookout! Choose the Pup that is best for your mission and help save the day. \nRESCUE – Help the people of Adventure Bay and win fun rewards for your Pups.\nPUP TREATS – Each mission you complete will earn a reward! Find hidden treats around town!\nNEW WORLDS & EVENTS - Help save the dinosaurs in the Dino Wilds or explore Adventure Bay during the holidays like Easter, Valentines Day or Halloween\nSAFE & KID FRIENDLY  - Kids games designed for pre school, kindergarten, elementary school boys & girls. Educational, engaging and fun games for kids to explore from their favorite TV, YouTube, YouTube Kids, Nickelodeon, Nick Jr. & Netflix show! Easy, fun and educational learning games to play for young children and toddlers aged 2-6. Parents and other family members can play along too! \n\nIN APP PURCHASES\nBefore you download this app, please note that it is free to try, but some options may only be available via in-app purchases. In-app purchases cost real money and are charged to your account. To disable or adjust the ability to make in-app purchases, change your device settings. This app may contain contextual advertising (including the option to watch ads for rewards) from Budge Studios regarding other apps we publish, from our partners and from third parties. Budge Studios does not permit behavioral advertising or retargeting in this app. The app may also contain social media links that are only accessible behind a parental gate.\n\nPRIVACY & ADVERTISING\nBudge Studios takes children's privacy seriously and ensures that its apps are compliant with privacy laws. This application has received the “ESRB Privacy Certified Kids’ Privacy Seal”. Read our privacy policy at: https://budgestudios.com/en/legal/privacy-policy/, or email our Data Protection Officer at: privacy@budgestudios.ca\n\nEND-USER LICENSE AGREEMENT\nhttps://budgestudios.com/en/legal-embed/eula/\n\nABOUT BUDGE STUDIOS\nBudge Studios was founded in 2010 with the mission to entertain and educate boys and girls around the world, through innovation, creativity and fun. Its high-quality app portfolio consists of original and branded properties, including Bluey, Barbie, Thomas & Friends, Transformers, My Little Pony, Strawberry Shortcake, Caillou, The Smurfs, Miss Hollywood, Hello Kitty and Crayola. Budge Studios maintains the highest standards of safety and age-appropriateness, and has become a global leader in children’s apps for smartphones and tablets. Budge Playgroup™ is an innovative program that allows kids and parents to actively participate in the creation of new apps.\n\nHAVE QUESTIONS? \nWe always welcome your questions, suggestions and comments. Contact us 24/7 at support@budgestudios.ca \n\n©Spin Master Ltd. PAW PATROL™ and all related titles, logos, characters; and SPIN MASTER logo are trademarks of Spin Master Ltd. Used under license. Nickelodeon and all related titles and logos are trademarks of Viacom International Inc.\n\nBUDGE and BUDGE STUDIOS are trademarks of Budge Studios Inc.\nPAW Patrol Rescue World ©2025 Budge Studios Inc. All Rights Reserved.",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/paw-patrol-rescue-world.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "2026.6.0",
+          "minOSVersion": "14.0",
+          "date": "2026-08-30T23:49:26+00:00",
+          "size": 555340406,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/paw-patrol-rescue-world-v2026.6.0-b8986.24418-2e8b89e1d5b8/paw-patrol-rescue-world_v2026.6.0_b8986.24418.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 8986.24418."
+        }
+      ]
+    },
+    {
+      "name": "Swiftgram: Telegram mod client",
+      "bundleIdentifier": "app.swiftgram.ios",
+      "developerName": "Akentech Ltd",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Swiftgram is a modded client for Telegram with Lots of features, focus on Privacy, No Limits, No Ads.\nCompletelly Open Source and includes all latest updates from Telegram plus\n\nUNLIMITED ACCOUNTS: Add as many numbers as you want for FREE.\n\nACCOUNTS BACKUP: Log-in to your accounts without SMS-code. Restore all Sessions that are still Active on Telegram servers.\n\nMESSAGE FILTER: Reduce visibility of SPAM, promotions and annoying messages.\n\nFORMATTING PANEL: Bold, Italic, Links? Formatting with just a single tap.\n\nVOICE-TO-TEXT: Transcribe audio messages to text for FREE.\n\nTRANSLATOR: Real-time translations for an entire chat. Translate messages you send with a single tap.\n\nSTORIES: Hide stories or disable swipe for recording.\n\nAPPLE WATCH COMPANION: Send and Receive Text and Voice messages on your Watch, only in Swiftgram!\n\nCHAT MANAGEMENT: Control Tabs, Hide \"All Chats\", move Folders to bottom and remember the last opened Folder to quickly jump into the discussion.\n\nHIDE NOTIFICATIONS: No more Pinned Messages or @mentions when you need some piece of mind.\n\n50+ CUSTOMIZATIONS: Tabs, Chat List and Folders, Profiles, Stories, Translator, Better Photos, Stickers, Context Menu and much, MUCH MORE!\n\nSIMPLICITY: Swiftgram remains easy to use with no interface clutter.\n\nPRIVACY-FOCUSED: Instant Passcode Lock, Completelly Open Source, No Ads, No Trackers. Your messages and chats remain secure.\n\nACCESSIBILITY: Improved VoiceOver support for Messages Sharing, cause A11y matters!\n\nFollow the news: @swiftgram\nDiscuss: @swiftgramchat\n\nSwiftgram is an unofficial fork based on Telegram API.\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/swiftgram-telegram-mod-client.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "12.9.2",
+          "minOSVersion": "14.0",
+          "date": "2026-08-30T23:51:11+00:00",
+          "size": 84836056,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/swiftgram-telegram-mod-client-v12.9.2-b281-065d0860b156/swiftgram-telegram-mod-client_v12.9.2_b281.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 281."
+        }
+      ]
+    },
+    {
+      "name": "Babilala: Tiếng Anh Online",
+      "bundleIdentifier": "com.edupia.babilala",
+      "developerName": "Hung Tran Duc",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Babilala is a foundation English course for children from 3 to 8 years old. The program is logically designed by Vietnamese and international early education experts, attached to the CEFR common European language standard.\n\nUsing the Cambridge curriculum as a core, Babilala helps preschool children learn English in a systematic ways. We believe that Babilala is a perfect start for a future generation keen to get a hatch learning English.\n\nInteresting points of the course:\n- A comprehensive system of courses equivalent to Cambridge Starter Certificate, including 3 levels, 75 topics, 5000 interactive games.\n- Online learning at home on phones, tablets / iPads only 15-20 minutes / day\n- Babilala's lessons are built lively and humorous to stimulate your child's interest in learning English.\n- Role-playing and interactive learning methods: New words, sentence patterns are introduced naturally in context. Using cartoon and interactive games, which helps children memorize well and longer than other methods.\n- Learn English through songs: Children dance to the melodies of 35 English songs Copyright only on Babilala\n- Children with English pronunciation standard with iSpeak technology: Using Google's voice recognition technology. Grading, fixing errors in time and encouraging children to strongly communicate.\n\nTargets course:\n- Improve overall Listening - Speaking - Reading - Writing skills.\n-Get acquainted with English, develop interest in learning, build a solid foundation.\n- Master 3000 new words with 300 common sentence patterns and using learned knowledge patterns for basic communication.\n- Children pronounce accurately thanks to studying with foreign teachers and practicing with the exclusive I-Speak speaking technology.\n- Not only helps children improve their vocabulary, Babilala also surpasses textbook knowledge to help them expand their knowledge of life and explore culture.\n- Babilala has 75 topics which are all about kids and their life such as family, going to school, animals, colours, and numbers.\n\nApplication functions:\n- The content is built with 75 familiar topics, 100 songs, 3000 words, 5000 interactive games.\n- Easy interactive games. Help children memorize vocabulary naturally.\n- iSpeak technology scores and checks pronunciation errors in time\n- The collection of eye-catching stickers attracts children to study on Babilala\n- Detailed tracking of learning results and sharing achievements.\n- Allow 1 study account on multiple devices\n- Effective support and guidance from teaching staffs with many experiences in English training\n- No ads and completely safe for children.\n\nIf you have any questions or suggestions, feel free to contact us. We are always ready to support you!\n\nEmail: hotro@babilala.vn\nFanpage : https://www.facebook.com/babilala.vn\nHotline: 093.120.8686",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/babilala-ti-ng-anh-online.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "2.74",
+          "minOSVersion": "14.0",
+          "date": "2026-08-30T23:52:22+00:00",
+          "size": 178039238,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/babilala-ti-ng-anh-online-v2.74-b1-1025c8cd88c4/babilala-ti-ng-anh-online_v2.74_b1.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 1."
+        }
+      ]
+    },
+    {
+      "name": "Stremio for iOS",
+      "bundleIdentifier": "com.stremio.pal",
+      "developerName": "Stremio",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Stream movies and TV shows on iPhone and iPad with Stremio add-ons and account sync.",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/stremio-for-ios.png",
+      "tintColor": "#8A5CF5",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "2.0.7",
+          "minOSVersion": "14.0",
+          "date": "2026-08-31T00:00:01+00:00",
+          "size": 78704513,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/stremio-for-ios-v2.0.7-b22-cddfe220ce1f/stremio-for-ios_v2.0.7_b22.ipa",
+          "localizedDescription": "Stremio for iOS 2.0.7b22 from iOSGods."
         }
       ]
     }
