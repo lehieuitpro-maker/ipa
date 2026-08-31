@@ -7,17 +7,17 @@
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "hieudz",
-      "version": "21.08.3",
-      "versionDate": "2026-08-31T03:07:49+00:00",
+      "version": "21.35.3",
+      "versionDate": "2026-08-31T21:51:45+00:00",
       "versionDescription": "Ứng dụng giải trí mod IPA này nâng cao YouTube với những tính năng mạnh mẽ bao gồm YouPiP, SponsorBlock, YTUHD, Return YouTube Dislikes và hỗ trợ Safari Extension. YouTube Plus cung cấp cho bạn nhiều quyền kiểm soát hơn đối với trải nghiệm xem của mình với các tính năng có thể tùy chỉnh mà bạn có thể cấu hình trực tiếp trong menu cài đặt của YouTube dưới Hồ sơ của bạn.\n\nCấu hình tính năng trong YouTube → Hồ sơ của bạn → Cài đặt",
-      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/youtube-v21.08.3-b21.08.3-b24309d5d0fe/youtube_v21.08.3_b21.08.3.ipa",
+      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/youtube-v21.35.3-b21.35.3-df712cd42cb7/youtube_v21.35.3_b21.35.3.ipa",
       "localizedDescription": "This version contains YouTube Plus, YouPiP, YTUHD, Return YouTube Dislikes and Open in Safari extension\n\nFeatures:\n- Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n- Copy video, comment, and post information\n- Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n- Player settings: Gestures, default quality, preferred audio track\n- Save, Load and Restore settings. Clear cache once or automatically on app startup\n- Built-in SponsorBlock\n- And much, much more\n\nYouTube Plus preferences can be found in the YouTube settings",
       "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/youtube.jpg",
       "tintColor": "E36678",
       "isLanZouCloud": 0,
-      "size": 125969488,
+      "size": 137857635,
       "type": 1,
-      "buildVersion": "21.08.3"
+      "buildVersion": "21.35.3"
     },
     {
       "name": "YouTube Music Ultimate",
