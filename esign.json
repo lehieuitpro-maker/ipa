@@ -51,7 +51,7 @@
       "type": 1
     },
     {
-      "name": "Facebook",
+      "name": "Glow for Facebook",
       "bundleIdentifier": "com.facebook.Facebook",
       "developerName": "hieudz",
       "version": "538.1",
@@ -66,7 +66,7 @@
       "type": 1
     },
     {
-      "name": "Messenger",
+      "name": "Flow for Messenger",
       "bundleIdentifier": "com.facebook.Messenger",
       "developerName": "hieudz",
       "version": "532.0.0",
