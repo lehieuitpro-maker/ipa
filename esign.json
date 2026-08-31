@@ -1280,6 +1280,22 @@
       "isLanZouCloud": 0,
       "size": 148091643,
       "type": 1
+    },
+    {
+      "name": "Bazaart AI Photo Editor Design",
+      "bundleIdentifier": "co.bazaart.app",
+      "developerName": "Bazaart Ltd.",
+      "version": "26.4.1",
+      "buildVersion": "1353",
+      "versionDate": "2026-08-31T03:35:08+00:00",
+      "versionDescription": "Automated from iOSGods New Apps & Updates (listed version 26.4.1).",
+      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/bazaart-ai-photo-editor-design-v26.4.1-b1353-651dd485d3cb/bazaart-ai-photo-editor-design_v26.4.1_b1353.ipa",
+      "localizedDescription": "Bazaart is an easy-to-use AI photo editor, video editor, and design app. No design background needed. Create fast for online selling, digital marketing, and social media. Get your design superpowers today! What you can make For your business: Product photos, model shots, home listings, profile pics, logos, flyers, ads, posters. For your social media: Reels, TikTok videos, stories, posts, slideshows, thumbnails, stop motion videos. For your everyday life: Collages, cards, invitations, memes, WhatsApp stickers, backgrounds, wallpapers, GIFs, works of art. AI tools • Edit with AI: change or replace anything in a photo with simple prompts • Remove background: background remover for photos and videos • Remove: remove objects and people from any photo • AI models: create on-model product shots • AI video: turn product photos into videos • Magic Background: create on-brand, AI-generated scenes for products and portraits • AI Image: turn text prompts into images • AI Restyle: restyle photos in one tap (from product try-ons to creative looks) • Magic Edit: select an area and replace it using a prompt • Enhance: improve photo quality in a tap • Expand: extend your photos to any size • Lift: cut the subject from the background, move and resize it Photo and video editing tools • Cut out with crop, scissors, eraser, and shape cut-out • Adjust exposure, contrast, saturation, vibrance, warmth, tint, shadows, highlights, fade, sharpness, and blur • Make elements stand out with outlines and shadows • Combine photos and videos with blending modes • Batch edit to speed through multiple photos • Blur background of any photo for a portrait look Design tools • Create in custom sizes and popular presets • Sketch and draw freely • Curve text on arcs and circles • Style text with quick presets • Fine-tune text alignment, letter spacing, and line spacing • Auto-snapping for perfect alignment • Nudge tool for precise positioning • Work with layers; every change is reversible • Organize projects into folders • Save projects to the cloud to keep them in sync Content that speeds you up • Beautiful templates made by designers • Thousands of backgrounds, graphics, shapes, and animated graphics • Photo and video effects • Large font library, plus add your own • Use photos and videos from albums, camera, files, or stock Export and share • Save images as JPG or PNG with transparency • Save videos or animated GIFs • Save as PDF • Share anywhere Upgrade your design experience Bazaart Premium Unlock AI tools and content, higher AI usage, save without watermark, VIP support. Bazaart Super (perfect for small businesses) Everything in Premium, 4x more AI usage, unlock AI video. Terms of Service: https://www.bazaart.com/terms Privacy Policy: https://www.bazaart.com/terms/#privacy Need help? Email support@bazaart.com and we’ll get back to you quickly. BAZAART is a registered trademark of Bazaart Ltd.",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/bazaart-ai-photo-editor-design.jpg",
+      "tintColor": "4A90E2",
+      "isLanZouCloud": 0,
+      "size": 111137257,
+      "type": 1
     }
   ]
 }
