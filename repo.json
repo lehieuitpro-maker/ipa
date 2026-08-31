@@ -9,7 +9,7 @@
   "featuredApps": [],
   "apps": [
     {
-      "name": "YouTube Premium",
+      "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "hieudz",
       "subtitle": "Modified iOS application",
@@ -25,9 +25,9 @@
         {
           "version": "21.08.3",
           "minOSVersion": "14.0",
-          "date": "2026-08-29T00:24:17+00:00",
+          "date": "2026-08-31T03:07:49+00:00",
           "size": 125969488,
-          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/youtube-premium-v21.08.3-b21.08.3-b24309d5d0fe/youtube-premium_v21.08.3_b21.08.3.ipa",
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/youtube-v21.08.3-b21.08.3-b24309d5d0fe/youtube_v21.08.3_b21.08.3.ipa",
           "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 21.08.3."
         }
       ]
