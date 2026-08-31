@@ -1151,6 +1151,22 @@
       "isLanZouCloud": 0,
       "size": 178039238,
       "type": 1
+    },
+    {
+      "name": "Stremio for iOS",
+      "bundleIdentifier": "com.stremio.pal",
+      "developerName": "Stremio",
+      "version": "2.0.7",
+      "buildVersion": "22",
+      "versionDate": "2026-08-31T00:00:01+00:00",
+      "versionDescription": "Stremio for iOS 2.0.7b22 from iOSGods.",
+      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/stremio-for-ios-v2.0.7-b22-cddfe220ce1f/stremio-for-ios_v2.0.7_b22.ipa",
+      "localizedDescription": "Stream movies and TV shows on iPhone and iPad with Stremio add-ons and account sync.",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/stremio-for-ios.png",
+      "tintColor": "8A5CF5",
+      "isLanZouCloud": 0,
+      "size": 78704513,
+      "type": 1
     }
   ]
 }
