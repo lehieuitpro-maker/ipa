@@ -1296,6 +1296,22 @@
       "isLanZouCloud": 0,
       "size": 111137257,
       "type": 1
+    },
+    {
+      "name": "Agavey: Agave & Caudex Tracker",
+      "bundleIdentifier": "com.agavey.app",
+      "developerName": "Raisuke Shirabe",
+      "version": "7.2.1",
+      "buildVersion": "70201",
+      "versionDate": "2026-08-31T03:36:21+00:00",
+      "versionDescription": "Automated from iOSGods New Apps & Updates (listed version 7.2.1).",
+      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/agavey-agave-caudex-tracker-v7.2.1-b70201-acc5303a921d/agavey-agave-caudex-tracker_v7.2.1_b70201.ipa",
+      "localizedDescription": "Agavey is an app that brings together \"Root, Observe, and Grow\" for Agave lovers. It was created to visualize the \"differences\" in how each person grows their plants and turn that experience into shared wisdom. More than just a tracking app, it is a tool for Agaves and people to grow together through observation, recording, and cultivation. Main Features ■ Growth Records Register actions such as watering, lighting, fertilizing, and pruning with a single tap. You can save temperature, humidity, notes, and photos together, allowing you to review changes in growth at a glance. The group function also enables bulk recording for multiple plants. ■ Plant Shelf Manage plant names, purchase information, planting dates, and reminders all in one place. Centralize the management of your entire Agave collection. ■ Calendar Record watering and care status by date. You can manage a list of plants and see exactly what actions were taken on any given day. ■ Overlay Camera & Time-lapse Take frame-by-frame photos using the overlay camera. You can also turn those images into time-lapse videos to share the growth on social media. ■ Notifications & Reminders Receive automatic notifications for watering and care timing. Terms of Service: https://agavey.app/terms/en",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/agavey-agave-caudex-tracker.jpg",
+      "tintColor": "4A90E2",
+      "isLanZouCloud": 0,
+      "size": 42713552,
+      "type": 1
     }
   ]
 }
