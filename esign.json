@@ -512,16 +512,17 @@
       "name": "Plants vs. Zombies™",
       "bundleIdentifier": "com.ea.pvzfree.bv",
       "developerName": "hieudz",
-      "version": "3.12.0",
-      "versionDate": "2025-11-30T02:59:39+00:00",
+      "version": "3.18.0",
+      "versionDate": "2026-08-31T23:53:57+00:00",
       "versionDescription": "Bảo vệ nhà của bạn khỏi cuộc xâm lăng của zombie bằng cách chiến lược trồng 49 loại cây khác nhau để tiêu diệt zombie trong trò chơi tower defense đoạt giải này, giờ đây được nâng cao với một Mod IPA miễn phí loại bỏ giới hạn tài nguyên và việc phải luyện tập lâu dài.\n\nVới mặt trời vô hạn, tiền xu và cây cối sẵn sàng, bạn có thể tập trung hoàn toàn vào chiến lược và niềm vui của trò chơi mà không cần chờ đợi thời gian hồi chiêu hoặc xem quảng cáo. Cho dù bạn đang chơi lại các cấp độ để giải trí hay muốn trải nghiệm tất cả 50 giai đoạn phiêu lưu mà không cần phải luyện tập tiến độ thông thường, phiên bản được sửa đổi này cho phép bạn chơi theo tốc độ của riêng mình.\n\nHack Tính năng\n\n- Mặt trời vô hạn → tài nguyên không giới hạn để trồng cây\n- Phân bón vô hạn, Thuốc diệt côn trùng và Sô cô la → tất cả các power-up luôn khả dụng\n- Tiền xu vô hạn → không có giới hạn tiền tệ\n- Sức sống cây vô hạn → cây không bao giờ yếu đi\n- Không có thời gian hồi chiêu → trồng cây ngay lập tức mà không cần chờ đợi\n- Không có quảng cáo (Bật theo mặc định) → trò chơi không bị gián đoạn\n- Gần như một cú đánh tiêu diệt → zombie rơi nhanh hơn\n\nHoàn thành hướng dẫn trước khi sử dụng bất kỳ tính năng hack nào hoặc bạn sẽ bị mắc kẹt mãi mãi\n\nTác giả: QuistisQueen & AnonyN",
-      "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/plants-vs-zombies-v3.12.0/plants-vs-zombies-v3.12.0.ipa",
+      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/plants-vs.-zombies-v3.18.0-b3180-af53a06ca4b8/plants-vs.-zombies_v3.18.0_b3180.ipa",
       "localizedDescription": "Hack Features:   \n - Infinite Sun   \n - Infinite Fertilizer, BugSpray, and Chocolate   \n - Infinite Coins   \n - Infinite Plants Life   \n - No Cooldown   \n    \n Author: https://iosgods.com/profile/37846-asianqueen/ & AnonyN   \n    \n Complete tutorial before using any hacked features or you will stuck forever",
       "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/plants-vs-zombies.jpg",
       "tintColor": "FF6B35",
       "isLanZouCloud": 0,
-      "size": 117684686,
-      "type": 1
+      "size": 129480924,
+      "type": 1,
+      "buildVersion": "3180"
     },
     {
       "name": "Bloons TD 6 NETFLIX Hack",
