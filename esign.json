@@ -4,7 +4,7 @@
   "sourceURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/esign.json",
   "apps": [
     {
-      "name": "YouTube Premium",
+      "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "hieudz",
       "version": "21.08.3",
