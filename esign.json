@@ -1312,6 +1312,22 @@
       "isLanZouCloud": 0,
       "size": 42713552,
       "type": 1
+    },
+    {
+      "name": "Paint by Number: Coloring Game",
+      "bundleIdentifier": "com.fungames.colorfybynumber",
+      "developerName": "Wildlife Studios",
+      "version": "3.20.1",
+      "buildVersion": "5616",
+      "versionDate": "2026-08-31T03:38:14+00:00",
+      "versionDescription": "Automated from iOSGods New Apps & Updates (listed version 3.20.1).",
+      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/paint-by-number-coloring-game-v3.20.1-b5616-922603c33c2c/paint-by-number-coloring-game_v3.20.1_b5616.ipa",
+      "localizedDescription": "Feeling stressed? No need to! Choose from a variety of super fun images, paint just by following the numbers and watch them come to life! Rediscover the joy of painting. Key features: - Easy painting anywhere: carry your coloring book in your pocket - Themes for all tastes: florals, animals, mandalas and more! - Share with your friends: show off your works of art! - Never get bored: new images everyday! Create lovely paintings with the new painting app, painting has never been this easy and fun! Paint Premium subscription - All prices are subject to change without notification. - We occasionally run promotion prices as incentives or limited time opportunities for qualifying purchases made during the promotional time period. Due to the time sensitive and promotional nature of these events, we are unable to offer price protection or retroactive discounts or refunds for previous purchases in the event of a price reduction or promotional offering. - Payment will be charged to iTunes Account at confirmation of purchase - You will be able to color all available images for the duration of the subscription - Subscription automatically renews for the same price and duration period as the original \"one week\"/\"one month\"/\"one year\" package unless auto-renew is turned off at least 24-hours before the end of the current period - Account will be charged for renewal within 24-hours prior to the end of the current period at the cost of the chosen package (weekly, monthly or yearly package) - Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's iTunes Account Settings after purchase - No cancellation of the current subscription is allowed during active subscription period - You may cancel a subscription during its free trial period via the subscription setting through your iTunes account. This must be done 24 hours before the end of the subscription period to avoid being charged - Please visit http://support.apple.com/kb/ht4098 for more information - You may turn off the auto-renewal of your subscription via your iTunes Account Settings. However, you are not able to cancel the current subscription during its active period - Any unused portion of a free-trial period, will be forfeited when the user purchases a Paint Premium subscription Links to our Terms of Service and Privacy Policy can be found below Privacy Policy: https://www.fungames-forfree.com/games/paintbynumber/legal/privacy Terms of Use: https://www.fungames-forfree.com/games/paintbynumber/legal/tos *Prices are equal to the value that \"Apple's App Store Pricing Matrix\" determines as the equivalent of the subscription price in $ USD",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/paint-by-number-coloring-game.jpg",
+      "tintColor": "4A90E2",
+      "isLanZouCloud": 0,
+      "size": 129478015,
+      "type": 1
     }
   ]
 }
