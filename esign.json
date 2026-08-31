@@ -1216,6 +1216,22 @@
       "isLanZouCloud": 0,
       "size": 55129840,
       "type": 1
+    },
+    {
+      "name": "Peak - Brain Training",
+      "bundleIdentifier": "com.brainbow.peakprod",
+      "developerName": "Synaptic Labs",
+      "version": "5.27.1",
+      "buildVersion": "1238",
+      "versionDate": "2026-08-31T03:26:48+00:00",
+      "versionDescription": "Automated from iOSGods New Apps & Updates (listed version 5.27.1).",
+      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/peak---brain-training-v5.27.1-b1238-2ebeeb8b4965/peak---brain-training_v5.27.1_b1238.ipa",
+      "localizedDescription": "Maximize your full potential by challenging yourself with Peak, designed to help you expand your mental skills with 45+ fun and rewarding games. Peak has 45+ games covering six categories, carefully developed with you in mind. Choose from our catalog of games or challenge yourself with our versatile Daily Workouts. Short on time? Don’t worry, play Coffee Break, for when you need that extra pep in your step in under five minutes. We'll also show you insights about your performance to help you support your growth, development and provide you with data-orientated feedback. So what are you waiting for? Join millions of brain trainers worldwide and start challenging your brain today! Download and play our basic version for free or upgrade to Pro to unleash the full brain training experience. Workouts: - Daily brain workouts to sharpen your Memory, Attention, Problem-Solving, - Mental Agility, Language, Coordination and Emotion Control - Play skill based workouts such as Coffee Break, Weakest Link, Low Rank and The Total Workout - Access our Advanced Training modules, developed in collaboration with scientists and universities. Insights: - Compete with friends - Track your progress with in-depth insights and statistics - Compare your scores with others in your age range and profession PEAK PRO TERMS Payment will be charged to your iTunes account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Account will be charged for renewal within 24 hours of the end of the current period, and the cost of the renewal will be provided. Subscriptions may be managed by the user. Auto-renewal may be turned off by going to the user’s Account Settings after purchase. No cancellation of the current subscription is allowed during active subscription period. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication. For more information: Terms of Use - https://www.synapticlabs.uk/termsofservice/ Privacy Policy - https://www.synapticlabs.uk/privacypolicy/",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/peak---brain-training.jpg",
+      "tintColor": "4A90E2",
+      "isLanZouCloud": 0,
+      "size": 128285553,
+      "type": 1
     }
   ]
 }
