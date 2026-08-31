@@ -1855,6 +1855,78 @@
           "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 202607301837."
         }
       ]
+    },
+    {
+      "name": "Peak - Brain Training",
+      "bundleIdentifier": "com.brainbow.peakprod",
+      "developerName": "Synaptic Labs",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Maximize your full potential by challenging yourself with Peak, designed to help you expand your mental skills with 45+ fun and rewarding games. Peak has 45+ games covering six categories, carefully developed with you in mind. Choose from our catalog of games or challenge yourself with our versatile Daily Workouts. Short on time? Don’t worry, play Coffee Break, for when you need that extra pep in your step in under five minutes. We'll also show you insights about your performance to help you support your growth, development and provide you with data-orientated feedback. So what are you waiting for? Join millions of brain trainers worldwide and start challenging your brain today! Download and play our basic version for free or upgrade to Pro to unleash the full brain training experience. Workouts: - Daily brain workouts to sharpen your Memory, Attention, Problem-Solving, - Mental Agility, Language, Coordination and Emotion Control - Play skill based workouts such as Coffee Break, Weakest Link, Low Rank and The Total Workout - Access our Advanced Training modules, developed in collaboration with scientists and universities. Insights: - Compete with friends - Track your progress with in-depth insights and statistics - Compare your scores with others in your age range and profession PEAK PRO TERMS Payment will be charged to your iTunes account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Account will be charged for renewal within 24 hours of the end of the current period, and the cost of the renewal will be provided. Subscriptions may be managed by the user. Auto-renewal may be turned off by going to the user’s Account Settings after purchase. No cancellation of the current subscription is allowed during active subscription period. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication. For more information: Terms of Use - https://www.synapticlabs.uk/termsofservice/ Privacy Policy - https://www.synapticlabs.uk/privacypolicy/",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/peak---brain-training.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "5.27.1",
+          "minOSVersion": "14.0",
+          "date": "2026-08-31T03:26:48+00:00",
+          "size": 128285553,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/peak---brain-training-v5.27.1-b1238-2ebeeb8b4965/peak---brain-training_v5.27.1_b1238.ipa",
+          "localizedDescription": "Automated from iOSGods New Apps & Updates (listed version 5.27.1)."
+        }
+      ]
+    },
+    {
+      "name": "VidHub -Video Library & Player iOS Mod IPA",
+      "bundleIdentifier": "com.mac.utility.media.hub",
+      "developerName": "Laxus",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Unlock VidHub's premium features with this modded iOS app, gaining full access to advanced media library management and network sharing without restrictions. VidHub is a feature-packed video player that supports multiple formats across iOS, Mac, and Apple TV with iCloud synchronization, and this hack removes the paywall so you can enjoy all capabilities instantly. Hack Features - Premium Unlocked → full access to all features DO NOT LOGIN WITH GOOGLE ACCOUNT TO SYNC ELSE IT WILL NOT WORK . Download VidHub -Video Library & Player iOS Mod IPA from the links above. Tap the install button and follow the on-screen instructions to install this iOS app hack on your iPhone, iPad, or Apple Silicon. View the official topic on iOSGods for support and discussions.",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/vidhub--video-library-player-ios-mod-ipa.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "3.0.4",
+          "minOSVersion": "14.0",
+          "date": "2026-08-31T03:28:04+00:00",
+          "size": 104347602,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/vidhub--video-library-player-ios-mod-ipa-v3.0.4-b2026081801-0fe30718ccf0/vidhub--video-library-player-ios-mod-ipa_v3.0.4_b2026081801.ipa",
+          "localizedDescription": "Automated from iOSGods New Apps & Updates (listed version 3.0.4)."
+        }
+      ]
+    },
+    {
+      "name": "Apollo for Reddit",
+      "bundleIdentifier": "com.christianselig.Apollo",
+      "developerName": "Christian Selig",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Apollo was an iOS app for browsing Reddit from 2015 to 2023. In 2023 Reddit announced significant price changes to their API, going from free to potentially costing tens of millions of dollars per year, with 30 days notice before developers would start incurring charges. As a result, Apollo was forced to shut down after the better part of a decade building for an incredible, supportive community. With over 100,000 five star ratings, and many accolades, I was incredibly proud of what Apollo accomplished. The app now exists in a commemorative/historic state, with a thank you message, the option to unlock a Goodbye Apollo wallpaper pack, and options to export data if you had the app downloaded previously (shake the device), and all previous app icons are now automatically unlocked. You can also use the app as a hub to get updates about other things the developer (Christian Selig) is working on. Again, thank you so much for all the years of fun, it was the honor of a lifetime building the app for all of you!",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/apollo-for-reddit.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "3.6.0",
+          "minOSVersion": "14.0",
+          "date": "2026-08-31T03:30:23+00:00",
+          "size": 123354289,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/apollo-for-reddit-v3.6.0-b296-c65e1dd5bb35/apollo-for-reddit_v3.6.0_b296.ipa",
+          "localizedDescription": "Automated from iOSGods New Apps & Updates (listed version 1.15.17)."
+        }
+      ]
     }
   ]
 }
