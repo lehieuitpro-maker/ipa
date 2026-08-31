@@ -54,16 +54,17 @@
       "name": "Glow for Facebook",
       "bundleIdentifier": "com.facebook.Facebook",
       "developerName": "hieudz",
-      "version": "538.1",
-      "versionDate": "2025-11-10T21:40:00+01:00",
+      "version": "573.0.0",
+      "versionDate": "2026-08-31T23:52:44+00:00",
       "versionDescription": "Công cụ hack mạng xã hội dành cho Facebook này cung cấp một Mod IPA mạnh mẽ và sạch sẽ, giúp bạn lấy lại quyền kiểm soát và bảo mật, cho phép tải xuống phương tiện tự do và duyệt web mà không để lại dấu vết.\n\nCho dù bạn đang lưu trữ nội dung yêu thích, xem tin mà không bị phát hiện, hay chỉ đơn giản là mệt mỏi vì những lần thích vô tình làm hỏng bảng tin của bạn, Glow sẽ thay đổi cách bạn tương tác với Facebook bằng cách thêm một lớp bảo mật và linh hoạt mà ứng dụng tiêu chuẩn không cung cấp.\n\nHack-Tính Năng\n\n- Tải Xuống Phương Tiện → lưu video, hình ảnh, Reels và tin vào thiết bị của bạn\n- Ẩn Danh → xem tin và đánh dấu là đã xem chỉ khi bạn chọn\n- Xác Nhận → ngăn chặn những lần thích vô tình bằng cách nhắc nhở an toàn\n- Đơn Giản → cài đặt linh hoạt, trực quan được tùy chỉnh theo sở thích của bạn\n- Và Nhiều Hơn Nữa → mở khóa các công cụ bổ sung để tăng cường sự thoải mái và bảo mật\n- Cài đặt Glow có sẵn thông qua nhấn giữ trên bất kỳ tab nào → truy cập nhanh vào tất cả các tùy chọn tùy chỉnh",
-      "downloadURL": "https://github.com/hieuitcz/Glow/releases/download/glow-fb-v1.3.1/Facebook_v538.1.ipa",
+      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/glow-for-facebook-v573.0.0-b1032158285-a2162581f465/glow-for-facebook_v573.0.0_b1032158285.ipa",
       "localizedDescription": "Features:\n- Download whatever you like — videos, images, Reels, and even stories\n- Stay unseen. View stories and mark them as seen only when you want to\n- Worried about accidental likes? Now you can relax\n- Flexible, intuitive settings — all tailored to you\n\nGlow settings are available via long press on any tab",
       "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/facebook.jpg",
       "tintColor": "B5DAFC",
       "isLanZouCloud": 0,
-      "size": 170243561,
-      "type": 1
+      "size": 208199429,
+      "type": 1,
+      "buildVersion": "1032158285"
     },
     {
       "name": "Flow for Messenger",
