@@ -1167,6 +1167,22 @@
       "isLanZouCloud": 0,
       "size": 78704513,
       "type": 1
+    },
+    {
+      "name": "Lock Launcher - Launch Apps",
+      "bundleIdentifier": "com.6X.LockLauncher",
+      "developerName": "6X Studio LLC",
+      "version": "2.1.2",
+      "buildVersion": "1000",
+      "versionDate": "2026-08-31T00:26:35+00:00",
+      "versionDescription": "Automated from iOSGods New Apps & Updates (listed version 2.1.2).",
+      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/lock-launcher---launch-apps-v2.1.2-b1000-c4ece6e90574/lock-launcher---launch-apps_v2.1.2_b1000.ipa",
+      "localizedDescription": "No extra redirects—open apps instantly! Lock Launcher is a iOS 18/26 lock screen widget. You can add anything on the lock screen and launch it instantly with just one touch. It perfectly supports various Apps, Websites, Shortcuts and custom URL Scheme. ▶ Featured on the App Store Homepage ◀ ▶ Featured in App Store Trending Searches ◀ ▶ Chosen by over 4 million users ◀ 【iOS 26 Liquid Glass & Control Center & Camera Control & Action Button】 - Quickly launch any Apps, Shortcut, URL Scheme, Webpage, Music, etc., from the Control Center, Lock Screen Button and Action Button, you can also customize the tinted icon beautification, making it both efficient and practical. - Supports quick Camera Control for iPhone 16, allowing for fast one-tap access to any launch actions, such as: scan, payment code, etc. ▶ Featured on App Store Today ◀ 【Features】 - Minimalist Dumb Phone Launcher Theme & Classic Grid Theme - Control Center Widget - Quick Search to Result Page - Quick Scan QR Code - iOS 17 interactive small widgets 2×2 / 3×3 / 4×4 - Home screen widget with transparent background - Favorites support group management - Auto-refresh Start Live Activity and Dynamic Island with Shortcut Automation - Lock screen Text Widget supports custom Launcher and text - Dynamic Island supports Date and Week - Island CPU, Memory, Refresh Rate, FPS, Download/Upload Speed - Dynamic Island Launcher - Live Activities Launcher - Lock Screen Memo & Clock - Dynamic Island Clock - Dynamic Island Pure Mode for taking screenshot - Health Data: Step / Fitness / Heart Rate - Current weather data - Picture-in-Picture Mode - Music Actions - Dock Transparent Blur Style 【Features】 - Hot Apps Collection - Lightning Payment - Dynamic Island Launcher - Home Screen Launchpad Widget - Dynamic Battery Widget - Custom Icons - Custom URL Scheme - Favorite Launchers - Efficient Shortcuts - Powerful Web Apps - Save to Home Screen - Add Home Screen Widgets - One-Click Image - Dynamic Clock Widget - Auto iCloud Backup & Restore - Quick access web page - 15 Pro Action Button 18 - App Clip Encourage us with five stars, More powerful features will be developed. Also, feedback are welcome to tell me on Twitter:@LockLauncherApp / LockLauncherApp@gmail.com Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ * Subscription payments will be charged to your iTunes account at confirmation of your purchase. * Subscriptions will automatically renew and payment will be charged to your iTunes account unless auto-renew is turned off at least 24 hours prior to the end of the current Privacy Policy: https://locklauncher.com/privacy/",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/lock-launcher---launch-apps.jpg",
+      "tintColor": "4A90E2",
+      "isLanZouCloud": 0,
+      "size": 60307646,
+      "type": 1
     }
   ]
 }
