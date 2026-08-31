@@ -1248,6 +1248,22 @@
       "isLanZouCloud": 0,
       "size": 104347602,
       "type": 1
+    },
+    {
+      "name": "Apollo for Reddit",
+      "bundleIdentifier": "com.christianselig.Apollo",
+      "developerName": "Christian Selig",
+      "version": "3.6.0",
+      "buildVersion": "296",
+      "versionDate": "2026-08-31T03:30:23+00:00",
+      "versionDescription": "Automated from iOSGods New Apps & Updates (listed version 1.15.17).",
+      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/apollo-for-reddit-v3.6.0-b296-c65e1dd5bb35/apollo-for-reddit_v3.6.0_b296.ipa",
+      "localizedDescription": "Apollo was an iOS app for browsing Reddit from 2015 to 2023. In 2023 Reddit announced significant price changes to their API, going from free to potentially costing tens of millions of dollars per year, with 30 days notice before developers would start incurring charges. As a result, Apollo was forced to shut down after the better part of a decade building for an incredible, supportive community. With over 100,000 five star ratings, and many accolades, I was incredibly proud of what Apollo accomplished. The app now exists in a commemorative/historic state, with a thank you message, the option to unlock a Goodbye Apollo wallpaper pack, and options to export data if you had the app downloaded previously (shake the device), and all previous app icons are now automatically unlocked. You can also use the app as a hub to get updates about other things the developer (Christian Selig) is working on. Again, thank you so much for all the years of fun, it was the honor of a lifetime building the app for all of you!",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/apollo-for-reddit.jpg",
+      "tintColor": "4A90E2",
+      "isLanZouCloud": 0,
+      "size": 123354289,
+      "type": 1
     }
   ]
 }
