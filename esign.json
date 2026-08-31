@@ -477,23 +477,6 @@
       "originalBundleIdentifier": "com.burbn.instagram"
     },
     {
-      "name": "Glow for Facebook",
-      "bundleIdentifier": "com.facebook.Facebook.glow-for-facebook",
-      "developerName": "Meta Platforms, Inc.",
-      "version": "573.0.0",
-      "buildVersion": "1032158285",
-      "versionDate": "2026-08-29T22:29:58+00:00",
-      "versionDescription": "Công cụ hack mạng xã hội dành cho Facebook này cung cấp một Mod IPA mạnh mẽ và sạch sẽ, giúp bạn lấy lại quyền kiểm soát và bảo mật, cho phép tải xuống phương tiện tự do và duyệt web mà không để lại dấu vết.\n\nCho dù bạn đang lưu trữ nội dung yêu thích, xem tin mà không bị phát hiện, hay chỉ đơn giản là mệt mỏi vì những lần thích vô tình làm hỏng bảng tin của bạn, Glow sẽ thay đổi cách bạn tương tác với Facebook bằng cách thêm một lớp bảo mật và linh hoạt mà ứng dụng tiêu chuẩn không cung cấp.\n\nHack-Tính Năng\n\n- Tải Xuống Phương Tiện → lưu video, hình ảnh, Reels và tin vào thiết bị của bạn\n- Ẩn Danh → xem tin và đánh dấu là đã xem chỉ khi bạn chọn\n- Xác Nhận → ngăn chặn những lần thích vô tình bằng cách nhắc nhở an toàn\n- Đơn Giản → cài đặt linh hoạt, trực quan được tùy chỉnh theo sở thích của bạn\n- Và Nhiều Hơn Nữa → mở khóa các công cụ bổ sung để tăng cường sự thoải mái và bảo mật\n- Cài đặt Glow có sẵn thông qua nhấn giữ trên bất kỳ tab nào → truy cập nhanh vào tất cả các tùy chọn tùy chỉnh",
-      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/glow-for-facebook-v573.0.0-b1032158285-a2162581f465/glow-for-facebook_v573.0.0_b1032158285.ipa",
-      "localizedDescription": "Where real people propel your curiosity. Whether you’re thrifting gear, showing reels to that group who gets it, or sharing laughs over fun images reimagined by AI, Facebook helps you make things happen like no other social network.\n\nExplore and expand your interests: \n* Shop Marketplace for hidden gems and take your hobbies to the next level\n* Personalize your Feed to see more of what you like, less of what you don’t\n* Ask Meta AI for information and get answers instantly\n* Drive into reels that reflect the things you're interested in\n* Search Facebook on any topic and get more interactive results\n\nConnect with people and communities:\n* Join groups to learn tips from real people who’ve been there, done that\n* Get inspired by creators, or catch up with Friends\n* Add new Friends to your world, but also decide how closely to keep up with them\n* Privately message relatable posts that only your BFF will get or that reels trend everyone’s talking about\n\nShare your world:\n* Use generative AI to create custom stickers and images to delight friends\n* Customize your profile to choose how you show up and who sees your posts\n* Effortlessly create reels from trending templates, or showcase your creativity with a full suite of editing tools\n* Capture moments on the fly with stories\n\nSome features may not be available in your country or region. \n\nTerms & Policies: https://www.facebook.com/policies_center\nPrivacy Policy: https://www.facebook.com/privacy\n\nLearn how we're working to help keep our communities safe across Meta technologies at the Meta Safety Center: https://about.meta.com/actions/safety",
-      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/glow-for-facebook.jpg",
-      "tintColor": "4A90E2",
-      "isLanZouCloud": 0,
-      "size": 208199429,
-      "type": 1,
-      "originalBundleIdentifier": "com.facebook.Facebook"
-    },
-    {
       "name": "Plants vs. Zombies™ 3: Evolved",
       "bundleIdentifier": "com.ea.ios.pvzn3xt",
       "developerName": "Electronic Arts",
