@@ -335,12 +335,12 @@
       },
       "versions": [
         {
-          "version": "1.1.1",
+          "version": "2.0",
           "minOSVersion": "14.0",
-          "date": "2026-08-29T02:19:30+00:00",
-          "size": 3281026,
-          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/3105-v1.1.1-b7-acca0f6fb096/3105_v1.1.1_b7.ipa",
-          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 7."
+          "date": "2026-08-31T00:33:46+00:00",
+          "size": 4182032,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/3105-v2.0-b8-f858926c3943/3105_v2.0_b8.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 8."
         }
       ]
     },
@@ -1781,6 +1781,78 @@
           "size": 78704513,
           "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/stremio-for-ios-v2.0.7-b22-cddfe220ce1f/stremio-for-ios_v2.0.7_b22.ipa",
           "localizedDescription": "Stremio for iOS 2.0.7b22 from iOSGods."
+        }
+      ]
+    },
+    {
+      "name": "Lock Launcher - Launch Apps",
+      "bundleIdentifier": "com.6X.LockLauncher",
+      "developerName": "6X Studio LLC",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "No extra redirects—open apps instantly! Lock Launcher is a iOS 18/26 lock screen widget. You can add anything on the lock screen and launch it instantly with just one touch. It perfectly supports various Apps, Websites, Shortcuts and custom URL Scheme. ▶ Featured on the App Store Homepage ◀ ▶ Featured in App Store Trending Searches ◀ ▶ Chosen by over 4 million users ◀ 【iOS 26 Liquid Glass & Control Center & Camera Control & Action Button】 - Quickly launch any Apps, Shortcut, URL Scheme, Webpage, Music, etc., from the Control Center, Lock Screen Button and Action Button, you can also customize the tinted icon beautification, making it both efficient and practical. - Supports quick Camera Control for iPhone 16, allowing for fast one-tap access to any launch actions, such as: scan, payment code, etc. ▶ Featured on App Store Today ◀ 【Features】 - Minimalist Dumb Phone Launcher Theme & Classic Grid Theme - Control Center Widget - Quick Search to Result Page - Quick Scan QR Code - iOS 17 interactive small widgets 2×2 / 3×3 / 4×4 - Home screen widget with transparent background - Favorites support group management - Auto-refresh Start Live Activity and Dynamic Island with Shortcut Automation - Lock screen Text Widget supports custom Launcher and text - Dynamic Island supports Date and Week - Island CPU, Memory, Refresh Rate, FPS, Download/Upload Speed - Dynamic Island Launcher - Live Activities Launcher - Lock Screen Memo & Clock - Dynamic Island Clock - Dynamic Island Pure Mode for taking screenshot - Health Data: Step / Fitness / Heart Rate - Current weather data - Picture-in-Picture Mode - Music Actions - Dock Transparent Blur Style 【Features】 - Hot Apps Collection - Lightning Payment - Dynamic Island Launcher - Home Screen Launchpad Widget - Dynamic Battery Widget - Custom Icons - Custom URL Scheme - Favorite Launchers - Efficient Shortcuts - Powerful Web Apps - Save to Home Screen - Add Home Screen Widgets - One-Click Image - Dynamic Clock Widget - Auto iCloud Backup & Restore - Quick access web page - 15 Pro Action Button 18 - App Clip Encourage us with five stars, More powerful features will be developed. Also, feedback are welcome to tell me on Twitter:@LockLauncherApp / LockLauncherApp@gmail.com Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ * Subscription payments will be charged to your iTunes account at confirmation of your purchase. * Subscriptions will automatically renew and payment will be charged to your iTunes account unless auto-renew is turned off at least 24 hours prior to the end of the current Privacy Policy: https://locklauncher.com/privacy/",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/lock-launcher---launch-apps.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "2.1.2",
+          "minOSVersion": "14.0",
+          "date": "2026-08-31T00:26:35+00:00",
+          "size": 60307646,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/lock-launcher---launch-apps-v2.1.2-b1000-c4ece6e90574/lock-launcher---launch-apps_v2.1.2_b1000.ipa",
+          "localizedDescription": "Automated from iOSGods New Apps & Updates (listed version 2.1.2)."
+        }
+      ]
+    },
+    {
+      "name": "Elevate - Brain Training Games",
+      "bundleIdentifier": "com.elevateapp.elevate",
+      "developerName": "The Mind Company",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Elevate is a brain training program designed to improve your mind’s focus, memory, speaking abilities, processing speed, math skills, and more. Each person is provided with a personalized training program that adjusts over time to maximize results. The more you train with Elevate, the more you’ll improve critical cognitive skills that are proven to boost productivity, earning power, and self-confidence. 90%+ report improved vocabulary, math skills, and overall mental sharpness when they frequently use Elevate. IN THE NEWS “Elevate comes out ahead” in the battle of the brain training apps. – CNET Elevate is a “cognitive pick-me-up” with games that are “good for mental breaks throughout the workday.” – Washington Post. FEATURES • 40+ Brain Training Games: Improve your critical cognitive skills like focus, memory, processing, math, precision, and comprehension with 40+ brain training games. • Performance Tracking: Track your progress and compare your mind’s performance over time with weekly reports and insights. • Personalized Workouts: Customize your daily training focus and choose between 3 and 5 games. Get personalized daily workouts that include the skills you need most. • Adaptive Progression: Train your brain with adaptive difficulty progression that ensures your experience is challenging. • Workout Calendar: Stay motivated by tracking your training streaks and keeping your mind active daily. • And more! WHY YOU NEED ELEVATE • Express yourself more effectively in writing. Write with clarity, persuasiveness, and concision. • Improve your spelling and punctuation. Avoid common writing pitfalls. • Become a better reader. Read everyday materials faster and with greater understanding. • Expand your vocabulary. • Quickly and easily solve everyday math problems. Get better at comparing prices, splitting bills, and calculating discounts and markups. • Speak more effectively. Become more articulate and better at communicating tone and meaning. • Keep your mind engaged and challenged every day with short, effective exercises. RESEARCH BEHIND ELEVATE Elevate's games are designed in collaboration with experts in neuroscience and cognitive learning and are based on extensive scientific research. Elevate’s brain training algorithms further focus the learning experience by drawing from research in memory studies to develop a personalized training program for each member. ELEVATE SUBSCRIPTION TERMS Elevate offers a 7-day free trial as well as a basic free version. To access the free version, tap the X in the upper left-hand corner after you sign up for an account. If you choose to subscribe, you will be charged a yearly subscription fee according to your country. The subscription fee will be shown in the app before you complete the payment. Your subscription will automatically renew at the end of each subscription term, unless auto-renewal is turned off at least 24 hours before the end of the term. Subscription renewals cost the same as the original subscription, and your credit card will be charged through your iTunes account at confirmation of purchase. You may manage your subscription and turn off auto-renewal at any time after purchase by going to your iTunes Account Settings. Refunds will not be given for any unused portion of the term. For additional information, please read our Terms of Service (https://www.elevateapp.com/terms) and Privacy Policy (https://www.elevateapp.com/privacy).",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/elevate---brain-training-games.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "5.55.0",
+          "minOSVersion": "14.0",
+          "date": "2026-08-31T00:27:52+00:00",
+          "size": 133840088,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/elevate---brain-training-games-v5.55.0-b2684-d1c844204d86/elevate---brain-training-games_v5.55.0_b2684.ipa",
+          "localizedDescription": "Automated from iOSGods New Apps & Updates (listed version 5.55.0)."
+        }
+      ]
+    },
+    {
+      "name": "Timemark: Photo Proof for Work",
+      "bundleIdentifier": "com.oceangalaxy.camera",
+      "developerName": "OCEAN GALAXY PTE. LTD.",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Timemark is the trusted photo documentation app for teams in construction, fiber optic, cable & telecom, HVAC, property management, cleaning, security, and more. Every photo carries verified time, GPS location, and anti-tamper protection, so you have proof of work that stands up in any dispute.\n\nTamper-proof photo evidence\n- Network-verified timestamps that can't be faked by changing device settings\n- Precise GPS coordinates and street address on every photo\n- Unique photo codes link each photo to its original metadata\n- Photos prove when your crew arrived, what was done, and when they left\n- Prevent disputes and get faster payment approvals\n\nTeamspace: auto-collect team photos\n- No more texting photos to one person to sort. Every photo your crew takes syncs to Teamspace automatically\n- Time and location on every photo give the office full site context, without a phone call\n- Organize by project, client, or location\n- Share live links so clients and inspectors can view photos without downloading an app\n- Role-based permissions so each team sees only their projects\n- Teams report saving 2-4 hours per week on photo organization\n\nOne-click professional reports\n- Build closeout packages and as-built records that meet client and government requirements\n- Export as PDF, Excel, or ZIP, ready to submit\n- KMZ files show every photo on the map in Google Earth\n- GPS-tagged photos of every handhole, vault, and splice point, so you can find buried equipment years later\n- Before & after comparison layouts for inspections\n\nBuilt for the field\n- Works offline: capture photos with full metadata even without signal, then they upload automatically\n- Lightweight app designed for job site conditions\n- No training required. Your crew can start in minutes\n- 20+ languages supported\n\nWho uses Timemark\n- Construction: track project progress with templates and cloud sync\n- Fiber Optic: document splicing, trenching, and FTTH installs\n- Cable & Telecom: aerial/underground runs, node inspections, service drops\n- Property Management: move-in/move-out inspections, maintenance logs\n- Field Service: auto-collect job photos and quickly make client reports\n- HVAC & Plumbing: before/after repairs, compliance records\n- Cleaning & Janitorial: service verification, quality checks\n- Security: record patrols and incidents with map links\n- Delivery & Logistics: proof-of-delivery photos, avoid disputes\n- Retail & Sales: store visits and audits with timestamped proof\n- Landscaping & Roofing: job site progress, weather documentation\n- Business Owners: branded photos with your logo or business card\n- Other Jobs: flexible templates for any kind of work\n\nTrusted by millions\nFrom fiber splicers to property inspectors, field teams in 100+ countries rely on Timemark every day.\n\nFlexible plans\n- Free: capture job photos with customizable watermark templates\n- Plus: advanced features, designed for individual use\n- Business: full Teamspace access for your team, with centralized billing\n- Enterprise: custom plans for large organizations\n\nDownload Timemark and turn every job photo into trusted proof of work.\n\nPlus plan subscriptions renew automatically unless canceled at least 24 hours before the end of the current period. Payment is charged to your Apple ID account at confirmation of purchase. You can manage or cancel subscriptions anytime in your App Store account settings.\n\nQuestions or suggestions? Write to us: support@timemark.com\nWebsite: https://www.timemark.com/\nTerms of use: https://help.timemark.com/policy/terms-of-service/\nPrivacy policy: https://help.timemark.com/policy/privacy-policy/",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/timemark-photo-proof-for-work.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "10.0.188",
+          "minOSVersion": "14.0",
+          "date": "2026-08-31T00:33:10+00:00",
+          "size": 55129840,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/timemark-photo-proof-for-work-v10.0.188-b202607301837-7fa5688fdde6/timemark-photo-proof-for-work_v10.0.188_b202607301837.ipa",
+          "localizedDescription": "Cập nhật tự động từ IPA đã xác minh. Build 202607301837."
         }
       ]
     }
