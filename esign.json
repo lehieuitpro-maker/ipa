@@ -1380,6 +1380,22 @@
       "isLanZouCloud": 0,
       "size": 135028768,
       "type": 1
+    },
+    {
+      "name": "DayCity: Weather Clock Widget",
+      "bundleIdentifier": "jp.co.orude.daycity",
+      "developerName": "Orude Inc.",
+      "version": "3.4.0",
+      "buildVersion": "1",
+      "versionDate": "2026-09-01T01:27:06+00:00",
+      "versionDescription": "DayCity là một ứng dụng widget đồng hồ thời tiết biến màn hình chính của bạn thành những cảnh quan thành phố đẳng cấp sống động phản ánh thời tiết thực tế và giờ địa phương trên khắp những điểm đến đẹp nhất thế giới. Mod IPA miễn phí này mở khóa các tính năng cao cấp, cho phép bạn trang trí điện thoại bằng các thành phố toàn cầu được lựa chọn cẩn thận và xem chúng thay đổi hàng giờ khi bạn nhìn thấy hoàng hôn ở Paris hoặc những buổi sáng mưa ở Tokyo.\n\nHack Tính năng\n\n- Cao cấp → tất cả các tính năng cao cấp được mở khóa",
+      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/daycity-weather-clock-widget-v3.4.0-b1-ac94a75ce4fd/daycity-weather-clock-widget_v3.4.0_b1.ipa",
+      "localizedDescription": "The World in Your Hand. DayCity is a weather clock app that lets you enjoy the world's \"now\" as living art. Decorate your Home Screen with your favorite cities, and watch them transform. The isometric cityscapes change hourly to reflect the local weather and time, adding a touch of global atmosphere right on your phone. Glimpse a Parisian sunset during your break, or wake up to a rainy morning in Tokyo. Discover a new world every day. Enrich your daily life with DayCity. 【Key Features】 ■ World Cities on Your Widget Curated world cities line up. Place beautiful isometric illustrations that reflect real-time local weather and time directly on your Home Screen. ■ Craft Your Own World Use your own words to generate a unique, personalized diorama. Link it with your current location, and watch your custom cityscape change in real-time according to your local weather and time. Transform your everyday surroundings into a special piece of art. ■ A Unique World, Every Day Sunny, rainy, snowy. Dawn, day, dusk, night. The graphics update every hour. Powered by AI generation, the scenery evolves daily—you'll never see the exact same city twice. Keep an eye out for special seasonal decorations, like on Christmas. ■ Collect the Moments \"This view is beautiful!\" Save these ephemeral moments as snapshots. Build your own collection of world scenery to look back on anytime. ■ Designed for Your Life Designed to be unobtrusive yet captivating—art meant to be displayed perfectly on your device. Bring the World Closer. Download DayCity now and find your favorite city. 【Terms of Service】 https://theday.city/terms 【Privacy Policy】 https://theday.city/privacy",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/daycity-weather-clock-widget.jpg",
+      "tintColor": "4A90E2",
+      "isLanZouCloud": 0,
+      "size": 18229286,
+      "type": 1
     }
   ]
 }
