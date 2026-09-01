@@ -1428,6 +1428,22 @@
       "isLanZouCloud": 0,
       "size": 49788902,
       "type": 1
+    },
+    {
+      "name": "FilzaJailedDS for iOS 17.0-26.0.1",
+      "bundleIdentifier": "com.tigisoftware.Filza",
+      "developerName": "iOSGods",
+      "version": "4.0",
+      "buildVersion": "0",
+      "versionDate": "2026-09-01T01:31:15+00:00",
+      "versionDescription": "FilzaJailedDS mở khóa quyền truy cập hệ thống tệp trên iOS 17.0-26.0.1 với Mod IPA không cần jailbreak này, nó tiêm các tweak trực tiếp vào Filza (phiên bản 4.0.0 và trước đó; phiên bản 4.0.2 có thể gây sự cố). Lưu ý: hack này sẽ không hoạt động trên các thiết bị iPhone 17 series hoặc iPad M5 do bảo vệ bộ nhớ MTE của Apple, hiện đang chặn quyền truy cập đọc/ghi kernel.",
+      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/filzajailedds-for-ios-17.0-26.0.1-v4.0-b0-67bea907433b/filzajailedds-for-ios-17.0-26.0.1_v4.0_b0.ipa",
+      "localizedDescription": "FilzaJailedDS mở khóa quyền truy cập hệ thống tệp trên iOS 17.0-26.0.1 với Mod IPA không cần jailbreak này, nó tiêm các tweak trực tiếp vào Filza (phiên bản 4.0.0 và trước đó; phiên bản 4.0.2 có thể gây sự cố). Lưu ý: hack này sẽ không hoạt động trên các thiết bị iPhone 17 series hoặc iPad M5 do bảo vệ bộ nhớ MTE của Apple, hiện đang chặn quyền truy cập đọc/ghi kernel. . Download FilzaJailedDS for iOS 17.0-26.0.1 modded IPA from the links above. Tap the install button and follow the on-screen instructions to install this iOS app hack on your iPhone, iPad, or Apple Silicon. View the official topic on iOSGods for support and discussions.",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/filzajailedds-for-ios-17.0-26.0.1.jpg",
+      "tintColor": "4A90E2",
+      "isLanZouCloud": 0,
+      "size": 14213420,
+      "type": 1
     }
   ]
 }
