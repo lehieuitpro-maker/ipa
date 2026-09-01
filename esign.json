@@ -574,16 +574,17 @@
       "name": "Bloons TD 6+",
       "bundleIdentifier": "com.ninjakiwi.bloonstd6",
       "developerName": "hieudz",
-      "version": "51.1",
-      "versionDate": "2025-11-30T02:46:15+00:00",
+      "version": "56.3",
+      "versionDate": "2026-09-01T00:07:29+00:00",
       "versionDescription": "Tiền vô hạn, Chế độ Bất tử, và Tự động Thắng mở khóa toàn bộ kiểm soát Bloons TD 6 trong Mod IPA miễn phí này, cho phép bạn bỏ qua việc kiếm kiếm và thống trị mọi bản đồ cũng như Sự kiện Boss theo ý muốn của bạn.\n\nCho dù bạn muốn thử nghiệm mọi kết hợp tháp mà không có rủi ro, vượt qua các Odyssey một cách dễ dàng, hay đơn giản là thưởng thức chiến lược mà không phải chờ đợi, hack này biến trải nghiệm phòng thủ tháp thành trò chơi sáng tạo thuần túy, không cần kiếm kiếm.\n\nHack Tính năng\n\n- Chế độ Bất tử → các tháp không bị sát thương\n- Tốc độ bắn nhanh → các tháp tấn công nhanh hơn nhiều\n- Không có Bloons Tái sinh → bloons không thể tái sinh\n- Xóa Bloons → loại bỏ ngay lập tức tất cả bloons khỏi bản đồ\n- Tự động Thắng → tự động hoàn thành các vòng\n- Đặt Vòng → nhảy đến bất kỳ vòng nào bạn chọn\n- Khởi động lại Trận đấu → đặt lại trò chơi hiện tại\n- Thêm Tiền → kiếm được tiền tệ trong trò chơi bổ sung\n- Đặt Cấp độ → điều chỉnh độ khó khi cần\n- Rương Hàng ngày Vô hạn → mở rương phần thưởng mà không giới hạn\n- Thêm Cúp (Sử dụng theo rủi ro của bạn) → tăng số lượng cúp của bạn\n- Khả năng Vô hạn → sử dụng khả năng anh hùng mà không có thời gian chờ\n- Đặt Tháp Ở bất kỳ đâu → bỏ qua các hạn chế về vị trí\n- Anh hùng Vô hạn → triển khai các đơn vị anh hùng không giới hạn\n- Nhiều Tháp Thần → đặt nhiều tháp hạng thần\n- Tiền Vô hạn → không bao giờ hết tiền\n- Tiền Khỉ Vô hạn → tiền tệ cao cấp không giới hạn\n- Sức mạnh Vô hạn → sử dụng các power-up mà không bị hạn chế\n- Mở khóa Tất cả Anh hùng → truy cập mọi nhân vật anh hùng\n- Mở khóa Tất cả Kiến thức → kích hoạt tất cả các nâng cấp kiến thức\n- Mở khóa Tất cả Tháp → sử dụng mọi loại tháp\n- Mở khóa Tất cả Nâng cấp → truy cập tất cả các nâng cấp tháp\n- Có thể Mở khóa Bản đồ (Nhấp vào bất kỳ bản đồ bị khóa nào) → mở tất cả các bản đồ ngay lập tức\n- Bỏ qua Hướng dẫn (Đặt một tháp và thoát trò chơi) → bỏ qua chuỗi giới thiệu",
-      "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/bloons-td-6-v51.1/bloons-td-6-v51.1.ipa",
+      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/bloons-td-6-v56.3-b11937-7e41de2605ab/bloons-td-6_v56.3_b11937.ipa",
       "localizedDescription": "Hack Features:   \n - God Mode   \n - Fast Fire Rate   \n - No Regen Bloons   \n - Clear Bloons   \n - Auto Win   \n - Set Round   \n - Restart Match   \n - Add Cash   \n - Set Level   \n - Unlimited Daily Chest   \n - Add Trophies (‼️Use at your own risk‼️)   \n - Infinite Ability -new   \n - Place Tower Anywhere   \n - Infinite Heroes   \n - Multiple God Towers   \n - Infinite Cash   \n - Infinite Monkey Money   \n - Infinite Powers   \n - Unlock All Heroes   \n - Unlock All Knowledges   \n - Unlock All Towers   \n - Unlock All Upgrades   \n - Can Unlock Map (Click any locked map)   \n - Bypass Tutorial (Place one tower and quit the game)",
       "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/bloons-td-6.jpg",
       "tintColor": "FF6B35",
       "isLanZouCloud": 0,
-      "size": 83919872,
-      "type": 1
+      "size": 98743791,
+      "type": 1,
+      "buildVersion": "11937"
     },
     {
       "name": "Quantumult X",
