@@ -431,11 +431,11 @@
       },
       "versions": [
         {
-          "version": "6.26",
+          "version": "6.26.1",
           "minOSVersion": "14.0",
-          "date": "2026-08-29T03:07:09+00:00",
-          "size": 111710321,
-          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/snapedit-photo-editor-ai-v6.26-b2259-bee01852271d/snapedit-photo-editor-ai_v6.26_b2259.ipa",
+          "date": "2026-09-01T01:11:34+00:00",
+          "size": 124677737,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/snapedit-photo-editor-ai-v6.26.1-b2272-71f540879445/snapedit-photo-editor-ai_v6.26.1_b2272.ipa",
           "localizedDescription": "Mở khóa các công cụ chỉnh sửa ảnh cao cấp ngay lập tức với SnapEdit: Photo Editor AI iOS Mod IPA miễn phí này, cung cấp cho bạn quyền truy cập đầy đủ vào tính năng loại bỏ đối tượng do AI hỗ trợ và các tính năng nâng cao mà không cần trả phí. Biến đổi ảnh của bạn bằng các khả năng chỉnh sửa cấp chuyên nghiệp thường yêu cầu đăng ký.\n\nHack Tính năng\n\n- CAO CẤP → tất cả các tính năng cao cấp được mở khóa"
         }
       ]
@@ -2045,6 +2045,174 @@
           "size": 135513748,
           "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/plants-vs.-zombies-2-v1002-b13.4.1-c75f5578aa7c/plants-vs.-zombies-2_v1002_b13.4.1.ipa",
           "localizedDescription": "Mở khóa tài nguyên vô hạn trong Plants vs. Zombies™ 2 với hack Mod IPA miễn phí này có tính năng gian lận có thể bật/tắt thông qua Trình đơn Mod iOSGods. Thống trị mọi cấp độ với số tiền vô hạn, đá quý, bạc hà và mặt trời trong tay bạn, tất cả có thể kiểm soát trong trò chơi chỉ bằng một lần chạm.\n\nTính năng Hack\n\n- Tiền vô hạn → chi tiêu tự do mà không giới hạn\n- Đá quý vô hạn → mở khóa nội dung cao cấp ngay lập tức\n- Bạc hà vô hạn → nâng cấp cây mà không hạn chế\n- Mặt trời vô hạn - Sẽ tăng thay vì giảm → không bao giờ hết tài nguyên"
+        }
+      ]
+    },
+    {
+      "name": "Wanderlog - Travel Planner",
+      "bundleIdentifier": "com.wanderlog.ios",
+      "developerName": "Vacation and Travel Planner App LLC",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Wanderlog is a free travel app (with an optional Pro subscription) for planning every kind of trip, including road trips and group travel: create a trip itinerary, budget costs, organize flight and hotel reservations, view places to visit on a map, and collaborate with friends. With Pro, you can also export your trip to Google Maps and link your Gmail account. After your trip, share a travel guide to inspire other travelers. - See flights, hotels, and attractions in one place (like TripIt and Tripcase) - View plans on a travel map & map your route (like Roadtrippers) - Rearrange the order of places easily by drag-and-drop - Planning a road trip? Add unlimited stops for free, optimize your route, view times & distances between places, and export places to Google Maps - Planning group travel? Invite friends and collaborate in real-time just (like Google Docs) - Automatically import reservations by forwarding emails or connecting your Gmail - Add things to do from top guides with 1 click (like Tripadvisor and Google Trips/Google Travel) - Access your trip plans offline - Add notes and links to your stops - Have your trip plans automatically sync across devices - Set budget, track expenses, and split bills with a group ------- SEE IT ON A MAP Every time you add a place to visit, it’s immediately pinned on your Google Maps-based travel map. No need to pull up different travel apps and websites to organize plans and see them on a map - you can do it all in the Wanderlog trip planner app! Plus, if you’re visiting points in order, lines will connect the different pins on the map so you can see your route (perfect for road trips!). You can also export all your places to Google Maps too. STORE PLANS OFFLINE All your plans are automatically stored offline on the Wanderlog travel planner app - especially helpful during a road trip with poor signal and international travel. GET ON THE ROAD Looking for a road trip planner? Travelers can plan their trips and stops with Wanderlog. See your route on a map, or try our route optimizer to automatically rearrange and plan your route to save travel time. See estimated times & distance traveled between places to make sure it all fits, and total time and distance traveled for a given day to make sure you’re not driving too long. Plus, you can add unlimited stops along your road trip for free. COLLABORATE WITH FRIENDS For group travel planning, add your tripmates with their email address or by sharing a link to the itinerary. Like for Google Docs, everyone can collaborate in real-time. Set permissions and choose whether people can edit or just view your travel plans. STAY ORGANIZED Access flights, hotels, and attractions in one app. Forward flight and hotel confirmation emails to import them directly into your trip plan, or connect your Gmail to automatically add them. Prefer to keep high-level plans? Make generic lists like ‘Things to do’ and ‘Restaurants’ you want to eat at. Traveling on a tight schedule and want to create a detailed itinerary? Organize your day by adding start (and end) times, perfect for keeping track of tickets and reservations. GET INSPIRATION & INFORMATION For each place, see key info like a description and picture of the place, average user ratings with links to reviews, opening hours, address, website, and phone number. Stay inspired by exploring top travel guides from the web that feature viewpoints, attractions, and restaurants, and from lists from Google Trips and Google Travel, as well as by other Wanderlog users, and add things to do from those guides to your trip plan with 1 click. CONTROL YOUR SPENDING Set a budget for yourself or a group. Take control of your spending and keep track of all expenses. For a group trip, split a bill with other people and easily calculate the cost. Keep a record of who paid for what, how much everyone owes, and settle debts between tripmates. Terms of use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/wanderlog---travel-planner.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "2.213",
+          "minOSVersion": "14.0",
+          "date": "2026-09-01T01:24:51+00:00",
+          "size": 75008493,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/wanderlog---travel-planner-v2.213-b2026072205-0b5c1fbabf78/wanderlog---travel-planner_v2.213_b2026072205.ipa",
+          "localizedDescription": "Mở khóa các tính năng Premium trong Mod IPA miễn phí này của Wanderlog, ứng dụng lập kế hoạch du lịch cho phép bạn tạo lịch trình chuyến đi chi tiết, sắp xếp chuyến bay và khách sạn, cũng như cộng tác với bạn bè trong các kế hoạch du lịch nhóm. Hack này loại bỏ tường paywall, cung cấp cho bạn quyền truy cập đầy đủ vào các tính năng Pro bao gồm xuất Google Maps và liên kết tài khoản Gmail mà không cần chi phí đăng ký.\n\nHack-Tính năng\n\n- Premium → tất cả các tính năng Pro được mở khóa"
+        }
+      ]
+    },
+    {
+      "name": "April - Oil Painting by Number",
+      "bundleIdentifier": "com.crimsonpine.april",
+      "developerName": "Crimson Pine Games",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Colour by number app that is completely unique - colour with swipes instead of taps. You are unlocking more paintings while leveling up, and we’re not hiding any tiny spots to colour from you (no magnifying glass needed!). It is all you would want out of a paint by number app and more! Besides making your painting realistic, April Coloring provides you with top-notch handcrafted free content and overall premium app quality, to help you become a more relaxed and creative person. To make sure that April Coloring brings you realistic experience and relaxation, we focused on user experience, simplicity and great community around the app! WHY USE APRIL ● We know you appreciate colouring activities and probably you are using plenty of other colouring apps. What we wanted to excite you with is a completely unique approach towards the way colouring feels. Just download the app and check it out yourself! ● We want to make things easier for you. Just tap on the palette and you will find the right spot instantly. You may also tap on any spot on the main colouring board and you will highlight all required fields to paint the colour number needed. ● Almost all content is free - unlockable while gathering more colouring experience (stars) and leveling up or collecting coins. This makes the whole experience a lot more fun! ● There is a daily content posted within the app - make sure you claim it regularly - otherwise past dailies are available only for users which subscribed! ● If you subscribe you will receive plenty of goodies - exclusive content, access to past dailies and all ads will be removed. On top you will support our team as we’re not treating April Coloring as a one-off but a long term project to innovate the colouring evergreen! ● April Coloring is highly optimized for Apple Pencil. Check all the features that you can benefit from - including pressure and angle sensitivity / double tapping and more! People all over the world are already enjoying our unique way of colouring – with over 1 000 000 paintings painted each month! Join them! If you see anything we can improve, please, let us know! New reviews and support emails are really helpful to make our app better and smarter! Contact us via april@crimsonpine.com ___________________ SUBSCRIPTION INFO By subscribing, ​you get unlimited access to all premium (marked with diamond) and locked (marked with padlock) paintings. GOOD TO KNOW ● You can subscribe to a monthly plan (starting at $9.99, billed once a month). Availability and pricing of subscription plans may vary. ● The payment will be charged to your iTunes Account when you confirm the purchase. ● The subscription automatically renews for the same price and duration period as the original plan unless canceled at least 24-hours before the end of the current period. ● Free trial automatically converts to a paid subscription unless canceled at least 24-hours before the end of the trial period. From that point onwards, subscription automatically renews unless canceled at least 24-hours before the end of the current period. ● You can cancel the subscription or the free trial anytime via the subscription setting through your iTunes account (go to your device settings and tap iTunes & App Store > Apple ID > View Apple ID > enter the password > Subscriptions > Assembly > Cancel Subscription button at the bottom). Do it at least 24 hours before the end of the free trial or subscription period to avoid being charged. Learn more: http://support.apple.com/kb/ht4098 ● Any unused portion of a free trial period will be forfeited when the user purchases an April subscription. Terms of Service: http://www.aprilcoloringapp.com/terms-of-service/ Privacy Policy: http://www.aprilcoloringapp.com/privacy-policy/",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/april---oil-painting-by-number.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "3.56.1",
+          "minOSVersion": "14.0",
+          "date": "2026-09-01T01:26:07+00:00",
+          "size": 135028768,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/april---oil-painting-by-number-v3.56.1-b357-c033782d4641/april---oil-painting-by-number_v3.56.1_b357.ipa",
+          "localizedDescription": "Mở khóa các công cụ vẽ tranh cao cấp và xu vô hạn trong April - Oil Painting by Number, một Mod IPA tô màu theo số thư giãn cho phép bạn vuốt để vẽ thay vì nhấn. Hack này loại bỏ các bức tường thanh toán để bạn có thể truy cập tất cả các bức tranh được tạo thủ công và các tính năng cao cấp mà không giới hạn, cho phép bạn tập trung vào trải nghiệm sáng tạo, thiền định khi mang các bức tranh sơn dầu vào cuộc sống.\n\nHack Tính Năng\n\n- CAO CẤP → mở khóa tất cả các công cụ vẽ tranh và nội dung cao cấp\n- Xu Vô Hạn → chi tiêu mà không hết"
+        }
+      ]
+    },
+    {
+      "name": "DayCity: Weather Clock Widget",
+      "bundleIdentifier": "jp.co.orude.daycity",
+      "developerName": "Orude Inc.",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "The World in Your Hand. DayCity is a weather clock app that lets you enjoy the world's \"now\" as living art. Decorate your Home Screen with your favorite cities, and watch them transform. The isometric cityscapes change hourly to reflect the local weather and time, adding a touch of global atmosphere right on your phone. Glimpse a Parisian sunset during your break, or wake up to a rainy morning in Tokyo. Discover a new world every day. Enrich your daily life with DayCity. 【Key Features】 ■ World Cities on Your Widget Curated world cities line up. Place beautiful isometric illustrations that reflect real-time local weather and time directly on your Home Screen. ■ Craft Your Own World Use your own words to generate a unique, personalized diorama. Link it with your current location, and watch your custom cityscape change in real-time according to your local weather and time. Transform your everyday surroundings into a special piece of art. ■ A Unique World, Every Day Sunny, rainy, snowy. Dawn, day, dusk, night. The graphics update every hour. Powered by AI generation, the scenery evolves daily—you'll never see the exact same city twice. Keep an eye out for special seasonal decorations, like on Christmas. ■ Collect the Moments \"This view is beautiful!\" Save these ephemeral moments as snapshots. Build your own collection of world scenery to look back on anytime. ■ Designed for Your Life Designed to be unobtrusive yet captivating—art meant to be displayed perfectly on your device. Bring the World Closer. Download DayCity now and find your favorite city. 【Terms of Service】 https://theday.city/terms 【Privacy Policy】 https://theday.city/privacy",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/daycity-weather-clock-widget.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "3.4.0",
+          "minOSVersion": "14.0",
+          "date": "2026-09-01T01:27:06+00:00",
+          "size": 18229286,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/daycity-weather-clock-widget-v3.4.0-b1-ac94a75ce4fd/daycity-weather-clock-widget_v3.4.0_b1.ipa",
+          "localizedDescription": "DayCity là một ứng dụng widget đồng hồ thời tiết biến màn hình chính của bạn thành những cảnh quan thành phố đẳng cấp sống động phản ánh thời tiết thực tế và giờ địa phương trên khắp những điểm đến đẹp nhất thế giới. Mod IPA miễn phí này mở khóa các tính năng cao cấp, cho phép bạn trang trí điện thoại bằng các thành phố toàn cầu được lựa chọn cẩn thận và xem chúng thay đổi hàng giờ khi bạn nhìn thấy hoàng hôn ở Paris hoặc những buổi sáng mưa ở Tokyo.\n\nHack Tính năng\n\n- Cao cấp → tất cả các tính năng cao cấp được mở khóa"
+        }
+      ]
+    },
+    {
+      "name": "GymLevels: Ranked Gym Workouts",
+      "bundleIdentifier": "com.gymstreaklabs.GymLevels",
+      "developerName": "GymStreak Ltd",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Turn your workouts into a game you can't put down. GymLevels is the fitness tracker that treats every rep like it matters — because it does. Earn XP for every set, rank up 17 individual muscle groups, unlock achievements, and watch your player level climb. Science-backed gamification meets serious workout tracking. ▸ EARN XP. LEVEL UP. Every rep, every set, every workout earns experience points. Complete workouts, hit personal records, and crush challenges to level up your player profile. The grind becomes the game. ▸ 17 MUSCLES. 16 RANKS. Each muscle group has its own rank — from Untrained all the way to Legend. You'll never skip a muscle group again when you can see exactly which ones are falling behind. Train chest, back, legs, shoulders, arms, and more with individual progression for each. ▸ CHOOSE YOUR CLASS Complete a personalised quiz and get assigned one of 6 player classes: Strength Seeker, Mass Builder, Endurance Hunter, Balance Warrior, Recovery Specialist, or Athlete Elite. Your class shapes your journey. ▸ DAILY CHALLENGES & ACHIEVEMENTS Take on daily quests, weekly missions, and epic boss challenges. Unlock achievements across four rarity tiers — Common, Rare, Epic, and Legendary — each with XP rewards that fuel your progression. ▸ STREAK SYSTEM WITH FREEZES Build your workout streak day by day. Life gets in the way? Use up to 2 streak freezes per week so a rest day doesn't break your momentum. Hit milestones at 7, 30, 100, and 365 days. ▸ SMART WORKOUT GENERATION Get personalised workouts based on your recovery state, training schedule, available equipment, and goals. The app knows which muscles need work and builds sessions around your life. ▸ EXERCISE LIBRARY WITH VIDEO GUIDES Hundreds of exercises with HD video demonstrations. Never wonder about form again. Supports weight & reps, bodyweight, duration, distance, and resistance tracking. ▸ WEIGHT TRACKER & BODY GOALS Log your body weight, track progress with charts, and see exactly how close you are to your transformation goal. Weekly check-in reminders keep you accountable. ▸ WEEKLY PROGRESS REPORTS Get a shareable weekly summary showing your workout ring, XP earned, volume lifted, personal records, streak status, and top muscle progress. Share your wins. ▸ BUILT FOR YOU Personalised onboarding covers your goals, experience, injuries, equipment, schedule, sleep, stress, and commitment level. GymLevels adapts to who you are — not the other way around. Whether you're a gamer looking to apply that drive to fitness, or someone who's tried every workout app and can't stay consistent — GymLevels turns discipline into a game worth playing. Start your journey. Choose your class. Level up IRL. —————————————————————— GYMLEVELS PRO — SUBSCRIPTION —————————————————————— All features in GymLevels require an active free trial or paid subscription. Without a subscription, access to workouts, XP tracking, muscle rankings, achievements, and all other features is not available. Payment is charged to your Apple ID at confirmation of purchase. Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscription in your Apple ID Account Settings at any time. Cancellation takes effect at the end of the current billing period. Any unused portion of a free trial will be forfeited when you purchase a subscription to that publication. Privacy Policy: https://appstorecopilot.com/legal/rptddc8y/privacy Terms of Service: https://appstorecopilot.com/legal/rptddc8y/terms",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/gymlevels-ranked-gym-workouts.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.1.12",
+          "minOSVersion": "14.0",
+          "date": "2026-09-01T01:29:07+00:00",
+          "size": 140552180,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/gymlevels-ranked-gym-workouts-v1.1.12-b41-558f7fe70ff2/gymlevels-ranked-gym-workouts_v1.1.12_b41.ipa",
+          "localizedDescription": "Premium được mở khóa trong Mod IPA miễn phí này của GymLevels: Ranked Gym Workouts, cung cấp cho bạn quyền truy cập đầy đủ vào hệ thống tập luyện được gamified của trình theo dõi thể dục mà không cần thanh toán. Kiếm XP (Kinh nghiệm) cho mỗi lần lặp lại, nâng cấp 17 nhóm cơ bắp riêng lẻ, mở khóa các thành tích, và xem mức độ người chơi của bạn tăng lên, tất cả các tính năng tiến triển được hỗ trợ bởi khoa học, hiện có sẵn để tải xuống và sử dụng miễn phí.\n\nHack Tính năng\n\n- Premium → truy cập đầy đủ vào tất cả các tính năng"
+        }
+      ]
+    },
+    {
+      "name": "Limi Cam - Retro film Camera",
+      "bundleIdentifier": "com.uzero.cn.FoJiCam",
+      "developerName": "Uzero Technology",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Multiple classic film colors, just with an iPhone. Live Photo also supported with roll films. You can adjust beauty filters, film grain intensity, and choose from a variety of attractive photo borders. Support for importing photos from the album to apply film effects, as well as using photo frames. Payment models for Premium subscription: • Monthly Subscription: $0.99 per month, • Yearly Subscription:$2.99 per year. • LifeTime : $3.99 • Payment will be charged to iTunes Account at confirmation of purchase. • Account will be charged for renewal within 24-hours prior to the end of the current subscription period. • Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. • Any unused portion of a free trial period will be forfeited when the user purchases a subscription to that publication. For Terms of Use, please visit https://uzero.cn/funforcam/limitermsuse.html For Privacy Policy, please visit https://uzero.cn/funforcam/limiprivacy.html",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/limi-cam---retro-film-camera.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.3.2",
+          "minOSVersion": "14.0",
+          "date": "2026-09-01T01:30:12+00:00",
+          "size": 49788902,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/limi-cam---retro-film-camera-v1.3.2-b60-c857a731e794/limi-cam---retro-film-camera_v1.3.2_b60.ipa",
+          "localizedDescription": "Mở khóa phiên bản cao cấp trong Limi Cam Mod IPA này cung cấp cho bạn quyền truy cập tức thì vào tất cả các màu phim cổ điển, bộ lọc làm đẹp và khung ảnh mà không cần phí đăng ký. Limi Cam là một ứng dụng máy ảnh phim retro biến đổi ảnh iPhone của bạn bằng các hiệu ứng analog chân thực, kiểm soát hạt phim và khung trang trí, hiện được sửa đổi hoàn toàn miễn phí.\n\nHack Tính năng\n\n- PHIÊN BẢN CAO CẤP → tất cả các tính năng đăng ký được mở khóa"
+        }
+      ]
+    },
+    {
+      "name": "FilzaJailedDS for iOS 17.0-26.0.1",
+      "bundleIdentifier": "com.tigisoftware.Filza",
+      "developerName": "iOSGods",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "FilzaJailedDS mở khóa quyền truy cập hệ thống tệp trên iOS 17.0-26.0.1 với Mod IPA không cần jailbreak này, nó tiêm các tweak trực tiếp vào Filza (phiên bản 4.0.0 và trước đó; phiên bản 4.0.2 có thể gây sự cố). Lưu ý: hack này sẽ không hoạt động trên các thiết bị iPhone 17 series hoặc iPad M5 do bảo vệ bộ nhớ MTE của Apple, hiện đang chặn quyền truy cập đọc/ghi kernel. . Download FilzaJailedDS for iOS 17.0-26.0.1 modded IPA from the links above. Tap the install button and follow the on-screen instructions to install this iOS app hack on your iPhone, iPad, or Apple Silicon. View the official topic on iOSGods for support and discussions.",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/filzajailedds-for-ios-17.0-26.0.1.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "4.0",
+          "minOSVersion": "14.0",
+          "date": "2026-09-01T01:31:15+00:00",
+          "size": 14213420,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/filzajailedds-for-ios-17.0-26.0.1-v4.0-b0-67bea907433b/filzajailedds-for-ios-17.0-26.0.1_v4.0_b0.ipa",
+          "localizedDescription": "FilzaJailedDS mở khóa quyền truy cập hệ thống tệp trên iOS 17.0-26.0.1 với Mod IPA không cần jailbreak này, nó tiêm các tweak trực tiếp vào Filza (phiên bản 4.0.0 và trước đó; phiên bản 4.0.2 có thể gây sự cố). Lưu ý: hack này sẽ không hoạt động trên các thiết bị iPhone 17 series hoặc iPad M5 do bảo vệ bộ nhớ MTE của Apple, hiện đang chặn quyền truy cập đọc/ghi kernel."
+        }
+      ]
+    },
+    {
+      "name": "Video Star",
+      "bundleIdentifier": "com.frontierdesign.videostar",
+      "developerName": "Frontier Design Group",
+      "subtitle": "Modified iOS application",
+      "localizedDescription": "Video Star is your #1 video editing app — there’s no other app like it! Create incredible fan edits and amazing lip-sync music videos with Video Star. There's thousands of effects to color, animate, enhance, warp, combine, and re-time clips ... creating pure magic from photos and videos. Video Star includes TONS of free features or get an All Access Pass to unlock everything, including your mad editing skills! We update Video Star regularly with new effects and features. Be sure to join our daily #VideoStarApp community challenges on Instagram and TikTok! Video Star Pro Subscription - A Pro subscription provides unlimited access to ALL current and future Power Packs in Video Star - Payment will be charged to iTunes Account at confirmation of purchase, taxes may also be included in some areas - Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period - Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase - You can read our privacy policy at: videostarapp.com/privacy.html - You can read our terms of service at: videostarapp.com/terms.html",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/video-star.jpg",
+      "tintColor": "#4A90E2",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "15.1.1",
+          "minOSVersion": "14.0",
+          "date": "2026-09-01T01:33:51+00:00",
+          "size": 549519643,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/video-star-v15.1.1-b1863-0c2c9122793b/video-star_v15.1.1_b1863.ipa",
+          "localizedDescription": "Mở khóa các tính năng chỉnh sửa cao cấp trong Video Star, một ứng dụng chỉnh sửa video iOS mạnh mẽ nơi bạn có thể tạo các video fan edit và âm nhạc với hàng nghìn hiệu ứng. Mod IPA này cấp quyền truy cập vào các công cụ cao cấp mà không cần trả tiền đăng ký, cho phép bạn tạo hoạt hình, điều chỉnh màu sắc, biến dạng và nâng cao các clip để tạo ra các video chất lượng chuyên nghiệp.\n\nHack Tính năng\n\n- Cao cấp → tất cả các tính năng trả tiền được mở khóa"
         }
       ]
     }
