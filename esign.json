@@ -1444,6 +1444,22 @@
       "isLanZouCloud": 0,
       "size": 14213420,
       "type": 1
+    },
+    {
+      "name": "Video Star",
+      "bundleIdentifier": "com.frontierdesign.videostar",
+      "developerName": "Frontier Design Group",
+      "version": "15.1.1",
+      "buildVersion": "1863",
+      "versionDate": "2026-09-01T01:33:51+00:00",
+      "versionDescription": "Mở khóa các tính năng chỉnh sửa cao cấp trong Video Star, một ứng dụng chỉnh sửa video iOS mạnh mẽ nơi bạn có thể tạo các video fan edit và âm nhạc với hàng nghìn hiệu ứng. Mod IPA này cấp quyền truy cập vào các công cụ cao cấp mà không cần trả tiền đăng ký, cho phép bạn tạo hoạt hình, điều chỉnh màu sắc, biến dạng và nâng cao các clip để tạo ra các video chất lượng chuyên nghiệp.\n\nHack Tính năng\n\n- Cao cấp → tất cả các tính năng trả tiền được mở khóa",
+      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/video-star-v15.1.1-b1863-0c2c9122793b/video-star_v15.1.1_b1863.ipa",
+      "localizedDescription": "Video Star is your #1 video editing app — there’s no other app like it! Create incredible fan edits and amazing lip-sync music videos with Video Star. There's thousands of effects to color, animate, enhance, warp, combine, and re-time clips ... creating pure magic from photos and videos. Video Star includes TONS of free features or get an All Access Pass to unlock everything, including your mad editing skills! We update Video Star regularly with new effects and features. Be sure to join our daily #VideoStarApp community challenges on Instagram and TikTok! Video Star Pro Subscription - A Pro subscription provides unlimited access to ALL current and future Power Packs in Video Star - Payment will be charged to iTunes Account at confirmation of purchase, taxes may also be included in some areas - Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period - Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase - You can read our privacy policy at: videostarapp.com/privacy.html - You can read our terms of service at: videostarapp.com/terms.html",
+      "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/video-star.jpg",
+      "tintColor": "4A90E2",
+      "isLanZouCloud": 0,
+      "size": 549519643,
+      "type": 1
     }
   ]
 }
