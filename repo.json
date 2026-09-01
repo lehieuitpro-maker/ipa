@@ -9,7 +9,7 @@
   "featuredApps": [],
   "apps": [
     {
-      "name": "YouTube",
+      "name": "MaxTube YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "hieudz",
       "subtitle": "Modified iOS application",
