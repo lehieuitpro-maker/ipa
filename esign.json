@@ -544,16 +544,17 @@
       "name": "Bloons TD 6 China",
       "bundleIdentifier": "com.xd.bloonstd",
       "developerName": "hieudz",
-      "version": "51.2",
-      "versionDate": "2025-11-30T02:42:51+00:00",
-      "versionDescription": "Bloons TD 6 China Mod IPA mở khóa toàn bộ nội dung và tài nguyên, giúp bạn tập trung xây dựng chiến thuật phòng thủ mà không phải cày cuốc.\n\nTính năng Hack\n\n- Không bao giờ chết\n- Tiền mặt không giới hạn\n- Monkey Money không giới hạn\n- Vật phẩm tiêu hao không giới hạn\n- Mở khóa toàn bộ anh hùng\n- Mở khóa toàn bộ tháp\n- Mở khóa toàn bộ nâng cấp\n- Mở khóa toàn bộ kiến thức",
-      "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/bloons-td-6-china-v51.2/bloons-td-6-china-v51.2.ipa",
+      "version": "55.2.1",
+      "versionDate": "2026-09-01T00:13:39+00:00",
+      "versionDescription": "在这款免费的 Mod IPA 破解版中获得无限资源并解锁所有内容，这是广受欢迎的塔防游戏 Bloons TD 6 China。再也不用担心死亡、现金限制或为英雄和塔楼而磨练，从一开始就掌握所有升级和知识，统治每一轮。\n\nHack Features\n\n- 永不死亡 → 在任何一轮中都能生存而不被击败\n- 现金 → 用于升级的无限货币\n- 猴子金币 → 高级货币任意使用\n- 消耗品 → 消耗品物品自由获得\n- 全英雄解锁 → 从一开始就能使用每个英雄\n- 全塔楼解锁 → 部署任何塔楼不受限制\n- 全升级解锁 → 所有塔楼升级立即可用\n- 全知识解锁 → 每个知识点都已解锁",
+      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/bloons-td-6-china-v55.2.1-b535-67d63cff66fd/bloons-td-6-china_v55.2.1_b535.ipa",
       "localizedDescription": "Hack Features:   \n - Never Die   \n - Cash    \n - Monkey Money   \n - Consumes   \n - All Heroes Unlock   \n - All Towers Unlock   \n - All Upgrades Unlock   \n - All Knowledges Unlock",
       "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/bloons-td-6-china.jpg",
       "tintColor": "FF6B35",
       "isLanZouCloud": 0,
-      "size": 1465136375,
-      "type": 1
+      "size": 1675224021,
+      "type": 1,
+      "buildVersion": "535"
     },
     {
       "name": "Mimo: Learn Coding/Programming",
