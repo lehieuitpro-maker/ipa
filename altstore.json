@@ -802,8 +802,8 @@
       "name": "Nuvio",
       "bundleIdentifier": "com.nuvio.media",
       "developerName": "tapframe",
-      "subtitle": "Được thiết kế cho mọi màn hình bạn sử dụng.",
-      "localizedDescription": "Được thiết kế cho mọi màn hình bạn sử dụng.",
+      "subtitle": "Phát trực tuyến phim và chương trình truyền hình ngay lập tức với Nuvio Mobile, một ứng dụng iOS…",
+      "localizedDescription": "Phát trực tuyến phim và chương trình truyền hình ngay lập tức với Nuvio Mobile, một ứng dụng iOS được chỉnh sửa miễn phí được xây dựng trên công nghệ Kotlin và Compose Multiplatform. IPA tùy chỉnh này kết nối với hệ sinh thái tiện ích Stremio để truy cập nội dung đa nền tảng, và hoạt động tốt nhất khi được kết hợp với dịch vụ debrid như TorBox để tối ưu hóa tốc độ phát trực tuyến. Người dùng mới có thể khám phá các tiện ích có sẵn tại https://stremio-addons.com/ để tùy chỉnh trải nghiệm của họ.\n\nĐể đăng ký dịch vụ debrid và mở khóa phát trực tuyến nhanh hơn, bạn có thể đăng ký tại đây (nhấp vào tôi)",
       "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/nuvio.png",
       "tintColor": "#4A90E2",
       "screenshots": [
@@ -819,10 +819,10 @@
         {
           "version": "0.4.13",
           "minOSVersion": "14.0",
-          "date": "2026-08-30T22:45:48+00:00",
-          "size": 51726937,
-          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/nuvio-v0.4.13-b117-1e4458b0613c/nuvio_v0.4.13_b117.ipa",
-          "localizedDescription": "Được thiết kế cho mọi màn hình bạn sử dụng.",
+          "date": "2026-09-05T01:20:59+00:00",
+          "size": 66579308,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/nuvio-v0.4.13-b117-351db1054f1b/nuvio_v0.4.13_b117.ipa",
+          "localizedDescription": "Phát trực tuyến phim và chương trình truyền hình ngay lập tức với Nuvio Mobile, một ứng dụng iOS được chỉnh sửa miễn phí được xây dựng trên công nghệ Kotlin và Compose Multiplatform.",
           "buildVersion": "117"
         }
       ]
