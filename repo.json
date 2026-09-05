@@ -806,7 +806,11 @@
       "localizedDescription": "Được thiết kế cho mọi màn hình bạn sử dụng.",
       "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/nuvio.png",
       "tintColor": "#4A90E2",
-      "screenshots": [],
+      "screenshots": [
+        "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/screenshots/com.nuvio.media/1.png",
+        "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/screenshots/com.nuvio.media/2.png",
+        "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/screenshots/com.nuvio.media/3.png"
+      ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
@@ -2851,6 +2855,15 @@
         "privacy": {}
       },
       "versions": [
+        {
+          "version": "1.3.3",
+          "minOSVersion": "14.0",
+          "date": "2026-09-05T01:10:23+00:00",
+          "size": 50404983,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/limi-cam---retro-film-camera-v1.3.3-b62-f35f0a8f53e6/limi-cam---retro-film-camera_v1.3.3_b62.ipa",
+          "localizedDescription": "Mở khóa phiên bản cao cấp trong Limi Cam Mod IPA này cung cấp cho bạn quyền truy cập tức thì vào tất cả các màu phim cổ điển, bộ lọc làm đẹp và khung ảnh mà không cần phí đăng ký.",
+          "buildVersion": "62"
+        },
         {
           "version": "1.3.2",
           "minOSVersion": "14.0",
