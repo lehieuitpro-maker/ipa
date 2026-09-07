@@ -1105,6 +1105,15 @@
       },
       "versions": [
         {
+          "version": "56.3.1",
+          "minOSVersion": "14.0",
+          "date": "2026-09-07T01:25:37+00:00",
+          "size": 1719921030,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/bloons-td-6-china-v56.3.1-b539-2b6424e7132b/bloons-td-6-china_v56.3.1_b539.ipa",
+          "localizedDescription": "Bloons TD 6 China Mod IPA mở khóa toàn bộ nội dung và tài nguyên, giúp bạn tập trung xây dựng chiến thuật phòng thủ mà không phải cày cuốc.",
+          "buildVersion": "539"
+        },
+        {
           "version": "56.3",
           "minOSVersion": "14.0",
           "date": "2026-09-01T20:49:53+00:00",
