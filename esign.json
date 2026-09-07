@@ -544,17 +544,17 @@
       "name": "Bloons TD 6 China",
       "bundleIdentifier": "com.xd.bloonstd",
       "developerName": "hieudz",
-      "version": "56.3",
-      "versionDate": "2026-09-01T20:49:53+00:00",
+      "version": "56.3.1",
+      "versionDate": "2026-09-07T01:25:37+00:00",
       "versionDescription": "Bloons TD 6 China Mod IPA mở khóa toàn bộ nội dung và tài nguyên, giúp bạn tập trung xây dựng chiến thuật phòng thủ mà không phải cày cuốc.\n\nTính năng Hack\n\n- Không bao giờ chết\n- Tiền mặt không giới hạn\n- Monkey Money không giới hạn\n- Vật phẩm tiêu hao không giới hạn\n- Mở khóa toàn bộ anh hùng\n- Mở khóa toàn bộ tháp\n- Mở khóa toàn bộ nâng cấp\n- Mở khóa toàn bộ kiến thức",
-      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/bloons-td-6-china-v56.3-b537-4d20896639cf/bloons-td-6-china_v56.3_b537.ipa",
+      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/bloons-td-6-china-v56.3.1-b539-2b6424e7132b/bloons-td-6-china_v56.3.1_b539.ipa",
       "localizedDescription": "Hack Features:   \n - Never Die   \n - Cash    \n - Monkey Money   \n - Consumes   \n - All Heroes Unlock   \n - All Towers Unlock   \n - All Upgrades Unlock   \n - All Knowledges Unlock",
       "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/bloons-td-6-china.jpg",
       "tintColor": "FF6B35",
       "isLanZouCloud": 0,
-      "size": 1719905165,
+      "size": 1719921030,
       "type": 1,
-      "buildVersion": "537"
+      "buildVersion": "539"
     },
     {
       "name": "Mimo: Learn Coding/Programming",
