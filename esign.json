@@ -1147,7 +1147,7 @@
       "developerName": "Stremio",
       "version": "2.0.7",
       "buildVersion": "22",
-      "versionDate": "2026-08-31T00:00:01+00:00",
+      "versionDate": "2026-09-08T01:09:36+00:00",
       "versionDescription": "Phát trực tuyến phim và chương trình truyền hình với Stremio Mod IPA chính thức cho iOS, được khôi phục sau khi bị xóa khỏi App Store với đầy đủ tính năng tương đương với phiên bản Android. Hack miễn phí này hỗ trợ tất cả các chức năng phát trực tuyến cốt lõi, và hoạt động tốt nhất khi kết hợp với dịch vụ debrid như TorBox để tối ưu hóa tốc độ phát lại.\n\nĐể bắt đầu, bạn có thể tìm kiếm các tiện ích bổ sung tại https://stremio-addons.com/\n\nNgười dùng mới có thể tăng tốc độ thiết lập bằng cách sử dụng Stremio Account Bootstrapper, tự động cấu hình tất cả các tiện ích bổ sung cần thiết chỉ bằng một cú nhấp chuột thay vì thêm chúng từng cái một.\n\nĐể có tốc độ phát trực tuyến nhanh hơn, hãy đăng ký tài khoản dịch vụ debrid với TorBox tại đây.",
       "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/stremio-for-ios-v2.0.7-b22-cddfe220ce1f/stremio-for-ios_v2.0.7_b22.ipa",
       "localizedDescription": "Stream movies and TV shows on iPhone and iPad with Stremio add-ons and account sync.",
