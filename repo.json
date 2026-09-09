@@ -29,6 +29,15 @@
       },
       "versions": [
         {
+          "version": "21.36.6",
+          "minOSVersion": "14.0",
+          "date": "2026-09-09T01:13:06+00:00",
+          "size": 138308375,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/maxtube-youtube-v21.36.6-b21.36.6-f5030836dd49/maxtube-youtube_v21.36.6_b21.36.6.ipa",
+          "localizedDescription": "Ứng dụng giải trí mod IPA này nâng cao YouTube với những tính năng mạnh mẽ bao gồm YouPiP, SponsorBlock, YTUHD, Return YouTube Dislikes và hỗ trợ Safari Extension.",
+          "buildVersion": "21.36.6"
+        },
+        {
           "version": "21.35.3",
           "minOSVersion": "14.0",
           "date": "2026-08-31T21:51:45+00:00",
@@ -1911,6 +1920,15 @@
         "privacy": {}
       },
       "versions": [
+        {
+          "version": "26.28",
+          "minOSVersion": "14.0",
+          "date": "2026-09-09T01:16:42+00:00",
+          "size": 438279451,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/facetune-photo-video-editor-v26.28-b10047-a4aafb1eb3dc/facetune-photo-video-editor_v26.28_b10047.ipa",
+          "localizedDescription": "Mở khóa các công cụ chỉnh sửa cao cấp trong Facetune: Photo & Video Editor iOS Mod IPA, trình chỉnh sửa ảnh và video hack cấp quyền truy cập đầy đủ vào tất cả các tính năng chỉnh sửa, định hình và tạo kiểu chuyên nghiệp mà không cần trả…",
+          "buildVersion": "10047"
+        },
         {
           "version": "26.27",
           "minOSVersion": "14.0",
