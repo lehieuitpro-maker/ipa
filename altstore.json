@@ -606,6 +606,15 @@
       },
       "versions": [
         {
+          "version": "9.10.91",
+          "minOSVersion": "14.0",
+          "date": "2026-09-10T01:13:45+00:00",
+          "size": 160715021,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/simply-piano-learn-piano-fast-v9.10.91-b27925-84a0a93c091f/simply-piano-learn-piano-fast_v9.10.91_b27925.ipa",
+          "localizedDescription": "Học piano nhanh hơn với Simply Piano: Learn Piano Fast iOS Mod IPA, một hack miễn phí mở khóa các khóa học cao cấp để giáo dục âm nhạc tăng tốc.",
+          "buildVersion": "27925"
+        },
+        {
           "version": "9.10.90",
           "minOSVersion": "14.0",
           "date": "2026-09-03T01:11:01+00:00",
@@ -886,6 +895,15 @@
         "privacy": {}
       },
       "versions": [
+        {
+          "version": "7.139.0",
+          "minOSVersion": "14.0",
+          "date": "2026-09-10T01:27:34+00:00",
+          "size": 209185919,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/duolingo-language-chess-v7.139.0-b7.139.0.11-321a37aefd3c/duolingo-language-chess_v7.139.0_b7.139.0.11.ipa",
+          "localizedDescription": "Mở khóa các tính năng cao cấp trong Mod IPA miễn phí này của Duolingo: Language & Chess, ứng dụng học ngôn ngữ phổ biến hiện có các bài học cờ vua tích hợp sẵn.",
+          "buildVersion": "7.139.0.11"
+        },
         {
           "version": "7.138.0",
           "minOSVersion": "14.0",
