@@ -607,17 +607,17 @@
       "name": "Shadowrocket",
       "bundleIdentifier": "com.liguangming.Shadowrocket",
       "developerName": "hieudz",
-      "version": "2.2.90",
-      "versionDate": "2026-08-30T01:15:44+00:00",
+      "version": "2.2.92",
+      "versionDate": "2026-09-11T01:15:01+00:00",
       "versionDescription": "Nhận các tính năng tiện ích proxy cao cấp của Shadowrocket mà không cần trả tiền, sử dụng Mod IPA miễn phí này hoạt động độc quyền với TrollStore và Chứng chỉ Apple trả phí được cấu hình với các quyền VPN và CloudKit. Chụp và chuyển hướng lưu lượng HTTP, HTTPS và TCP từ bất kỳ ứng dụng nào trên thiết bị của bạn, ghi lại các yêu cầu DNS, cấu hình các quy tắc nâng cao theo tên miền hoặc phạm vi IP, đo tốc độ mạng, chặn quảng cáo, giải mã lưu lượng HTTPS và thực hiện viết lại URL, tất cả các công cụ của phiên bản trả phí, giờ đây đã được mở khóa.",
-      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/shadowrocket-v2.2.90-b3378-a15f490951a9/shadowrocket_v2.2.90_b3378.ipa",
+      "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/shadowrocket-v2.2.92-b3445-2d4357261455/shadowrocket_v2.2.92_b3445.ipa",
       "localizedDescription": "Modified iOS application",
       "iconURL": "https://raw.githubusercontent.com/lehieuitpro-maker/ipa/main/icon/shadowrocket.jpg",
       "tintColor": "FF6B35",
       "isLanZouCloud": 0,
-      "size": 22981489,
+      "size": 23595262,
       "type": 1,
-      "buildVersion": "3378"
+      "buildVersion": "3445"
     },
     {
       "name": "SoundCloud: The Music You Love",
