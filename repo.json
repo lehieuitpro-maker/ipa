@@ -2228,6 +2228,15 @@
       },
       "versions": [
         {
+          "version": "14.1.1",
+          "minOSVersion": "14.0",
+          "date": "2026-09-12T01:08:39+00:00",
+          "size": 87144090,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/ibis-paint-x-v14.1.1-b14.1.1.60-af9ec606d903/ibis-paint-x_v14.1.1_b14.1.1.60.ipa",
+          "localizedDescription": "Tạo những tác phẩm nghệ thuật kỹ thuật số tuyệt đẹp với ibis Paint X Mod IPA, mở khóa các tính năng cao cấp để có tự do sáng tạo không giới hạn.",
+          "buildVersion": "14.1.1.60"
+        },
+        {
           "version": "14.1.0",
           "minOSVersion": "14.0",
           "date": "2026-09-08T01:25:59+00:00",
