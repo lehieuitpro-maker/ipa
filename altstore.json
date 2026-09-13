@@ -565,6 +565,15 @@
       },
       "versions": [
         {
+          "version": "6.27.1",
+          "minOSVersion": "14.0",
+          "date": "2026-09-13T01:09:26+00:00",
+          "size": 127790789,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/snapedit-photo-editor-ai-v6.27.1-b2295-b557c6081ad2/snapedit-photo-editor-ai_v6.27.1_b2295.ipa",
+          "localizedDescription": "Mở khóa các công cụ chỉnh sửa ảnh cao cấp ngay lập tức với SnapEdit: Photo Editor AI iOS Mod IPA miễn phí này, cung cấp cho bạn quyền truy cập đầy đủ vào tính năng loại bỏ đối tượng do AI hỗ trợ và các tính năng nâng cao mà không cần trả…",
+          "buildVersion": "2295"
+        },
+        {
           "version": "6.27",
           "minOSVersion": "14.0",
           "date": "2026-09-08T01:14:07+00:00",
