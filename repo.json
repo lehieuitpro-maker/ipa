@@ -669,6 +669,15 @@
       },
       "versions": [
         {
+          "version": "11.5.30",
+          "minOSVersion": "14.0",
+          "date": "2026-09-15T01:14:01+00:00",
+          "size": 210493214,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/lightroom-ai-photo-editor-v11.5.30-b11.5.30.256-cbc76c0a80b1/lightroom-ai-photo-editor_v11.5.30_b11.5.30.256.ipa",
+          "localizedDescription": "Mở khóa tất cả các công cụ chỉnh sửa cao cấp trong Adobe Lightroom Photo & Video Editor với Mod IPA được sửa đổi này, cung cấp cho bạn quyền truy cập tức thời vào các bộ lọc nâng cao, điều chỉnh được hỗ trợ bởi AI và các tính năng cấp…",
+          "buildVersion": "11.5.30.256"
+        },
+        {
           "version": "11.5.21",
           "minOSVersion": "14.0",
           "date": "2026-09-08T01:17:27+00:00",
@@ -714,9 +723,9 @@
         {
           "version": "1.138.1",
           "minOSVersion": "14.0",
-          "date": "2026-09-03T23:04:56+00:00",
-          "size": 819973050,
-          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/toca-boca-world-game-play-v1.138.1-b113091-9879b53dd70c/toca-boca-world-game-play_v1.138.1_b113091.ipa",
+          "date": "2026-09-15T01:17:18+00:00",
+          "size": 819884263,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/toca-boca-world-game-play-v1.138.1-b113091-decff1e759e0/toca-boca-world-game-play_v1.138.1_b113091.ipa",
           "localizedDescription": "Everything Purchased mở khóa tất cả bản đồ, nhà cửa, đồ nội thất và quần áo trong Mod IPA sáng tạo này, cho phép bạn xây dựng và tùy chỉnh thế giới của mình ngay lập tức trong Toca Boca World.",
           "buildVersion": "113091"
         }
@@ -2356,6 +2365,15 @@
       },
       "versions": [
         {
+          "version": "2026.7.0",
+          "minOSVersion": "14.0",
+          "date": "2026-09-15T01:22:35+00:00",
+          "size": 563408651,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/paw-patrol-rescue-world-v2026.7.0-b8996.24442-e97db24baa42/paw-patrol-rescue-world_v2026.7.0_b8996.24442.ipa",
+          "localizedDescription": "Mở khóa các tính năng cao cấp trong PAW Patrol Rescue World, một ứng dụng iOS được chỉnh sửa cho phép trẻ em chơi với những chú chó yêu thích của mình mà không có hạn chế mua trong ứng dụng.",
+          "buildVersion": "8996.24442"
+        },
+        {
           "version": "2026.6.0",
           "minOSVersion": "14.0",
           "date": "2026-08-30T23:49:26+00:00",
@@ -2447,6 +2465,15 @@
         "privacy": {}
       },
       "versions": [
+        {
+          "version": "2.0.8",
+          "minOSVersion": "14.0",
+          "date": "2026-09-15T01:11:18+00:00",
+          "size": 78506200,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/stremio-for-ios-v2.0.8-b23-a98c31059825/stremio-for-ios_v2.0.8_b23.ipa",
+          "localizedDescription": "Phát trực tuyến phim và chương trình truyền hình với Stremio Mod IPA chính thức cho iOS, được khôi phục sau khi bị xóa khỏi App Store với đầy đủ tính năng tương đương với phiên bản Android.",
+          "buildVersion": "23"
+        },
         {
           "version": "2.0.7",
           "minOSVersion": "14.0",
