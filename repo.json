@@ -615,6 +615,15 @@
       },
       "versions": [
         {
+          "version": "9.10.93",
+          "minOSVersion": "14.0",
+          "date": "2026-09-16T01:13:10+00:00",
+          "size": 160173259,
+          "downloadURL": "https://github.com/lehieuitpro-maker/ipa/releases/download/simply-piano-learn-piano-fast-v9.10.93-b27928-aa1ee79a2033/simply-piano-learn-piano-fast_v9.10.93_b27928.ipa",
+          "localizedDescription": "Học piano nhanh hơn với Simply Piano: Learn Piano Fast iOS Mod IPA, một hack miễn phí mở khóa các khóa học cao cấp để giáo dục âm nhạc tăng tốc.",
+          "buildVersion": "27928"
+        },
+        {
           "version": "9.10.92",
           "minOSVersion": "14.0",
           "date": "2026-09-11T01:10:17+00:00",
